@@ -62,7 +62,6 @@ Our output dataset will contain the following columns:
 | median income (area level)             | area-level income                                                                                                | Numeric     |                                | census/acs     |
 | household_size                         | Number of people in the applicant's household                                                                    | Numeric     |                                | census/acs     |
 | registered_voter_perc                  | Percent registered voters                                                                                        | Numeric     |                                | joan has data? |
-|----------------------------------------|------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------|----------------|
 
 
 
