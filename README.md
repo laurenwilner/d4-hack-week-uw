@@ -11,7 +11,7 @@ This is a repository for UW to work on a project for CSDE/NOAA hosted D4 hack we
 
 Specifically, this team will study the following: 
 
-**Study years**: 2000-2024
+**Study years**: 2000-2023
 
 **Study setting**: California
 
@@ -33,28 +33,36 @@ We will do this using the following data sources:
 
 
 Our output dataset will contain the following columns: 
-| Variable Name                          | Description                                                                                                      | Type        | Example Values                 |
-|----------------------------------------|------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------|
-| year                                   | Year of the wildfire disaster or co-occurring disaster event                                                     | Integer     | 2000, 2024                     |
-| zcta                                   | ZIP code tabulation area for California (TEAM: is this the geo res we want?)                                     | String      | 06037 (Los Angeles County)     |
-| applicant_id                           | Unique identifier for each FEMA applicant                                                                        | String      | A123456789                     |
-| disaster_type                          | Type of disaster event (e.g., wildfire, wildfire with extreme heat)                                              | String      | "Wildfire", "Wildfire + Heat"  |
-| owner_vs_renter                        | Housing status of the applicant                                                                                  | Categorical | "Owner", "Renter"              |
-| disaster_preparedness_level            | Self-reported level of disaster preparedness                                                                     | Categorical | "Low", "Moderate", "High"      |
-| medical_equipment_dependence           | Indicator if the applicant relies on electrical medical equipment                                                | Boolean     | True, False                    |
-| neighborhood_poverty_rate              | Poverty rate of the neighborhood where the applicant resides                                                     | Numeric     |                                |
-| fema_assistance_application_status     | Status of FEMA assistance application (e.g., approved, denied)                                                   | Categorical | "Approved", "Denied"           |
-| fema_aid_amount                        | Amount of FEMA aid received by the applicant                                                                     | Numeric     |                                |
-| co_occurring_disaster_indicator  | Indicator for whether the wildfire disaster co-occurred with another extreme event (e.g., extreme heat) (using PRISM??)| Boolean     | True, False                    |
-| aid_receipt_by_disaster_type           | Variable to capture if factors associated with receiving aid differ by disaster type (TEAM: HOW??)               | Categorical | TBD                            |
-| applicant_age                          | Age of the applicant                                                                                             | Integer     |                                |
-| applicant_gender                       | Gender of the applicant                                                                                          | Categorical |                                |
-| household_income                       | Household income of the applicant                                                                                | Numeric     |                                |
-| zip_code                               | ZIP code of the applicant's residence                                                                            | String      |                                |
-| census_tract                           | Census tract of the applicant's residence                                                                        | String      |                                |
-| education_level                        | Highest education level attained by the applicant                                                                | Categorical |                                |
-| household_size                         | Number of people in the applicant's household                                                                    | Integer     |                                |
-| insurance_status                       | Insurance status of the applicant                                                                                | Categorical |                                |
-| insurance_coverage                     | Type of insurance coverage the applicant has (e.g., homeowners, renters)                                         | Categorical |                                |
-| environmental_exposure_index           | Index measure of the applicant's exposure to environmental hazards                                               | Numeric     |                                |
-| aid_status                             | Status of any appeal the applicant made regarding FEMA aid                                                 | Categorical | "Approved (aid > $0)", "Not Approved"|
+| Variable Name                          | Description                                                                                                      | Type        | Example Values                 | Dataset        |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------|----------------|
+| year (PRIMARY KEY)                     | Year of the wildfire disaster or co-occurring disaster event                                                     | Numeric     | 2000, 2024                     | all            | 
+| zcta (PRIMARY KEY)                     | ZIP code tabulation area for California                                                                          | String      | 06037 (Los Angeles County)     | all            |
+| wf_history                             | Has this area experienced a wildfire within the last X years?                                                    | String      |                                | wf data        |
+| fire_var2                              | TBD                                                                                                              | String      |                                | wf data        |
+| fire_var3                              | TBD                                                                                                              | String      |                                | wf data        |
+| fire_var4                              | TBD                                                                                                              | String      |                                | wf data        |
+| applicant_id                           | Unique identifier for each FEMA applicant                                                                        | String      | A123456789                     | fema           |
+| disaster_number                        | Unique identifier for each FEMA declared disaster                                                                | String      | 123456789                      | fema           |
+| disaster_type                          | Type of disaster event (e.g., wildfire, wildfire with extreme heat)                                              | String      | "Wildfire", "Wildfire + Heat"  | fema           |
+| owner_vs_renter                        | Housing status of the applicant                                                                                  | Categorical | "Owner", "Renter"              | fema           |
+| insurance_coverage                     | Type of insurance coverage the applicant has (e.g., homeowners, renters)                                         | Categorical |                                | fema           |
+| medical_equipment_dependence           | Indicator if the applicant relies on electrical medical equipment                                                | Boolean     | True, False                    | fema           |
+| fema_assistance_application_status     | Status of FEMA assistance application (e.g., approved, denied)                                                   | Categorical | "Approved", "Denied"           | fema           |
+| fema_aid_amount                        | Amount of FEMA aid received by the applicant                                                                     | Numeric     |                                | fema           |
+| disaster_preparedness_level            | Self-reported level of disaster preparedness                                                                     | Categorical | "Low", "Moderate", "High"      | fema_survey    |
+| co_occurring_disaster_indicator  | Indicator for whether the wildfire disaster co-occurred with another extreme event (e.g., extreme heat) (using PRISM??)| Boolean     | True, False                    | prism          |
+| household_ages                         | Ages of household members                                                                                        | Numeric     |                                | census/acs     |
+| household_income                       | Household income of the applicant                                                                                | Numeric     |                                | census/acs     |
+| health_insurance                       | area-level health insurance coverage level                                                                       | Numeric     |                                | census/acs     |
+| education                              | area-level education                                                                                             | Numeric     |                                | census/acs     |
+| poverty                                | area-level poverty                                                                                               | Categorical |                                | census/acs     |
+| race_ethnicity                         | area-level race/ethnicity                                                                                        | Categorical |                                | census/acs     |
+| migration (name tbd)                   | area-level migration                                                                                             | Categorical |                                | census/acs     |
+| linguistic isolation                   | area-level linguistic isolation                                                                                  | Categorical |                                | census/acs     |
+| median income (area level)             | area-level income                                                                                                | Numeric     |                                | census/acs     |
+| household_size                         | Number of people in the applicant's household                                                                    | Numeric     |                                | census/acs     |
+| registered_voter_perc                  | Percent registered voters                                                                                        | Numeric     |                                | joan has data? |
+|----------------------------------------|------------------------------------------------------------------------------------------------------------------|-------------|--------------------------------|----------------|
+
+
+
