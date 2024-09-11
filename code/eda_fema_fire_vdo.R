@@ -12,6 +12,9 @@ library(ggplot2)
 library(readr)
 library(lubridate)
 
+# Set notation to be long
+options(scipen = 999)
+
 # Load d# Load d# Load data -----------------------
 wf_fema_dta <- read_csv(here("project_code", "data", "interim", "wf_fema_dta.csv"))
 
@@ -81,10 +84,10 @@ wf_fema_dta %>%
   complete(year, householdComposition, fill = list(n = 0)) %>% 
   ggplot(aes(x = year, y = n, fill = householdComposition)) +
   geom_bar(stat = "identity", position = "dodge") +
-  labs(title = "Owner vs Renter per Year",
+  labs(title = "Household composition",
        x = "Year",
        y = "Number of Claims",
-       fill = "Owner vs Renter") +
+       fill = "Household composition") +
   scale_x_continuous(breaks = seq(min(wf_fema_dta$year), max(wf_fema_dta$year), by = 1)) +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5))
@@ -92,6 +95,44 @@ wf_fema_dta %>%
 ###### grossIncome -----------------------
 table(wf_fema_dta$grossIncome, useNA = "always")
 
+# present the above data in a barplot by year, displaying all years on x axis
+desired_order <- c("0-25K", "25K-50K", "50K-75K", "75K-100K", "100K-150K", "150K-200K", "200K-250K", "250K-500K", "500K-1M", "1M+")
+
+# Group and summarize the data
+income_summary <- wf_fema_dta %>%
+  group_by(year, grossIncome) %>%
+  summarise(n = n(), .groups = 'drop') %>%
+  complete(year, grossIncome, fill = list(n = 0))
+
+# Plot the data
+ggplot(income_summary, aes(x = year, y = n, fill = grossIncome)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(title = "Gross Income Distribution by Year",
+       x = "Year",
+       y = "Number of Claims",
+       fill = "Gross Income") +
+  scale_x_continuous(breaks = seq(min(wf_fema_dta$year, na.rm = TRUE), max(wf_fema_dta$year, na.rm = TRUE), by = 1)) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5))
+
+###### residenceType -----------------------
+table(wf_fema_dta$residenceType, useNA = "always")
+
+wf_fema_dta %>% 
+  group_by(year, residenceType) %>% 
+  summarise(n = n()) %>% 
+  ggplot(aes(x = year, y = n, fill = residenceType)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(title = "Residence type",
+       x = "Year",
+       y = "Residence type",
+       fill = "Residence type") +
+  scale_x_continuous(breaks = seq(min(wf_fema_dta$year), max(wf_fema_dta$year), by = 1)) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust = 0.5))
+
+###### rpfvl (FEMA-determined value of disaster damage) -----------------------
+summary(wf_fema_dta$rpfvl, useNA = "always")
 
 
 
