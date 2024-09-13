@@ -45,10 +45,10 @@ census_vars_2020 <- census_vars_2020_dhc %>%
   bind_rows(census_vars_2020_dp)
 
 # looking for specific variables
-census_vars_2010 %>%
+census_vars_2000 %>%
   ## Filter down to concepts containing the string
   ## "GEOGRAPHICAL MOBILITY"
-  filter(grepl("EDUCATIONAL ATTAINMENT FOR THE POPULATION 25 YEARS AND OVER", concept)) %>% 
+  filter(grepl("EDUCATIONAL ATTAINMENT", concept)) %>% 
   select(concept) %>% 
   ## Remeber concepts cover many variables, 
   ## so we just need to see the unique values to find 
@@ -82,6 +82,7 @@ census_vars_2010 %>%
       # H00400: total # of households owned with mortgage
       # H004001: total # of households owned free and clear
       # H004001: total # of households renting
+    # Number of adults
 
 
 
@@ -128,7 +129,7 @@ tenure_df <- tenure_df %>%
             by = c("variable" = "name")) %>%
   st_drop_geometry() %>%
   pivot_wider(id_cols = c(zcta), names_from = label, values_from = value) %>%
-  mutate(pct_homes_renter_occupied = `Total!!Renter occupied` / Total) %>%
+  mutate(pct_homes_renter_occupied = (`Total!!Renter occupied` / Total)*100) %>%
   rename(num_houses = Total) %>%
   select(zcta, num_houses, pct_homes_renter_occupied) 
 
@@ -161,7 +162,8 @@ race_eth_df <- race_eth_df %>%
          pct_race_eth_multiple = `Total!!Not Hispanic or Latino!!Two or More Races` / Total,
          pct_race_eth_hispanic = `Total!!Hispanic or Latino` / Total) %>%
   rename(total_persons = Total) %>%
-  select(zcta, total_persons, pct_race_eth_white:pct_race_eth_hispanic)
+  select(zcta, total_persons, pct_race_eth_white:pct_race_eth_hispanic) %>%
+  mutate(across(pct_race_eth_white:pct_race_eth_hispanic, ~ .*100))
 
 
 ## Rurality
@@ -181,14 +183,36 @@ rural_df <- rural_df %>%
               select(name, label), 
             by = c("variable" = "name")) %>%
   pivot_wider(id_cols = zcta, names_from = label, values_from = value) %>%
-  mutate(pct_living_rural = `Total!!Rural` / Total) %>%
+  mutate(pct_living_rural = (`Total!!Rural` / Total)*100) %>%
   select(zcta, pct_living_rural)
-  
-  
+
+
+# getting number of adults per zcta
+adult_df <- get_decennial(
+  geography = "zcta",
+  table = "P012", 
+  state = "CA",
+  year = 2010,
+  geometry = FALSE
+)
+
+adult_df <- adult_df %>%
+  mutate(zcta = as.numeric(GEOID) - 600000) %>%
+  select(zcta, variable, value) %>%
+  left_join(census_vars_2010 %>%
+              select(name, label), 
+            by = c("variable" = "name")) %>%
+  pivot_wider(id_cols = zcta, names_from = label, values_from = value) %>%
+  mutate(total_adults = rowSums(across(c(`Total!!Male!!18 and 19 years`:`Total!!Male!!85 years and over`, 
+                                       `Total!!Female!!18 and 19 years`:`Total!!Female!!85 years and over`)))) %>%
+  rename(total_persons = Total) %>%
+  select(zcta, total_adults)
+
 ## Combining all 2010 census variables
 census_2010 <- tenure_df %>%
   full_join(race_eth_df, by="zcta") %>%
   full_join(rural_df, by="zcta") %>%
+  full_join(adult_df, by="zcta") %>%
   mutate(year = 2010,
          source = "Census")
 
@@ -199,28 +223,89 @@ save(census_2010, file = here("data", "02_processed", "census_2010.RData") %>% s
 
 
 ###########################
-## 2020 Census Variables ##
+## 2000 Census Variables ##
 ###########################
 
 
-## Race/ethnicity
+## Income: median income, % below the poverty line
 # downloading data
-race_eth_df <- get_decennial(
+income_df <- get_decennial(
   geography = "zcta",
-  #variables = "P131002",
-  table = "P005", 
+  variables = c("P053001", "P087001", "P087002"),
   state = "CA",
-  year = 2020,
+  year = 2000,
   geometry = FALSE
 )
 
+income_df <- income_df %>%
+  mutate(zcta = as.numeric(GEOID) - 600000) %>%
+  select(zcta, variable, value) %>%
+  filter(!is.na(zcta)) %>%          # some ZCTAs are not 5 digit numbers, most of these are missing hh income (equal to)
+  left_join(census_vars_2000 %>%
+              select(name, label), 
+            by = c("variable" = "name")) %>%
+  pivot_wider(id_cols = c(zcta), names_from = label, values_from = value) %>%
+  mutate(pct_ind_below_poverty = (`Total!!Income in 1999 below poverty level` / Total)*100) %>%
+  rename(med_income = `Median household income in 1999`) %>%
+  select(zcta, med_income, pct_ind_below_poverty) 
+
+
+# Employment: % employed
+employment_df <- get_decennial(
+  geography = "zcta",
+  variables = c("P043005", "P043007", "P043012", "P043014"),
+  state = "CA",
+  year = 2000,
+  geometry = FALSE
+)
+
+employment_df <- employment_df %>%
+  mutate(zcta = as.numeric(GEOID) - 600000) %>%
+  select(zcta, variable, value) %>%
+  filter(!is.na(zcta)) %>%          # some ZCTAs are not 5 digit numbers, most of these are missing hh income (equal to)
+  left_join(census_vars_2000 %>%
+              select(name, label), 
+            by = c("variable" = "name")) %>%
+  pivot_wider(id_cols = c(zcta), names_from = label, values_from = value) %>%
+  mutate(total_in_labor_force = `Total!!Male!!In labor force!!Civilian` + `Total!!Female!!In labor force!!Civilian`,
+         total_unemployed = `Total!!Male!!In labor force!!Civilian!!Unemployed` + `Total!!Female!!In labor force!!Civilian!!Unemployed`,
+         pct_unemployed = (total_unemployed / total_in_labor_force)*100) %>%
+  select(zcta, pct_unemployed) 
+
+
+
+# Education: 
+
+x <- data.frame(37001:37035)
+x <- x %>%
+  mutate(across(x, ~ past0("P0", .)))
+
+education_df <- get_decennial(
+  geography = "zcta",
+  variables = c("P037001", ),
+  state = "CA",
+  year = 2000,
+  geometry = FALSE
+)
+
+education_df <- education_df %>%
+  mutate(zcta = as.numeric(GEOID) - 600000) %>%
+  select(zcta, variable, value) %>%
+  filter(!is.na(zcta)) %>%          # some ZCTAs are not 5 digit numbers, most of these are missing hh income (equal to)
+  left_join(census_vars_2000 %>%
+              select(name, label), 
+            by = c("variable" = "name")) %>%
+  pivot_wider(id_cols = c(zcta), names_from = label, values_from = value) %>%
+  mutate(total_in_labor_force = `Total!!Male!!In labor force!!Civilian` + `Total!!Female!!In labor force!!Civilian`,
+         total_unemployed = `Total!!Male!!In labor force!!Civilian!!Unemployed` + `Total!!Female!!In labor force!!Civilian!!Unemployed`,
+         pct_unemployed = (total_unemployed / total_in_labor_force)*100) %>%
+  select(zcta, pct_unemployed) 
 
 
 
 
 
-map_check <- geo_df %>%
-  left_join(tenure_df, by = "zcta")
+
 
 
 
