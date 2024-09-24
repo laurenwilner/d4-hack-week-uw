@@ -2,16 +2,20 @@ library(ggplot2)
 library(dplyr)
 library(tidyr)#pivot_longer
 library(scales)
+library(here)
 
 
-setwd("H:/Shared drives/Papers 2024/D4 Hack")
+#setwd("H:/Shared drives/Papers 2024/D4 Hack")
+
 ca_shape_w_suc_claims=read.csv("./Data/FEMA/ca_shape_w_suc_claims.csv")
+ca_shape_w_suc_claims=read.csv(here("data", "02_processed", "ca_shape_w_suc_claims.csv"))
 
 Check=ca_shape_w_suc_claims[ca_shape_w_suc_claims$ZCTA5CE10==95969,]
 Check$i_claim_suc
 
 
 voter=read.csv("./Data/Census/ces_vars.csv")
+voter=read.csv(here("data", "02_processed", "ces_vars.csv"))
 voter
 voter$ZIP
 
@@ -61,6 +65,7 @@ FEMA$suc_quantile
 FEMA$ZCTA5CE10
 
 SES = read.csv("./Data/ACS/SES variables ACS.csv")
+SES = read.csv(here("data", "02_processed", "SES variables ACS.csv"))
 any(is.na(FEMA$suc_quantile))
 SES$ZCTA
 SES$SusQuantile=FEMA$suc_quantile[match(SES$ZCTA,FEMA$ZCTA5CE10)]
@@ -223,5 +228,11 @@ theme(
   strip.text = element_text(size = 12)  # Increase the facet label size to 14
 )
 P4
+
+
+
+
+
+
 
 

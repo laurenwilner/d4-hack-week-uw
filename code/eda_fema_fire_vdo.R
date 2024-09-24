@@ -11,12 +11,15 @@ library(vroom)
 library(ggplot2)
 library(readr)
 library(lubridate)
+library(arrow)
 
 # Set notation to be long
 options(scipen = 999)
 
 # Load d# Load d# Load data -----------------------
 wf_fema_dta <- read_csv(here("project_code", "data", "interim", "wf_fema_dta.csv"))
+
+wf_fema_dta <- read_parquet(here("data", "01_raw", "wf_fema_dta.parquet"))
 
 # Prep data -----------------------
 wf_fema_dta <- wf_fema_dta %>% 
