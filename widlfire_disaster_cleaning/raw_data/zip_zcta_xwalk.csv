@@ -1,0 +1,2590 @@
+zip_code,po_name,state,zip_type,zcta,zip_join_type
+90001,Los Angeles,CA,Zip Code Area,90001,Zip Matches ZCTA
+90002,Los Angeles,CA,Zip Code Area,90002,Zip Matches ZCTA
+90003,Los Angeles,CA,Zip Code Area,90003,Zip Matches ZCTA
+90004,Los Angeles,CA,Zip Code Area,90004,Zip Matches ZCTA
+90005,Los Angeles,CA,Zip Code Area,90005,Zip Matches ZCTA
+90006,Los Angeles,CA,Zip Code Area,90006,Zip Matches ZCTA
+90007,Los Angeles,CA,Zip Code Area,90007,Zip Matches ZCTA
+90008,Los Angeles,CA,Zip Code Area,90008,Zip Matches ZCTA
+90009,Los Angeles,CA,Post Office or large volume customer,90045,Spatial join to ZCTA
+90010,Los Angeles,CA,Post Office or large volume customer,90010,Zip Matches ZCTA
+90011,Los Angeles,CA,Zip Code Area,90011,Zip Matches ZCTA
+90012,Los Angeles,CA,Zip Code Area,90012,Zip Matches ZCTA
+90013,Los Angeles,CA,Zip Code Area,90013,Zip Matches ZCTA
+90014,Los Angeles,CA,Zip Code Area,90014,Zip Matches ZCTA
+90015,Los Angeles,CA,Zip Code Area,90015,Zip Matches ZCTA
+90016,Los Angeles,CA,Zip Code Area,90016,Zip Matches ZCTA
+90017,Los Angeles,CA,Zip Code Area,90017,Zip Matches ZCTA
+90018,Los Angeles,CA,Zip Code Area,90018,Zip Matches ZCTA
+90019,Los Angeles,CA,Zip Code Area,90019,Zip Matches ZCTA
+90020,Los Angeles,CA,Zip Code Area,90020,Zip Matches ZCTA
+90021,Los Angeles,CA,Zip Code Area,90021,Zip Matches ZCTA
+90022,Los Angeles,CA,Zip Code Area,90022,Zip Matches ZCTA
+90023,Los Angeles,CA,Zip Code Area,90023,Zip Matches ZCTA
+90024,Los Angeles,CA,Zip Code Area,90024,Zip Matches ZCTA
+90025,Los Angeles,CA,Zip Code Area,90025,Zip Matches ZCTA
+90026,Los Angeles,CA,Zip Code Area,90026,Zip Matches ZCTA
+90027,Los Angeles,CA,Zip Code Area,90027,Zip Matches ZCTA
+90028,Los Angeles,CA,Zip Code Area,90028,Zip Matches ZCTA
+90029,Los Angeles,CA,Zip Code Area,90029,Zip Matches ZCTA
+90030,Los Angeles,CA,Post Office or large volume customer,90001,Spatial join to ZCTA
+90031,Los Angeles,CA,Zip Code Area,90031,Zip Matches ZCTA
+90032,Los Angeles,CA,Zip Code Area,90032,Zip Matches ZCTA
+90033,Los Angeles,CA,Zip Code Area,90033,Zip Matches ZCTA
+90034,Los Angeles,CA,Zip Code Area,90034,Zip Matches ZCTA
+90035,Los Angeles,CA,Zip Code Area,90035,Zip Matches ZCTA
+90036,Los Angeles,CA,Zip Code Area,90036,Zip Matches ZCTA
+90037,Los Angeles,CA,Zip Code Area,90037,Zip Matches ZCTA
+90038,Los Angeles,CA,Zip Code Area,90038,Zip Matches ZCTA
+90039,Los Angeles,CA,Zip Code Area,90039,Zip Matches ZCTA
+90040,Los Angeles,CA,Zip Code Area,90040,Zip Matches ZCTA
+90041,Los Angeles,CA,Zip Code Area,90041,Zip Matches ZCTA
+90042,Los Angeles,CA,Zip Code Area,90042,Zip Matches ZCTA
+90043,Los Angeles,CA,Zip Code Area,90043,Zip Matches ZCTA
+90044,Los Angeles,CA,Zip Code Area,90044,Zip Matches ZCTA
+90045,Los Angeles,CA,Zip Code Area,90045,Zip Matches ZCTA
+90046,Los Angeles,CA,Zip Code Area,90046,Zip Matches ZCTA
+90047,Los Angeles,CA,Zip Code Area,90047,Zip Matches ZCTA
+90048,Los Angeles,CA,Zip Code Area,90048,Zip Matches ZCTA
+90049,Los Angeles,CA,Zip Code Area,90049,Zip Matches ZCTA
+90050,Los Angeles,CA,Post Office or large volume customer,90042,Spatial join to ZCTA
+90051,Los Angeles,CA,Post Office or large volume customer,90001,Spatial join to ZCTA
+90052,Los Angeles,CA,Post Office or large volume customer,90001,Spatial join to ZCTA
+90053,Los Angeles,CA,Post Office or large volume customer,90012,Spatial join to ZCTA
+90054,Los Angeles,CA,Post Office or large volume customer,90001,Spatial join to ZCTA
+90055,Los Angeles,CA,Post Office or large volume customer,90015,Spatial join to ZCTA
+90056,Los Angeles,CA,Zip Code Area,90056,Zip Matches ZCTA
+90057,Los Angeles,CA,Zip Code Area,90057,Zip Matches ZCTA
+90058,Los Angeles,CA,Zip Code Area,90058,Zip Matches ZCTA
+90059,Los Angeles,CA,Zip Code Area,90059,Zip Matches ZCTA
+90060,Los Angeles,CA,Post Office or large volume customer,90001,Spatial join to ZCTA
+90061,Los Angeles,CA,Zip Code Area,90061,Zip Matches ZCTA
+90062,Los Angeles,CA,Zip Code Area,90062,Zip Matches ZCTA
+90063,Los Angeles,CA,Zip Code Area,90063,Zip Matches ZCTA
+90064,Los Angeles,CA,Zip Code Area,90064,Zip Matches ZCTA
+90065,Los Angeles,CA,Zip Code Area,90065,Zip Matches ZCTA
+90066,Los Angeles,CA,Zip Code Area,90066,Zip Matches ZCTA
+90067,Los Angeles,CA,Zip Code Area,90067,Zip Matches ZCTA
+90068,Los Angeles,CA,Zip Code Area,90068,Zip Matches ZCTA
+90069,West Hollywood,CA,Zip Code Area,90069,Zip Matches ZCTA
+90070,Los Angeles,CA,Post Office or large volume customer,90020,Spatial join to ZCTA
+90071,Los Angeles,CA,Zip Code Area,90071,Zip Matches ZCTA
+90072,Los Angeles,CA,Post Office or large volume customer,90027,Spatial join to ZCTA
+90073,Los Angeles,CA,Zip Code Area,90073,Zip Matches ZCTA
+90074,Los Angeles,CA,Post Office or large volume customer,90071,Spatial join to ZCTA
+90075,Los Angeles,CA,Post Office or large volume customer,90020,Spatial join to ZCTA
+90076,Los Angeles,CA,Post Office or large volume customer,90020,Spatial join to ZCTA
+90077,Los Angeles,CA,Zip Code Area,90077,Zip Matches ZCTA
+90078,Los Angeles,CA,Post Office or large volume customer,90028,Spatial join to ZCTA
+90079,Los Angeles,CA,Post Office or large volume customer,90079,Zip Matches ZCTA
+90080,Los Angeles,CA,Post Office or large volume customer,90045,Spatial join to ZCTA
+90081,Los Angeles,CA,Post Office or large volume customer,90017,Spatial join to ZCTA
+90082,Los Angeles,CA,Post Office or large volume customer,90037,Spatial join to ZCTA
+90083,Los Angeles,CA,Post Office or large volume customer,90045,Spatial join to ZCTA
+90084,Los Angeles,CA,Post Office or large volume customer,90017,Spatial join to ZCTA
+90086,Los Angeles,CA,Post Office or large volume customer,90012,Spatial join to ZCTA
+90087,Los Angeles,CA,Post Office or large volume customer,90001,Spatial join to ZCTA
+90088,Los Angeles,CA,Post Office or large volume customer,90017,Spatial join to ZCTA
+90089,Los Angeles,CA,Zip Code Area,90089,Zip Matches ZCTA
+90090,Dodgertown,CA,Post Office or large volume customer,90090,Zip Matches ZCTA
+90091,Los Angeles,CA,Post Office or large volume customer,90040,Spatial join to ZCTA
+90093,Los Angeles,CA,Post Office or large volume customer,90028,Spatial join to ZCTA
+90094,Playa Vista,CA,Zip Code Area,90094,Zip Matches ZCTA
+90095,Los Angeles,CA,Zip Code Area,90095,Zip Matches ZCTA
+90096,Los Angeles,CA,Post Office or large volume customer,90017,Spatial join to ZCTA
+90099,Los Angeles,CA,Post Office or large volume customer,90001,Spatial join to ZCTA
+90189,Los Angeles,CA,Post Office or large volume customer,90045,Spatial join to ZCTA
+90201,Bell Gardens,CA,Zip Code Area,90201,Zip Matches ZCTA
+90202,Bell,CA,Post Office or large volume customer,90201,Spatial join to ZCTA
+90209,Beverly Hills,CA,Post Office or large volume customer,90210,Spatial join to ZCTA
+90210,Beverly Hills,CA,Zip Code Area,90210,Zip Matches ZCTA
+90211,Beverly Hills,CA,Zip Code Area,90211,Zip Matches ZCTA
+90212,Beverly Hills,CA,Zip Code Area,90212,Zip Matches ZCTA
+90213,Beverly Hills,CA,Post Office or large volume customer,90210,Spatial join to ZCTA
+90220,Compton,CA,Zip Code Area,90220,Zip Matches ZCTA
+90221,Compton,CA,Zip Code Area,90221,Zip Matches ZCTA
+90222,Compton,CA,Zip Code Area,90222,Zip Matches ZCTA
+90223,Compton,CA,Post Office or large volume customer,90220,Spatial join to ZCTA
+90224,Compton,CA,Post Office or large volume customer,90221,Spatial join to ZCTA
+90230,Culver City,CA,Zip Code Area,90230,Zip Matches ZCTA
+90231,Culver City,CA,Post Office or large volume customer,90230,Spatial join to ZCTA
+90232,Culver City,CA,Zip Code Area,90232,Zip Matches ZCTA
+90233,Culver City,CA,Post Office or large volume customer,90230,Spatial join to ZCTA
+90239,Downey,CA,Post Office or large volume customer,90241,Spatial join to ZCTA
+90240,Downey,CA,Zip Code Area,90240,Zip Matches ZCTA
+90241,Downey,CA,Zip Code Area,90241,Zip Matches ZCTA
+90242,Downey,CA,Zip Code Area,90242,Zip Matches ZCTA
+90245,El Segundo,CA,Zip Code Area,90245,Zip Matches ZCTA
+90247,Gardena,CA,Zip Code Area,90247,Zip Matches ZCTA
+90248,Gardena,CA,Zip Code Area,90248,Zip Matches ZCTA
+90249,Gardena,CA,Zip Code Area,90249,Zip Matches ZCTA
+90250,Hawthorne,CA,Zip Code Area,90250,Zip Matches ZCTA
+90251,Hawthorne,CA,Post Office or large volume customer,90250,Spatial join to ZCTA
+90254,Hermosa Beach,CA,Zip Code Area,90254,Zip Matches ZCTA
+90255,Huntington Park,CA,Zip Code Area,90255,Zip Matches ZCTA
+90260,Lawndale,CA,Zip Code Area,90260,Zip Matches ZCTA
+90261,Lawndale,CA,Post Office or large volume customer,90260,Spatial join to ZCTA
+90262,Lynwood,CA,Zip Code Area,90262,Zip Matches ZCTA
+90263,Malibu,CA,Zip Code Area,90263,Zip Matches ZCTA
+90264,Malibu,CA,Post Office or large volume customer,90265,Spatial join to ZCTA
+90265,Malibu,CA,Zip Code Area,90265,Zip Matches ZCTA
+90266,Manhattan Beach,CA,Zip Code Area,90266,Zip Matches ZCTA
+90267,Manhattan Beach,CA,Post Office or large volume customer,90266,Spatial join to ZCTA
+90270,Maywood,CA,Zip Code Area,90270,Zip Matches ZCTA
+90272,Pacific Palisades,CA,Zip Code Area,90272,Zip Matches ZCTA
+90274,Palos Verdes Peninsula,CA,Zip Code Area,90274,Zip Matches ZCTA
+90275,Rancho Palos Verdes,CA,Zip Code Area,90275,Zip Matches ZCTA
+90277,Redondo Beach,CA,Zip Code Area,90277,Zip Matches ZCTA
+90278,Redondo Beach,CA,Zip Code Area,90278,Zip Matches ZCTA
+90280,South Gate,CA,Zip Code Area,90280,Zip Matches ZCTA
+90290,Topanga,CA,Zip Code Area,90290,Zip Matches ZCTA
+90291,Venice,CA,Zip Code Area,90291,Zip Matches ZCTA
+90292,Marina del Rey,CA,Zip Code Area,90292,Zip Matches ZCTA
+90293,Playa del Rey,CA,Zip Code Area,90293,Zip Matches ZCTA
+90294,Venice,CA,Post Office or large volume customer,90291,Spatial join to ZCTA
+90295,Marina del Rey,CA,Post Office or large volume customer,90292,Spatial join to ZCTA
+90296,Playa del Rey,CA,Post Office or large volume customer,90293,Spatial join to ZCTA
+90301,Inglewood,CA,Zip Code Area,90301,Zip Matches ZCTA
+90302,Inglewood,CA,Zip Code Area,90302,Zip Matches ZCTA
+90303,Inglewood,CA,Zip Code Area,90303,Zip Matches ZCTA
+90304,Inglewood,CA,Zip Code Area,90304,Zip Matches ZCTA
+90305,Inglewood,CA,Zip Code Area,90305,Zip Matches ZCTA
+90306,Inglewood,CA,Post Office or large volume customer,90301,Spatial join to ZCTA
+90307,Inglewood,CA,Post Office or large volume customer,90301,Spatial join to ZCTA
+90308,Inglewood,CA,Post Office or large volume customer,90301,Spatial join to ZCTA
+90309,Inglewood,CA,Post Office or large volume customer,90301,Spatial join to ZCTA
+90310,Inglewood,CA,Post Office or large volume customer,90303,Spatial join to ZCTA
+90311,Inglewood,CA,Post Office or large volume customer,90094,Spatial join to ZCTA
+90312,Inglewood,CA,Post Office or large volume customer,90094,Spatial join to ZCTA
+90401,Santa Monica,CA,Zip Code Area,90401,Zip Matches ZCTA
+90402,Santa Monica,CA,Zip Code Area,90402,Zip Matches ZCTA
+90403,Santa Monica,CA,Zip Code Area,90403,Zip Matches ZCTA
+90404,Santa Monica,CA,Zip Code Area,90404,Zip Matches ZCTA
+90405,Santa Monica,CA,Zip Code Area,90405,Zip Matches ZCTA
+90406,Santa Monica,CA,Post Office or large volume customer,90404,Spatial join to ZCTA
+90407,Santa Monica,CA,Post Office or large volume customer,90401,Spatial join to ZCTA
+90408,Santa Monica,CA,Post Office or large volume customer,90403,Spatial join to ZCTA
+90409,Santa Monica,CA,Post Office or large volume customer,90405,Spatial join to ZCTA
+90410,Santa Monica,CA,Post Office or large volume customer,90401,Spatial join to ZCTA
+90411,Santa Monica,CA,Post Office or large volume customer,90401,Spatial join to ZCTA
+90501,Torrance,CA,Zip Code Area,90501,Zip Matches ZCTA
+90502,Torrance,CA,Zip Code Area,90502,Zip Matches ZCTA
+90503,Torrance,CA,Zip Code Area,90503,Zip Matches ZCTA
+90504,Torrance,CA,Zip Code Area,90504,Zip Matches ZCTA
+90505,Torrance,CA,Zip Code Area,90505,Zip Matches ZCTA
+90506,Torrance,CA,Zip Code Area,90506,Zip Matches ZCTA
+90507,Torrance,CA,Post Office or large volume customer,90501,Spatial join to ZCTA
+90508,Torrance,CA,Post Office or large volume customer,90501,Spatial join to ZCTA
+90509,Torrance,CA,Post Office or large volume customer,90503,Spatial join to ZCTA
+90510,Torrance,CA,Post Office or large volume customer,90503,Spatial join to ZCTA
+90601,Whittier,CA,Zip Code Area,90601,Zip Matches ZCTA
+90602,Whittier,CA,Zip Code Area,90602,Zip Matches ZCTA
+90603,Whittier,CA,Zip Code Area,90603,Zip Matches ZCTA
+90604,Whittier,CA,Zip Code Area,90604,Zip Matches ZCTA
+90605,Whittier,CA,Zip Code Area,90605,Zip Matches ZCTA
+90606,Whittier,CA,Zip Code Area,90606,Zip Matches ZCTA
+90607,Whittier,CA,Post Office or large volume customer,90605,Spatial join to ZCTA
+90608,Whittier,CA,Post Office or large volume customer,90601,Spatial join to ZCTA
+90609,Whittier,CA,Post Office or large volume customer,90603,Spatial join to ZCTA
+90610,Whittier,CA,Post Office or large volume customer,90606,Spatial join to ZCTA
+90620,Buena Park,CA,Zip Code Area,90620,Zip Matches ZCTA
+90621,Buena Park,CA,Zip Code Area,90621,Zip Matches ZCTA
+90622,Buena Park,CA,Post Office or large volume customer,90620,Spatial join to ZCTA
+90623,La Palma,CA,Zip Code Area,90623,Zip Matches ZCTA
+90624,Buena Park,CA,Post Office or large volume customer,90621,Spatial join to ZCTA
+90630,Cypress,CA,Zip Code Area,90630,Zip Matches ZCTA
+90631,La Habra,CA,Zip Code Area,90631,Zip Matches ZCTA
+90632,La Habra,CA,Post Office or large volume customer,90631,Spatial join to ZCTA
+90633,La Habra,CA,Post Office or large volume customer,90631,Spatial join to ZCTA
+90637,La Mirada,CA,Post Office or large volume customer,90638,Spatial join to ZCTA
+90638,La Mirada,CA,Zip Code Area,90638,Zip Matches ZCTA
+90639,La Mirada,CA,Zip Code Area,90638,Spatial join to ZCTA
+90640,Montebello,CA,Zip Code Area,90640,Zip Matches ZCTA
+90650,Norwalk,CA,Zip Code Area,90650,Zip Matches ZCTA
+90651,Norwalk,CA,Post Office or large volume customer,90650,Spatial join to ZCTA
+90652,Norwalk,CA,Post Office or large volume customer,90650,Spatial join to ZCTA
+90660,Pico Rivera,CA,Zip Code Area,90660,Zip Matches ZCTA
+90661,Pico Rivera,CA,Post Office or large volume customer,90660,Spatial join to ZCTA
+90662,Pico Rivera,CA,Post Office or large volume customer,90660,Spatial join to ZCTA
+90670,Santa Fe Springs,CA,Zip Code Area,90670,Zip Matches ZCTA
+90671,Santa Fe Springs,CA,Post Office or large volume customer,90670,Spatial join to ZCTA
+90680,Stanton,CA,Zip Code Area,90680,Zip Matches ZCTA
+90701,Artesia,CA,Zip Code Area,90701,Zip Matches ZCTA
+90702,Artesia,CA,Post Office or large volume customer,90701,Spatial join to ZCTA
+90703,Cerritos,CA,Zip Code Area,90703,Zip Matches ZCTA
+90704,Avalon,CA,Zip Code Area,90704,Zip Matches ZCTA
+90706,Bellflower,CA,Zip Code Area,90706,Zip Matches ZCTA
+90707,Bellflower,CA,Post Office or large volume customer,90706,Spatial join to ZCTA
+90710,Harbor City,CA,Zip Code Area,90710,Zip Matches ZCTA
+90711,Lakewood,CA,Post Office or large volume customer,90712,Spatial join to ZCTA
+90712,Lakewood,CA,Zip Code Area,90712,Zip Matches ZCTA
+90713,Lakewood,CA,Zip Code Area,90713,Zip Matches ZCTA
+90714,Lakewood,CA,Post Office or large volume customer,90712,Spatial join to ZCTA
+90715,Lakewood,CA,Zip Code Area,90715,Zip Matches ZCTA
+90716,Hawaiian Gardens,CA,Zip Code Area,90716,Zip Matches ZCTA
+90717,Lomita,CA,Zip Code Area,90717,Zip Matches ZCTA
+90720,Los Alamitos,CA,Zip Code Area,90720,Zip Matches ZCTA
+90721,Los Alamitos,CA,Post Office or large volume customer,90720,Spatial join to ZCTA
+90723,Paramount,CA,Zip Code Area,90723,Zip Matches ZCTA
+90731,San Pedro,CA,Zip Code Area,90731,Zip Matches ZCTA
+90732,San Pedro,CA,Zip Code Area,90732,Zip Matches ZCTA
+90733,San Pedro,CA,Post Office or large volume customer,90731,Spatial join to ZCTA
+90734,San Pedro,CA,Post Office or large volume customer,90275,Spatial join to ZCTA
+90740,Seal Beach,CA,Zip Code Area,90740,Zip Matches ZCTA
+90742,Sunset Beach,CA,Zip Code Area,90742,Zip Matches ZCTA
+90743,Surfside,CA,Zip Code Area,90743,Zip Matches ZCTA
+90744,Wilmington,CA,Zip Code Area,90744,Zip Matches ZCTA
+90745,Carson,CA,Zip Code Area,90745,Zip Matches ZCTA
+90746,Carson,CA,Zip Code Area,90746,Zip Matches ZCTA
+90747,Carson,CA,Zip Code Area,90747,Zip Matches ZCTA
+90748,Wilmington,CA,Post Office or large volume customer,90744,Spatial join to ZCTA
+90749,Carson,CA,Post Office or large volume customer,90745,Spatial join to ZCTA
+90755,Signal Hill,CA,Zip Code Area,90755,Zip Matches ZCTA
+90801,Long Beach,CA,Post Office or large volume customer,90802,Spatial join to ZCTA
+90802,Long Beach,CA,Zip Code Area,90802,Zip Matches ZCTA
+90803,Long Beach,CA,Zip Code Area,90803,Zip Matches ZCTA
+90804,Long Beach,CA,Zip Code Area,90804,Zip Matches ZCTA
+90805,Long Beach,CA,Zip Code Area,90805,Zip Matches ZCTA
+90806,Long Beach,CA,Zip Code Area,90806,Zip Matches ZCTA
+90807,Long Beach,CA,Zip Code Area,90807,Zip Matches ZCTA
+90808,Long Beach,CA,Zip Code Area,90808,Zip Matches ZCTA
+90809,Long Beach,CA,Post Office or large volume customer,90755,Spatial join to ZCTA
+90810,Long Beach,CA,Zip Code Area,90810,Zip Matches ZCTA
+90813,Long Beach,CA,Zip Code Area,90813,Zip Matches ZCTA
+90814,Long Beach,CA,Zip Code Area,90814,Zip Matches ZCTA
+90815,Long Beach,CA,Zip Code Area,90815,Zip Matches ZCTA
+90822,Long Beach,CA,Zip Code Area,90822,Zip Matches ZCTA
+90831,Long Beach,CA,Post Office or large volume customer,90831,Zip Matches ZCTA
+90832,Long Beach,CA,Post Office or large volume customer,90831,Spatial join to ZCTA
+90833,Long Beach,CA,Post Office or large volume customer,90831,Spatial join to ZCTA
+90834,Long Beach,CA,Post Office or large volume customer,90831,Spatial join to ZCTA
+90835,Long Beach,CA,Post Office or large volume customer,90831,Spatial join to ZCTA
+90840,Long Beach,CA,Zip Code Area,90815,Spatial join to ZCTA
+90842,Long Beach,CA,Post Office or large volume customer,90807,Spatial join to ZCTA
+90844,Long Beach,CA,Post Office or large volume customer,90802,Spatial join to ZCTA
+90846,Long Beach,CA,Post Office or large volume customer,90808,Spatial join to ZCTA
+90847,Long Beach,CA,Post Office or large volume customer,90807,Spatial join to ZCTA
+90848,Long Beach,CA,Post Office or large volume customer,90807,Spatial join to ZCTA
+90853,Long Beach,CA,Post Office or large volume customer,90803,Spatial join to ZCTA
+90895,Carson,CA,Post Office or large volume customer,90810,Spatial join to ZCTA
+90899,Long Beach,CA,Post Office or large volume customer,90831,Spatial join to ZCTA
+91001,Altadena,CA,Zip Code Area,91001,Zip Matches ZCTA
+91003,Altadena,CA,Post Office or large volume customer,91001,Spatial join to ZCTA
+91006,Arcadia,CA,Zip Code Area,91006,Zip Matches ZCTA
+91007,Arcadia,CA,Zip Code Area,91007,Zip Matches ZCTA
+91008,Duarte,CA,Zip Code Area,91008,Zip Matches ZCTA
+91009,Duarte,CA,Post Office or large volume customer,91010,Spatial join to ZCTA
+91010,Duarte,CA,Zip Code Area,91010,Zip Matches ZCTA
+91011,La Canada Flintridge,CA,Zip Code Area,91011,Zip Matches ZCTA
+91012,La Canada Flintridge,CA,Post Office or large volume customer,91011,Spatial join to ZCTA
+91016,Monrovia,CA,Zip Code Area,91016,Zip Matches ZCTA
+91017,Monrovia,CA,Post Office or large volume customer,91016,Spatial join to ZCTA
+91020,Montrose,CA,Zip Code Area,91020,Zip Matches ZCTA
+91021,Montrose,CA,Post Office or large volume customer,91020,Spatial join to ZCTA
+91023,Mount Wilson,CA,Post Office or large volume customer,91023,Spatial join to ZCTA
+91024,Sierra Madre,CA,Zip Code Area,91024,Zip Matches ZCTA
+91025,Sierra Madre,CA,Post Office or large volume customer,91024,Spatial join to ZCTA
+91030,South Pasadena,CA,Zip Code Area,91030,Zip Matches ZCTA
+91031,South Pasadena,CA,Post Office or large volume customer,91030,Spatial join to ZCTA
+91040,Sunland,CA,Zip Code Area,91040,Zip Matches ZCTA
+91041,Sunland,CA,Post Office or large volume customer,91040,Spatial join to ZCTA
+91042,Tujunga,CA,Zip Code Area,91042,Zip Matches ZCTA
+91043,Tujunga,CA,Post Office or large volume customer,91042,Spatial join to ZCTA
+91046,Verdugo City,CA,Post Office or large volume customer,91046,Zip Matches ZCTA
+91066,Arcadia,CA,Post Office or large volume customer,91006,Spatial join to ZCTA
+91077,Arcadia,CA,Post Office or large volume customer,91007,Spatial join to ZCTA
+91101,Pasadena,CA,Zip Code Area,91101,Zip Matches ZCTA
+91102,Pasadena,CA,Post Office or large volume customer,91101,Spatial join to ZCTA
+91103,Pasadena,CA,Zip Code Area,91103,Zip Matches ZCTA
+91104,Pasadena,CA,Zip Code Area,91104,Zip Matches ZCTA
+91105,Pasadena,CA,Zip Code Area,91105,Zip Matches ZCTA
+91106,Pasadena,CA,Zip Code Area,91106,Zip Matches ZCTA
+91107,Pasadena,CA,Zip Code Area,91107,Zip Matches ZCTA
+91108,San Marino,CA,Zip Code Area,91108,Zip Matches ZCTA
+91109,Pasadena,CA,Post Office or large volume customer,91103,Spatial join to ZCTA
+91110,Pasadena,CA,Post Office or large volume customer,91103,Spatial join to ZCTA
+91114,Pasadena,CA,Post Office or large volume customer,91103,Spatial join to ZCTA
+91115,Pasadena,CA,Post Office or large volume customer,91105,Spatial join to ZCTA
+91116,Pasadena,CA,Post Office or large volume customer,91106,Spatial join to ZCTA
+91117,Pasadena,CA,Post Office or large volume customer,91107,Spatial join to ZCTA
+91118,San Marino,CA,Post Office or large volume customer,91108,Spatial join to ZCTA
+91121,Pasadena,CA,Post Office or large volume customer,91107,Spatial join to ZCTA
+91123,Pasadena,CA,Zip Code Area,91105,Spatial join to ZCTA
+91124,Pasadena,CA,Post Office or large volume customer,91103,Spatial join to ZCTA
+91125,Pasadena,CA,Post Office or large volume customer,91106,Spatial join to ZCTA
+91126,Pasadena,CA,Post Office or large volume customer,91106,Spatial join to ZCTA
+91129,Pasadena,CA,Post Office or large volume customer,91105,Spatial join to ZCTA
+91182,Pasadena,CA,Post Office or large volume customer,91101,Spatial join to ZCTA
+91184,Pasadena,CA,Post Office or large volume customer,91105,Spatial join to ZCTA
+91185,Pasadena,CA,Post Office or large volume customer,91801,Spatial join to ZCTA
+91188,Pasadena,CA,Post Office or large volume customer,91101,Spatial join to ZCTA
+91189,Pasadena,CA,Post Office or large volume customer,91105,Spatial join to ZCTA
+91199,Pasadena,CA,Post Office or large volume customer,91101,Spatial join to ZCTA
+91201,Glendale,CA,Zip Code Area,91201,Zip Matches ZCTA
+91202,Glendale,CA,Zip Code Area,91202,Zip Matches ZCTA
+91203,Glendale,CA,Zip Code Area,91203,Zip Matches ZCTA
+91204,Glendale,CA,Zip Code Area,91204,Zip Matches ZCTA
+91205,Glendale,CA,Zip Code Area,91205,Zip Matches ZCTA
+91206,Glendale,CA,Zip Code Area,91206,Zip Matches ZCTA
+91207,Glendale,CA,Zip Code Area,91207,Zip Matches ZCTA
+91208,Glendale,CA,Zip Code Area,91208,Zip Matches ZCTA
+91209,Glendale,CA,Post Office or large volume customer,91206,Spatial join to ZCTA
+91210,Glendale,CA,Zip Code Area,91210,Zip Matches ZCTA
+91214,La Crescenta,CA,Zip Code Area,91214,Zip Matches ZCTA
+91221,Glendale,CA,Post Office or large volume customer,91201,Spatial join to ZCTA
+91222,Glendale,CA,Post Office or large volume customer,91202,Spatial join to ZCTA
+91224,La Crescenta,CA,Post Office or large volume customer,91214,Spatial join to ZCTA
+91225,Glendale,CA,Post Office or large volume customer,91205,Spatial join to ZCTA
+91226,Glendale,CA,Post Office or large volume customer,91206,Spatial join to ZCTA
+91301,Agoura Hills,CA,Zip Code Area,91301,Zip Matches ZCTA
+91302,Calabasas,CA,Zip Code Area,91302,Zip Matches ZCTA
+91303,Canoga Park,CA,Zip Code Area,91303,Zip Matches ZCTA
+91304,Canoga Park,CA,Zip Code Area,91304,Zip Matches ZCTA
+91305,Canoga Park,CA,Post Office or large volume customer,91303,Spatial join to ZCTA
+91306,Winnetka,CA,Zip Code Area,91306,Zip Matches ZCTA
+91307,West Hills,CA,Zip Code Area,91307,Zip Matches ZCTA
+91308,West Hills,CA,Post Office or large volume customer,91307,Spatial join to ZCTA
+91309,Canoga Park,CA,Post Office or large volume customer,91304,Spatial join to ZCTA
+91310,Castaic,CA,Post Office or large volume customer,91355,Spatial join to ZCTA
+91311,Chatsworth,CA,Zip Code Area,91311,Zip Matches ZCTA
+91313,Chatsworth,CA,Post Office or large volume customer,91311,Spatial join to ZCTA
+91316,Encino,CA,Zip Code Area,91316,Zip Matches ZCTA
+91319,Newbury Park,CA,Post Office or large volume customer,91320,Spatial join to ZCTA
+91320,Newbury Park,CA,Zip Code Area,91320,Zip Matches ZCTA
+91321,Newhall,CA,Zip Code Area,91321,Zip Matches ZCTA
+91322,Newhall,CA,Post Office or large volume customer,91355,Spatial join to ZCTA
+91324,Northridge,CA,Zip Code Area,91324,Zip Matches ZCTA
+91325,Northridge,CA,Zip Code Area,91325,Zip Matches ZCTA
+91326,Porter Ranch,CA,Zip Code Area,91326,Zip Matches ZCTA
+91327,Northridge,CA,Post Office or large volume customer,91326,Spatial join to ZCTA
+91328,Northridge,CA,Post Office or large volume customer,91325,Spatial join to ZCTA
+91329,Northridge,CA,Post Office or large volume customer,91343,Spatial join to ZCTA
+91330,Northridge,CA,Zip Code Area,91330,Zip Matches ZCTA
+91331,Pacoima,CA,Zip Code Area,91331,Zip Matches ZCTA
+91333,Pacoima,CA,Post Office or large volume customer,91331,Spatial join to ZCTA
+91334,Pacoima,CA,Post Office or large volume customer,91331,Spatial join to ZCTA
+91335,Reseda,CA,Zip Code Area,91335,Zip Matches ZCTA
+91337,Reseda,CA,Post Office or large volume customer,91335,Spatial join to ZCTA
+91340,San Fernando,CA,Zip Code Area,91340,Zip Matches ZCTA
+91341,San Fernando,CA,Post Office or large volume customer,91340,Spatial join to ZCTA
+91342,Sylmar,CA,Zip Code Area,91342,Zip Matches ZCTA
+91343,North Hills,CA,Zip Code Area,91343,Zip Matches ZCTA
+91344,Granada Hills,CA,Zip Code Area,91344,Zip Matches ZCTA
+91345,Mission Hills,CA,Zip Code Area,91345,Zip Matches ZCTA
+91346,Mission Hills,CA,Post Office or large volume customer,91345,Spatial join to ZCTA
+91350,Santa Clarita,CA,Zip Code Area,91350,Zip Matches ZCTA
+91351,Canyon Country,CA,Zip Code Area,91351,Zip Matches ZCTA
+91352,Sun Valley,CA,Zip Code Area,91352,Zip Matches ZCTA
+91353,Sun Valley,CA,Post Office or large volume customer,91352,Spatial join to ZCTA
+91354,Valencia,CA,Zip Code Area,91354,Zip Matches ZCTA
+91355,Valencia,CA,Zip Code Area,91355,Zip Matches ZCTA
+91356,Tarzana,CA,Zip Code Area,91356,Zip Matches ZCTA
+91357,Tarzana,CA,Post Office or large volume customer,91356,Spatial join to ZCTA
+91358,Thousand Oaks,CA,Post Office or large volume customer,91360,Spatial join to ZCTA
+91359,Westlake Village,CA,Post Office or large volume customer,91362,Spatial join to ZCTA
+91360,Thousand Oaks,CA,Zip Code Area,91360,Zip Matches ZCTA
+91361,Westlake Village,CA,Zip Code Area,91361,Zip Matches ZCTA
+91362,Thousand Oaks,CA,Zip Code Area,91362,Zip Matches ZCTA
+91364,Woodland Hills,CA,Zip Code Area,91364,Zip Matches ZCTA
+91365,Woodland Hills,CA,Post Office or large volume customer,91367,Spatial join to ZCTA
+91367,Woodland Hills,CA,Zip Code Area,91367,Zip Matches ZCTA
+91371,Woodland Hills,CA,Zip Code Area,91371,Zip Matches ZCTA
+91372,Calabasas,CA,Post Office or large volume customer,91302,Spatial join to ZCTA
+91376,Agoura Hills,CA,Post Office or large volume customer,91301,Spatial join to ZCTA
+91377,Oak Park,CA,Zip Code Area,91377,Zip Matches ZCTA
+91380,Santa Clarita,CA,Post Office or large volume customer,91355,Spatial join to ZCTA
+91381,Stevenson Ranch,CA,Zip Code Area,91381,Zip Matches ZCTA
+91382,Santa Clarita,CA,Post Office or large volume customer,91381,Spatial join to ZCTA
+91383,Santa Clarita,CA,Post Office or large volume customer,91355,Spatial join to ZCTA
+91384,Castaic,CA,Zip Code Area,91384,Zip Matches ZCTA
+91385,Valencia,CA,Post Office or large volume customer,91355,Spatial join to ZCTA
+91386,Canyon Country,CA,Post Office or large volume customer,91387,Spatial join to ZCTA
+91387,Canyon Country,CA,Zip Code Area,91387,Zip Matches ZCTA
+91390,Santa Clarita,CA,Zip Code Area,91390,Zip Matches ZCTA
+91392,Sylmar,CA,Post Office or large volume customer,91342,Spatial join to ZCTA
+91393,North Hills,CA,Post Office or large volume customer,91343,Spatial join to ZCTA
+91394,Granada Hills,CA,Post Office or large volume customer,91344,Spatial join to ZCTA
+91395,Mission Hills,CA,Post Office or large volume customer,91345,Spatial join to ZCTA
+91396,Winnetka,CA,Post Office or large volume customer,91306,Spatial join to ZCTA
+91401,Van Nuys,CA,Zip Code Area,91401,Zip Matches ZCTA
+91402,Panorama City,CA,Zip Code Area,91402,Zip Matches ZCTA
+91403,Sherman Oaks,CA,Zip Code Area,91403,Zip Matches ZCTA
+91404,Van Nuys,CA,Post Office or large volume customer,91411,Spatial join to ZCTA
+91405,Van Nuys,CA,Zip Code Area,91405,Zip Matches ZCTA
+91406,Van Nuys,CA,Zip Code Area,91406,Zip Matches ZCTA
+91407,Van Nuys,CA,Post Office or large volume customer,91411,Spatial join to ZCTA
+91408,Van Nuys,CA,Post Office or large volume customer,91411,Spatial join to ZCTA
+91409,Van Nuys,CA,Post Office or large volume customer,91406,Spatial join to ZCTA
+91410,Van Nuys,CA,Post Office or large volume customer,91406,Spatial join to ZCTA
+91411,Van Nuys,CA,Zip Code Area,91411,Zip Matches ZCTA
+91412,Panorama City,CA,Post Office or large volume customer,91402,Spatial join to ZCTA
+91413,Sherman Oaks,CA,Post Office or large volume customer,91403,Spatial join to ZCTA
+91416,Encino,CA,Post Office or large volume customer,91316,Spatial join to ZCTA
+91423,Sherman Oaks,CA,Zip Code Area,91423,Zip Matches ZCTA
+91426,Encino,CA,Post Office or large volume customer,91436,Spatial join to ZCTA
+91436,Encino,CA,Zip Code Area,91436,Zip Matches ZCTA
+91470,Van Nuys,CA,Post Office or large volume customer,91406,Spatial join to ZCTA
+91482,Van Nuys,CA,Post Office or large volume customer,91406,Spatial join to ZCTA
+91495,Sherman Oaks,CA,Post Office or large volume customer,91403,Spatial join to ZCTA
+91496,Van Nuys,CA,Post Office or large volume customer,91403,Spatial join to ZCTA
+91499,Van Nuys,CA,Post Office or large volume customer,91405,Spatial join to ZCTA
+91501,Burbank,CA,Zip Code Area,91501,Zip Matches ZCTA
+91502,Burbank,CA,Zip Code Area,91502,Zip Matches ZCTA
+91503,Burbank,CA,Post Office or large volume customer,91502,Spatial join to ZCTA
+91504,Burbank,CA,Zip Code Area,91504,Zip Matches ZCTA
+91505,Burbank,CA,Zip Code Area,91505,Zip Matches ZCTA
+91506,Burbank,CA,Zip Code Area,91506,Zip Matches ZCTA
+91507,Burbank,CA,Post Office or large volume customer,91505,Spatial join to ZCTA
+91508,Burbank,CA,Post Office or large volume customer,91504,Spatial join to ZCTA
+91510,Burbank,CA,Post Office or large volume customer,91505,Spatial join to ZCTA
+91521,Burbank,CA,Zip Code Area,91506,Spatial join to ZCTA
+91522,Burbank,CA,Zip Code Area,91505,Spatial join to ZCTA
+91523,Burbank,CA,Zip Code Area,91505,Spatial join to ZCTA
+91526,Burbank,CA,Post Office or large volume customer,91505,Spatial join to ZCTA
+91601,North Hollywood,CA,Zip Code Area,91601,Zip Matches ZCTA
+91602,North Hollywood,CA,Zip Code Area,91602,Zip Matches ZCTA
+91603,North Hollywood,CA,Post Office or large volume customer,91601,Spatial join to ZCTA
+91604,Studio City,CA,Zip Code Area,91604,Zip Matches ZCTA
+91605,North Hollywood,CA,Zip Code Area,91605,Zip Matches ZCTA
+91606,North Hollywood,CA,Zip Code Area,91606,Zip Matches ZCTA
+91607,Valley Village,CA,Zip Code Area,91607,Zip Matches ZCTA
+91608,Universal City,CA,Zip Code Area,91608,Zip Matches ZCTA
+91609,North Hollywood,CA,Post Office or large volume customer,91606,Spatial join to ZCTA
+91610,Toluca Lake,CA,Post Office or large volume customer,91602,Spatial join to ZCTA
+91611,North Hollywood,CA,Post Office or large volume customer,91606,Spatial join to ZCTA
+91612,North Hollywood,CA,Post Office or large volume customer,91606,Spatial join to ZCTA
+91614,Studio City,CA,Post Office or large volume customer,91604,Spatial join to ZCTA
+91615,North Hollywood,CA,Post Office or large volume customer,91605,Spatial join to ZCTA
+91616,North Hollywood,CA,Post Office or large volume customer,91606,Spatial join to ZCTA
+91617,Valley Village,CA,Post Office or large volume customer,91607,Spatial join to ZCTA
+91618,North Hollywood,CA,Post Office or large volume customer,91608,Spatial join to ZCTA
+91701,Rancho Cucamonga,CA,Zip Code Area,91701,Zip Matches ZCTA
+91702,Azusa,CA,Zip Code Area,91702,Zip Matches ZCTA
+91706,Baldwin Park,CA,Zip Code Area,91706,Zip Matches ZCTA
+91708,Chino,CA,Zip Code Area,91708,Zip Matches ZCTA
+91709,Chino Hills,CA,Zip Code Area,91709,Zip Matches ZCTA
+91710,Chino,CA,Zip Code Area,91710,Zip Matches ZCTA
+91711,Claremont,CA,Zip Code Area,91711,Zip Matches ZCTA
+91714,City of Industry,CA,Post Office or large volume customer,91745,Spatial join to ZCTA
+91715,City of Industry,CA,Post Office or large volume customer,91745,Spatial join to ZCTA
+91716,City of Industry,CA,Post Office or large volume customer,91745,Spatial join to ZCTA
+91722,Covina,CA,Zip Code Area,91722,Zip Matches ZCTA
+91723,Covina,CA,Zip Code Area,91723,Zip Matches ZCTA
+91724,Covina,CA,Zip Code Area,91724,Zip Matches ZCTA
+91729,Rancho Cucamonga,CA,Post Office or large volume customer,91730,Spatial join to ZCTA
+91730,Rancho Cucamonga,CA,Zip Code Area,91730,Zip Matches ZCTA
+91731,El Monte,CA,Zip Code Area,91731,Zip Matches ZCTA
+91732,El Monte,CA,Zip Code Area,91732,Zip Matches ZCTA
+91733,South El Monte,CA,Zip Code Area,91733,Zip Matches ZCTA
+91734,El Monte,CA,Post Office or large volume customer,91731,Spatial join to ZCTA
+91735,El Monte,CA,Post Office or large volume customer,91731,Spatial join to ZCTA
+91737,Rancho Cucamonga,CA,Zip Code Area,91737,Zip Matches ZCTA
+91739,Rancho Cucamonga,CA,Zip Code Area,91739,Zip Matches ZCTA
+91740,Glendora,CA,Zip Code Area,91740,Zip Matches ZCTA
+91741,Glendora,CA,Zip Code Area,91741,Zip Matches ZCTA
+91743,Guasti,CA,Post Office or large volume customer,91761,Spatial join to ZCTA
+91744,La Puente,CA,Zip Code Area,91744,Zip Matches ZCTA
+91745,Hacienda Heights,CA,Zip Code Area,91745,Zip Matches ZCTA
+91746,La Puente,CA,Zip Code Area,91746,Zip Matches ZCTA
+91747,La Puente,CA,Post Office or large volume customer,91744,Spatial join to ZCTA
+91748,Rowland Heights,CA,Zip Code Area,91748,Zip Matches ZCTA
+91749,La Puente,CA,Post Office or large volume customer,91745,Spatial join to ZCTA
+91750,La Verne,CA,Zip Code Area,91750,Zip Matches ZCTA
+91752,Mira Loma,CA,Zip Code Area,91752,Zip Matches ZCTA
+91754,Monterey Park,CA,Zip Code Area,91754,Zip Matches ZCTA
+91755,Monterey Park,CA,Zip Code Area,91755,Zip Matches ZCTA
+91756,Monterey Park,CA,Post Office or large volume customer,91754,Spatial join to ZCTA
+91758,Ontario,CA,Post Office or large volume customer,91761,Spatial join to ZCTA
+91759,Mt Baldy,CA,Zip Code Area,91759,Zip Matches ZCTA
+91761,Ontario,CA,Zip Code Area,91761,Zip Matches ZCTA
+91762,Ontario,CA,Zip Code Area,91762,Zip Matches ZCTA
+91763,Montclair,CA,Zip Code Area,91763,Zip Matches ZCTA
+91764,Ontario,CA,Zip Code Area,91764,Zip Matches ZCTA
+91765,Diamond Bar,CA,Zip Code Area,91765,Zip Matches ZCTA
+91766,Pomona,CA,Zip Code Area,91766,Zip Matches ZCTA
+91767,Pomona,CA,Zip Code Area,91767,Zip Matches ZCTA
+91768,Pomona,CA,Zip Code Area,91768,Zip Matches ZCTA
+91769,Pomona,CA,Post Office or large volume customer,91768,Spatial join to ZCTA
+91770,Rosemead,CA,Zip Code Area,91770,Zip Matches ZCTA
+91771,Rosemead,CA,Post Office or large volume customer,91770,Spatial join to ZCTA
+91772,Rosemead,CA,Post Office or large volume customer,91770,Spatial join to ZCTA
+91773,San Dimas,CA,Zip Code Area,91773,Zip Matches ZCTA
+91775,San Gabriel,CA,Zip Code Area,91775,Zip Matches ZCTA
+91776,San Gabriel,CA,Zip Code Area,91776,Zip Matches ZCTA
+91778,San Gabriel,CA,Post Office or large volume customer,91776,Spatial join to ZCTA
+91780,Temple City,CA,Zip Code Area,91780,Zip Matches ZCTA
+91784,Upland,CA,Zip Code Area,91784,Zip Matches ZCTA
+91785,Upland,CA,Post Office or large volume customer,91786,Spatial join to ZCTA
+91786,Upland,CA,Zip Code Area,91786,Zip Matches ZCTA
+91788,Walnut,CA,Post Office or large volume customer,91789,Spatial join to ZCTA
+91789,Walnut,CA,Zip Code Area,91789,Zip Matches ZCTA
+91790,West Covina,CA,Zip Code Area,91790,Zip Matches ZCTA
+91791,West Covina,CA,Zip Code Area,91791,Zip Matches ZCTA
+91792,West Covina,CA,Zip Code Area,91792,Zip Matches ZCTA
+91793,West Covina,CA,Post Office or large volume customer,91790,Spatial join to ZCTA
+91801,Alhambra,CA,Zip Code Area,91801,Zip Matches ZCTA
+91802,Alhambra,CA,Post Office or large volume customer,91801,Spatial join to ZCTA
+91803,Alhambra,CA,Zip Code Area,91803,Zip Matches ZCTA
+91804,Alhambra,CA,Post Office or large volume customer,91801,Spatial join to ZCTA
+91896,Alhambra,CA,Post Office or large volume customer,91801,Spatial join to ZCTA
+91899,Alhambra,CA,Post Office or large volume customer,91801,Spatial join to ZCTA
+91901,Alpine,CA,Zip Code Area,91901,Zip Matches ZCTA
+91902,Bonita,CA,Zip Code Area,91902,Zip Matches ZCTA
+91903,Alpine,CA,Post Office or large volume customer,91901,Spatial join to ZCTA
+91905,Boulevard,CA,Zip Code Area,91905,Zip Matches ZCTA
+91906,Campo,CA,Zip Code Area,91906,Zip Matches ZCTA
+91908,Bonita,CA,Post Office or large volume customer,91902,Spatial join to ZCTA
+91909,Chula Vista,CA,Post Office or large volume customer,91911,Spatial join to ZCTA
+91910,Chula Vista,CA,Zip Code Area,91910,Zip Matches ZCTA
+91911,Chula Vista,CA,Zip Code Area,91911,Zip Matches ZCTA
+91912,Chula Vista,CA,Post Office or large volume customer,91911,Spatial join to ZCTA
+91913,Chula Vista,CA,Zip Code Area,91913,Zip Matches ZCTA
+91914,Chula Vista,CA,Zip Code Area,91914,Zip Matches ZCTA
+91915,Chula Vista,CA,Zip Code Area,91915,Zip Matches ZCTA
+91916,Descanso,CA,Zip Code Area,91916,Zip Matches ZCTA
+91917,Dulzura,CA,Zip Code Area,91917,Zip Matches ZCTA
+91921,Chula Vista,CA,Post Office or large volume customer,91914,Spatial join to ZCTA
+91931,Guatay,CA,Post Office or large volume customer,91931,Zip Matches ZCTA
+91932,Imperial Beach,CA,Zip Code Area,91932,Zip Matches ZCTA
+91933,Imperial Beach,CA,Post Office or large volume customer,91932,Spatial join to ZCTA
+91934,Jacumba,CA,Zip Code Area,91934,Zip Matches ZCTA
+91935,Jamul,CA,Zip Code Area,91935,Zip Matches ZCTA
+91941,La Mesa,CA,Zip Code Area,91941,Zip Matches ZCTA
+91942,La Mesa,CA,Zip Code Area,91942,Zip Matches ZCTA
+91943,La Mesa,CA,Post Office or large volume customer,91942,Spatial join to ZCTA
+91944,La Mesa,CA,Post Office or large volume customer,91942,Spatial join to ZCTA
+91945,Lemon Grove,CA,Zip Code Area,91945,Zip Matches ZCTA
+91946,Lemon Grove,CA,Post Office or large volume customer,91945,Spatial join to ZCTA
+91948,Mount Laguna,CA,Post Office or large volume customer,91948,Zip Matches ZCTA
+91950,National City,CA,Zip Code Area,91950,Zip Matches ZCTA
+91951,National City,CA,Post Office or large volume customer,91950,Spatial join to ZCTA
+91962,Pine Valley,CA,Zip Code Area,91962,Zip Matches ZCTA
+91963,Potrero,CA,Zip Code Area,91963,Zip Matches ZCTA
+91976,Spring Valley,CA,Post Office or large volume customer,91977,Spatial join to ZCTA
+91977,Spring Valley,CA,Zip Code Area,91977,Zip Matches ZCTA
+91978,Spring Valley,CA,Zip Code Area,91978,Zip Matches ZCTA
+91979,Spring Valley,CA,Post Office or large volume customer,91977,Spatial join to ZCTA
+91980,Tecate,CA,Zip Code Area,91980,Zip Matches ZCTA
+91987,Tecate,CA,Post Office or large volume customer,91917,Spatial join to ZCTA
+92003,Bonsall,CA,Zip Code Area,92003,Zip Matches ZCTA
+92004,Borrego Springs,CA,Zip Code Area,92004,Zip Matches ZCTA
+92007,Cardiff By the Sea,CA,Zip Code Area,92007,Zip Matches ZCTA
+92008,Carlsbad,CA,Zip Code Area,92008,Zip Matches ZCTA
+92009,Carlsbad,CA,Zip Code Area,92009,Zip Matches ZCTA
+92010,Carlsbad,CA,Zip Code Area,92010,Zip Matches ZCTA
+92011,Carlsbad,CA,Zip Code Area,92011,Zip Matches ZCTA
+92013,Carlsbad,CA,Post Office or large volume customer,92011,Spatial join to ZCTA
+92014,Del Mar,CA,Zip Code Area,92014,Zip Matches ZCTA
+92018,Carlsbad,CA,Post Office or large volume customer,92008,Spatial join to ZCTA
+92019,El Cajon,CA,Zip Code Area,92019,Zip Matches ZCTA
+92020,El Cajon,CA,Zip Code Area,92020,Zip Matches ZCTA
+92021,El Cajon,CA,Zip Code Area,92021,Zip Matches ZCTA
+92022,El Cajon,CA,Post Office or large volume customer,92020,Spatial join to ZCTA
+92023,Encinitas,CA,Post Office or large volume customer,92024,Spatial join to ZCTA
+92024,Encinitas,CA,Zip Code Area,92024,Zip Matches ZCTA
+92025,Escondido,CA,Zip Code Area,92025,Zip Matches ZCTA
+92026,Escondido,CA,Zip Code Area,92026,Zip Matches ZCTA
+92027,Escondido,CA,Zip Code Area,92027,Zip Matches ZCTA
+92028,Fallbrook,CA,Zip Code Area,92028,Zip Matches ZCTA
+92029,Escondido,CA,Zip Code Area,92029,Zip Matches ZCTA
+92030,Escondido,CA,Post Office or large volume customer,92027,Spatial join to ZCTA
+92033,Escondido,CA,Post Office or large volume customer,92025,Spatial join to ZCTA
+92036,Julian,CA,Zip Code Area,92036,Zip Matches ZCTA
+92037,La Jolla,CA,Zip Code Area,92037,Zip Matches ZCTA
+92038,La Jolla,CA,Post Office or large volume customer,92037,Spatial join to ZCTA
+92039,La Jolla,CA,Post Office or large volume customer,92037,Spatial join to ZCTA
+92040,Lakeside,CA,Zip Code Area,92040,Zip Matches ZCTA
+92046,Escondido,CA,Post Office or large volume customer,92025,Spatial join to ZCTA
+92049,Oceanside,CA,Post Office or large volume customer,92054,Spatial join to ZCTA
+92051,Oceanside,CA,Post Office or large volume customer,92054,Spatial join to ZCTA
+92052,Oceanside,CA,Post Office or large volume customer,92056,Spatial join to ZCTA
+92054,Oceanside,CA,Zip Code Area,92054,Zip Matches ZCTA
+92055,Camp Pendleton,CA,Zip Code Area,92055,Zip Matches ZCTA
+92056,Oceanside,CA,Zip Code Area,92056,Zip Matches ZCTA
+92057,Oceanside,CA,Zip Code Area,92057,Zip Matches ZCTA
+92058,Oceanside,CA,Zip Code Area,92058,Zip Matches ZCTA
+92059,Pala,CA,Zip Code Area,92059,Zip Matches ZCTA
+92060,Palomar Mountain,CA,Post Office or large volume customer,92060,Zip Matches ZCTA
+92061,Pauma Valley,CA,Zip Code Area,92061,Zip Matches ZCTA
+92064,Poway,CA,Zip Code Area,92064,Zip Matches ZCTA
+92065,Ramona,CA,Zip Code Area,92065,Zip Matches ZCTA
+92066,Ranchita,CA,Zip Code Area,92066,Zip Matches ZCTA
+92067,Rancho Santa Fe,CA,Zip Code Area,92067,Zip Matches ZCTA
+92068,San Luis Rey,CA,Post Office or large volume customer,92058,Spatial join to ZCTA
+92069,San Marcos,CA,Zip Code Area,92069,Zip Matches ZCTA
+92070,Santa Ysabel,CA,Zip Code Area,92070,Zip Matches ZCTA
+92071,Santee,CA,Zip Code Area,92071,Zip Matches ZCTA
+92072,Santee,CA,Post Office or large volume customer,92071,Spatial join to ZCTA
+92074,Poway,CA,Post Office or large volume customer,92064,Spatial join to ZCTA
+92075,Solana Beach,CA,Zip Code Area,92075,Zip Matches ZCTA
+92078,San Marcos,CA,Zip Code Area,92078,Zip Matches ZCTA
+92079,San Marcos,CA,Post Office or large volume customer,92069,Spatial join to ZCTA
+92081,Vista,CA,Zip Code Area,92081,Zip Matches ZCTA
+92082,Valley Center,CA,Zip Code Area,92082,Zip Matches ZCTA
+92083,Vista,CA,Zip Code Area,92083,Zip Matches ZCTA
+92084,Vista,CA,Zip Code Area,92084,Zip Matches ZCTA
+92085,Vista,CA,Post Office or large volume customer,92083,Spatial join to ZCTA
+92086,Warner Springs,CA,Zip Code Area,92086,Zip Matches ZCTA
+92088,Fallbrook,CA,Post Office or large volume customer,92028,Spatial join to ZCTA
+92091,Rancho Santa Fe,CA,Zip Code Area,92091,Zip Matches ZCTA
+92092,La Jolla,CA,Post Office or large volume customer,92037,Spatial join to ZCTA
+92093,La Jolla,CA,Zip Code Area,92037,Spatial join to ZCTA
+92096,San Marcos,CA,Zip Code Area,92078,Spatial join to ZCTA
+92101,San Diego,CA,Zip Code Area,92101,Zip Matches ZCTA
+92102,San Diego,CA,Zip Code Area,92102,Zip Matches ZCTA
+92103,San Diego,CA,Zip Code Area,92103,Zip Matches ZCTA
+92104,San Diego,CA,Zip Code Area,92104,Zip Matches ZCTA
+92105,San Diego,CA,Zip Code Area,92105,Zip Matches ZCTA
+92106,San Diego,CA,Zip Code Area,92106,Zip Matches ZCTA
+92107,San Diego,CA,Zip Code Area,92107,Zip Matches ZCTA
+92108,San Diego,CA,Zip Code Area,92108,Zip Matches ZCTA
+92109,San Diego,CA,Zip Code Area,92109,Zip Matches ZCTA
+92110,San Diego,CA,Zip Code Area,92110,Zip Matches ZCTA
+92111,San Diego,CA,Zip Code Area,92111,Zip Matches ZCTA
+92112,San Diego,CA,Post Office or large volume customer,92101,Spatial join to ZCTA
+92113,San Diego,CA,Zip Code Area,92113,Zip Matches ZCTA
+92114,San Diego,CA,Zip Code Area,92114,Zip Matches ZCTA
+92115,San Diego,CA,Zip Code Area,92115,Zip Matches ZCTA
+92116,San Diego,CA,Zip Code Area,92116,Zip Matches ZCTA
+92117,San Diego,CA,Zip Code Area,92117,Zip Matches ZCTA
+92118,Coronado,CA,Zip Code Area,92118,Zip Matches ZCTA
+92119,San Diego,CA,Zip Code Area,92119,Zip Matches ZCTA
+92120,San Diego,CA,Zip Code Area,92120,Zip Matches ZCTA
+92121,San Diego,CA,Zip Code Area,92121,Zip Matches ZCTA
+92122,San Diego,CA,Zip Code Area,92122,Zip Matches ZCTA
+92123,San Diego,CA,Zip Code Area,92123,Zip Matches ZCTA
+92124,San Diego,CA,Zip Code Area,92124,Zip Matches ZCTA
+92126,San Diego,CA,Zip Code Area,92126,Zip Matches ZCTA
+92127,San Diego,CA,Zip Code Area,92127,Zip Matches ZCTA
+92128,San Diego,CA,Zip Code Area,92128,Zip Matches ZCTA
+92129,San Diego,CA,Zip Code Area,92129,Zip Matches ZCTA
+92130,San Diego,CA,Zip Code Area,92130,Zip Matches ZCTA
+92131,San Diego,CA,Zip Code Area,92131,Zip Matches ZCTA
+92132,San Diego,CA,Post Office or large volume customer,92132,Zip Matches ZCTA
+92134,San Diego,CA,Zip Code Area,92134,Zip Matches ZCTA
+92135,San Diego,CA,Zip Code Area,92135,Zip Matches ZCTA
+92136,San Diego,CA,Zip Code Area,92113,Spatial join to ZCTA
+92137,San Diego,CA,Post Office or large volume customer,92110,Spatial join to ZCTA
+92138,San Diego,CA,Post Office or large volume customer,92110,Spatial join to ZCTA
+92139,San Diego,CA,Zip Code Area,92139,Zip Matches ZCTA
+92140,San Diego,CA,Zip Code Area,92140,Zip Matches ZCTA
+92142,San Diego,CA,Post Office or large volume customer,92124,Spatial join to ZCTA
+92143,San Ysidro,CA,Post Office or large volume customer,92173,Spatial join to ZCTA
+92145,San Diego,CA,Zip Code Area,92145,Zip Matches ZCTA
+92147,San Diego,CA,Post Office or large volume customer,92147,Zip Matches ZCTA
+92149,San Diego,CA,Post Office or large volume customer,92139,Spatial join to ZCTA
+92150,San Diego,CA,Post Office or large volume customer,92128,Spatial join to ZCTA
+92152,San Diego,CA,Zip Code Area,92106,Spatial join to ZCTA
+92153,San Diego,CA,Post Office or large volume customer,92154,Spatial join to ZCTA
+92154,San Diego,CA,Zip Code Area,92154,Zip Matches ZCTA
+92155,San Diego,CA,Zip Code Area,92155,Zip Matches ZCTA
+92158,San Diego,CA,Post Office or large volume customer,92158,Spatial join to ZCTA
+92159,San Diego,CA,Post Office or large volume customer,92119,Spatial join to ZCTA
+92160,San Diego,CA,Post Office or large volume customer,92120,Spatial join to ZCTA
+92161,San Diego,CA,Post Office or large volume customer,92037,Spatial join to ZCTA
+92163,San Diego,CA,Post Office or large volume customer,92103,Spatial join to ZCTA
+92165,San Diego,CA,Post Office or large volume customer,92105,Spatial join to ZCTA
+92166,San Diego,CA,Post Office or large volume customer,92106,Spatial join to ZCTA
+92167,San Diego,CA,Post Office or large volume customer,92107,Spatial join to ZCTA
+92168,San Diego,CA,Post Office or large volume customer,92108,Spatial join to ZCTA
+92169,San Diego,CA,Post Office or large volume customer,92109,Spatial join to ZCTA
+92170,San Diego,CA,Post Office or large volume customer,92113,Spatial join to ZCTA
+92171,San Diego,CA,Post Office or large volume customer,92111,Spatial join to ZCTA
+92172,San Diego,CA,Post Office or large volume customer,92129,Spatial join to ZCTA
+92173,San Ysidro,CA,Zip Code Area,92173,Zip Matches ZCTA
+92174,San Diego,CA,Post Office or large volume customer,92114,Spatial join to ZCTA
+92175,San Diego,CA,Post Office or large volume customer,92115,Spatial join to ZCTA
+92176,San Diego,CA,Post Office or large volume customer,92116,Spatial join to ZCTA
+92177,San Diego,CA,Post Office or large volume customer,92117,Spatial join to ZCTA
+92178,Coronado,CA,Post Office or large volume customer,92118,Spatial join to ZCTA
+92179,San Diego,CA,Post Office or large volume customer,92154,Spatial join to ZCTA
+92182,San Diego,CA,Zip Code Area,92115,Spatial join to ZCTA
+92186,San Diego,CA,Post Office or large volume customer,92110,Spatial join to ZCTA
+92187,San Diego,CA,Post Office or large volume customer,92101,Spatial join to ZCTA
+92190,San Diego,CA,Post Office or large volume customer,92120,Spatial join to ZCTA
+92191,San Diego,CA,Post Office or large volume customer,92121,Spatial join to ZCTA
+92192,San Diego,CA,Post Office or large volume customer,92122,Spatial join to ZCTA
+92193,San Diego,CA,Post Office or large volume customer,92123,Spatial join to ZCTA
+92195,San Diego,CA,Post Office or large volume customer,92115,Spatial join to ZCTA
+92196,San Diego,CA,Post Office or large volume customer,92126,Spatial join to ZCTA
+92197,San Diego,CA,Post Office or large volume customer,92128,Spatial join to ZCTA
+92198,San Diego,CA,Post Office or large volume customer,92128,Spatial join to ZCTA
+92199,San Diego,CA,Post Office or large volume customer,92128,Spatial join to ZCTA
+92201,Indio,CA,Zip Code Area,92201,Zip Matches ZCTA
+92202,Indio,CA,Post Office or large volume customer,92201,Spatial join to ZCTA
+92203,Indio,CA,Zip Code Area,92203,Zip Matches ZCTA
+92210,Indian Wells,CA,Zip Code Area,92210,Zip Matches ZCTA
+92211,Palm Desert,CA,Zip Code Area,92211,Zip Matches ZCTA
+92220,Banning,CA,Zip Code Area,92220,Zip Matches ZCTA
+92222,Bard,CA,Post Office or large volume customer,92222,Zip Matches ZCTA
+92223,Beaumont,CA,Zip Code Area,92223,Zip Matches ZCTA
+92225,Blythe,CA,Zip Code Area,92225,Zip Matches ZCTA
+92226,Blythe,CA,Post Office or large volume customer,92225,Spatial join to ZCTA
+92227,Brawley,CA,Zip Code Area,92227,Zip Matches ZCTA
+92230,Cabazon,CA,Zip Code Area,92230,Zip Matches ZCTA
+92231,Calexico,CA,Zip Code Area,92231,Zip Matches ZCTA
+92232,Calexico,CA,Post Office or large volume customer,92231,Spatial join to ZCTA
+92233,Calipatria,CA,Zip Code Area,92233,Zip Matches ZCTA
+92234,Cathedral City,CA,Zip Code Area,92234,Zip Matches ZCTA
+92235,Cathedral City,CA,Post Office or large volume customer,92234,Spatial join to ZCTA
+92236,Coachella,CA,Zip Code Area,92236,Zip Matches ZCTA
+92239,Desert Center,CA,Zip Code Area,92239,Zip Matches ZCTA
+92240,Desert Hot Springs,CA,Zip Code Area,92240,Zip Matches ZCTA
+92241,Desert Hot Springs,CA,Zip Code Area,92241,Zip Matches ZCTA
+92242,Earp,CA,Zip Code Area,92242,Zip Matches ZCTA
+92243,El Centro,CA,Zip Code Area,92243,Zip Matches ZCTA
+92244,El Centro,CA,Post Office or large volume customer,92243,Spatial join to ZCTA
+92247,La Quinta,CA,Post Office or large volume customer,92253,Spatial join to ZCTA
+92248,La Quinta,CA,Post Office or large volume customer,92253,Spatial join to ZCTA
+92249,Heber,CA,Zip Code Area,92249,Zip Matches ZCTA
+92250,Holtville,CA,Zip Code Area,92250,Zip Matches ZCTA
+92251,Imperial,CA,Zip Code Area,92251,Zip Matches ZCTA
+92252,Joshua Tree,CA,Zip Code Area,92252,Zip Matches ZCTA
+92253,La Quinta,CA,Zip Code Area,92253,Zip Matches ZCTA
+92254,Mecca,CA,Zip Code Area,92254,Zip Matches ZCTA
+92255,Palm Desert,CA,Post Office or large volume customer,92260,Spatial join to ZCTA
+92256,Morongo Valley,CA,Zip Code Area,92256,Zip Matches ZCTA
+92257,Niland,CA,Zip Code Area,92257,Zip Matches ZCTA
+92258,North Palm Springs,CA,Zip Code Area,92258,Zip Matches ZCTA
+92259,Ocotillo,CA,Zip Code Area,92259,Zip Matches ZCTA
+92260,Palm Desert,CA,Zip Code Area,92260,Zip Matches ZCTA
+92261,Palm Desert,CA,Post Office or large volume customer,92260,Spatial join to ZCTA
+92262,Palm Springs,CA,Zip Code Area,92262,Zip Matches ZCTA
+92263,Palm Springs,CA,Post Office or large volume customer,92262,Spatial join to ZCTA
+92264,Palm Springs,CA,Zip Code Area,92264,Zip Matches ZCTA
+92266,Palo Verde,CA,Post Office or large volume customer,92266,Zip Matches ZCTA
+92267,Parker Dam,CA,Zip Code Area,92267,Zip Matches ZCTA
+92268,Pioneertown,CA,Post Office or large volume customer,92268,Zip Matches ZCTA
+92270,Rancho Mirage,CA,Zip Code Area,92270,Zip Matches ZCTA
+92273,Seeley,CA,Post Office or large volume customer,92273,Zip Matches ZCTA
+92274,Thermal,CA,Zip Code Area,92274,Zip Matches ZCTA
+92275,Salton City,CA,Post Office or large volume customer,92275,Zip Matches ZCTA
+92276,Thousand Palms,CA,Zip Code Area,92276,Zip Matches ZCTA
+92277,Twentynine Palms,CA,Zip Code Area,92277,Zip Matches ZCTA
+92278,Twentynine Palms,CA,Zip Code Area,92278,Zip Matches ZCTA
+92280,Vidal,CA,Zip Code Area,92280,Zip Matches ZCTA
+92281,Westmorland,CA,Zip Code Area,92281,Zip Matches ZCTA
+92282,Whitewater,CA,Zip Code Area,92282,Zip Matches ZCTA
+92283,Winterhaven,CA,Zip Code Area,92283,Zip Matches ZCTA
+92284,Yucca Valley,CA,Zip Code Area,92284,Zip Matches ZCTA
+92285,Landers,CA,Zip Code Area,92285,Zip Matches ZCTA
+92286,Yucca Valley,CA,Post Office or large volume customer,92284,Spatial join to ZCTA
+92301,Adelanto,CA,Zip Code Area,92301,Zip Matches ZCTA
+92304,Amboy,CA,Zip Code Area,92304,Zip Matches ZCTA
+92305,Angelus Oaks,CA,Zip Code Area,92305,Zip Matches ZCTA
+92307,Apple Valley,CA,Zip Code Area,92307,Zip Matches ZCTA
+92308,Apple Valley,CA,Zip Code Area,92308,Zip Matches ZCTA
+92309,Baker,CA,Zip Code Area,92309,Zip Matches ZCTA
+92310,Fort Irwin,CA,Zip Code Area,92310,Zip Matches ZCTA
+92311,Barstow,CA,Zip Code Area,92311,Zip Matches ZCTA
+92312,Barstow,CA,Post Office or large volume customer,92311,Spatial join to ZCTA
+92313,Grand Terrace,CA,Zip Code Area,92313,Zip Matches ZCTA
+92314,Big Bear City,CA,Zip Code Area,92314,Zip Matches ZCTA
+92315,Big Bear Lake,CA,Zip Code Area,92315,Zip Matches ZCTA
+92316,Bloomington,CA,Zip Code Area,92316,Zip Matches ZCTA
+92317,Blue Jay,CA,Zip Code Area,92352,Spatial join to ZCTA
+92318,Bryn Mawr,CA,Zip Code Area,92354,Spatial join to ZCTA
+92320,Calimesa,CA,Zip Code Area,92320,Zip Matches ZCTA
+92321,Cedar Glen,CA,Zip Code Area,92321,Zip Matches ZCTA
+92322,Cedarpines Park,CA,Zip Code Area,92322,Zip Matches ZCTA
+92323,Cima,CA,Post Office or large volume customer,92364,Spatial join to ZCTA
+92324,Colton,CA,Zip Code Area,92324,Zip Matches ZCTA
+92325,Crestline,CA,Zip Code Area,92325,Zip Matches ZCTA
+92327,Daggett,CA,Zip Code Area,92327,Zip Matches ZCTA
+92328,Death Valley,CA,Zip Code Area,92328,Zip Matches ZCTA
+92329,Phelan,CA,Post Office or large volume customer,92371,Spatial join to ZCTA
+92331,Fontana,CA,Post Office or large volume customer,92337,Spatial join to ZCTA
+92332,Essex,CA,Zip Code Area,92332,Zip Matches ZCTA
+92333,Fawnskin,CA,Zip Code Area,92333,Zip Matches ZCTA
+92334,Fontana,CA,Post Office or large volume customer,92335,Spatial join to ZCTA
+92335,Fontana,CA,Zip Code Area,92335,Zip Matches ZCTA
+92336,Fontana,CA,Zip Code Area,92336,Zip Matches ZCTA
+92337,Fontana,CA,Zip Code Area,92337,Zip Matches ZCTA
+92338,Ludlow,CA,Zip Code Area,92338,Zip Matches ZCTA
+92339,Forest Falls,CA,Zip Code Area,92339,Zip Matches ZCTA
+92340,Hesperia,CA,Post Office or large volume customer,92345,Spatial join to ZCTA
+92341,Green Valley Lake,CA,Zip Code Area,92341,Zip Matches ZCTA
+92342,Helendale,CA,Zip Code Area,92342,Zip Matches ZCTA
+92344,Hesperia,CA,Zip Code Area,92344,Zip Matches ZCTA
+92345,Hesperia,CA,Zip Code Area,92345,Zip Matches ZCTA
+92346,Highland,CA,Zip Code Area,92346,Zip Matches ZCTA
+92347,Hinkley,CA,Zip Code Area,92347,Zip Matches ZCTA
+92350,Loma Linda,CA,Zip Code Area,92354,Spatial join to ZCTA
+92352,Lake Arrowhead,CA,Zip Code Area,92352,Zip Matches ZCTA
+92354,Loma Linda,CA,Zip Code Area,92354,Zip Matches ZCTA
+92356,Lucerne Valley,CA,Zip Code Area,92356,Zip Matches ZCTA
+92357,Loma Linda,CA,Post Office or large volume customer,92354,Spatial join to ZCTA
+92358,Lytle Creek,CA,Zip Code Area,92358,Zip Matches ZCTA
+92359,Mentone,CA,Zip Code Area,92359,Zip Matches ZCTA
+92363,Needles,CA,Zip Code Area,92363,Zip Matches ZCTA
+92364,Nipton,CA,Zip Code Area,92364,Zip Matches ZCTA
+92365,Newberry Springs,CA,Zip Code Area,92365,Zip Matches ZCTA
+92366,Mountain Pass,CA,Post Office or large volume customer,92364,Spatial join to ZCTA
+92368,Oro Grande,CA,Zip Code Area,92368,Zip Matches ZCTA
+92369,Patton,CA,Post Office or large volume customer,92346,Spatial join to ZCTA
+92371,Phelan,CA,Zip Code Area,92371,Zip Matches ZCTA
+92372,Pinon Hills,CA,Zip Code Area,92372,Zip Matches ZCTA
+92373,Redlands,CA,Zip Code Area,92373,Zip Matches ZCTA
+92374,Redlands,CA,Zip Code Area,92374,Zip Matches ZCTA
+92375,Redlands,CA,Post Office or large volume customer,92373,Spatial join to ZCTA
+92376,Rialto,CA,Zip Code Area,92376,Zip Matches ZCTA
+92377,Rialto,CA,Zip Code Area,92377,Zip Matches ZCTA
+92378,Rimforest,CA,Zip Code Area,92378,Zip Matches ZCTA
+92382,Running Springs,CA,Zip Code Area,92382,Zip Matches ZCTA
+92384,Shoshone,CA,Zip Code Area,92384,Zip Matches ZCTA
+92385,Skyforest,CA,Zip Code Area,92385,Zip Matches ZCTA
+92386,Sugarloaf,CA,Zip Code Area,92386,Zip Matches ZCTA
+92389,Tecopa,CA,Zip Code Area,92389,Zip Matches ZCTA
+92391,Twin Peaks,CA,Zip Code Area,92391,Zip Matches ZCTA
+92392,Victorville,CA,Zip Code Area,92392,Zip Matches ZCTA
+92393,Victorville,CA,Post Office or large volume customer,92395,Spatial join to ZCTA
+92394,Victorville,CA,Zip Code Area,92394,Zip Matches ZCTA
+92395,Victorville,CA,Zip Code Area,92395,Zip Matches ZCTA
+92397,Wrightwood,CA,Zip Code Area,92397,Zip Matches ZCTA
+92398,Yermo,CA,Zip Code Area,92398,Zip Matches ZCTA
+92399,Yucaipa,CA,Zip Code Area,92399,Zip Matches ZCTA
+92401,San Bernardino,CA,Zip Code Area,92401,Zip Matches ZCTA
+92402,San Bernardino,CA,Post Office or large volume customer,92401,Spatial join to ZCTA
+92403,San Bernardino,CA,Post Office or large volume customer,92401,Spatial join to ZCTA
+92404,San Bernardino,CA,Zip Code Area,92404,Zip Matches ZCTA
+92405,San Bernardino,CA,Zip Code Area,92405,Zip Matches ZCTA
+92406,San Bernardino,CA,Post Office or large volume customer,92405,Spatial join to ZCTA
+92407,San Bernardino,CA,Zip Code Area,92407,Zip Matches ZCTA
+92408,San Bernardino,CA,Zip Code Area,92408,Zip Matches ZCTA
+92410,San Bernardino,CA,Zip Code Area,92410,Zip Matches ZCTA
+92411,San Bernardino,CA,Zip Code Area,92411,Zip Matches ZCTA
+92413,San Bernardino,CA,Post Office or large volume customer,92404,Spatial join to ZCTA
+92415,San Bernardino,CA,Zip Code Area,92401,Spatial join to ZCTA
+92418,San Bernardino,CA,Post Office or large volume customer,92401,Spatial join to ZCTA
+92423,San Bernardino,CA,Post Office or large volume customer,92408,Spatial join to ZCTA
+92427,San Bernardino,CA,Post Office or large volume customer,92407,Spatial join to ZCTA
+92501,Riverside,CA,Zip Code Area,92501,Zip Matches ZCTA
+92502,Riverside,CA,Post Office or large volume customer,92501,Spatial join to ZCTA
+92503,Riverside,CA,Zip Code Area,92503,Zip Matches ZCTA
+92504,Riverside,CA,Zip Code Area,92504,Zip Matches ZCTA
+92505,Riverside,CA,Zip Code Area,92505,Zip Matches ZCTA
+92506,Riverside,CA,Zip Code Area,92506,Zip Matches ZCTA
+92507,Riverside,CA,Zip Code Area,92507,Zip Matches ZCTA
+92508,Riverside,CA,Zip Code Area,92508,Zip Matches ZCTA
+92509,Riverside,CA,Zip Code Area,92509,Zip Matches ZCTA
+92513,Riverside,CA,Post Office or large volume customer,92503,Spatial join to ZCTA
+92514,Riverside,CA,Post Office or large volume customer,92504,Spatial join to ZCTA
+92516,Riverside,CA,Post Office or large volume customer,92506,Spatial join to ZCTA
+92517,Riverside,CA,Post Office or large volume customer,92507,Spatial join to ZCTA
+92518,March Air Reserve Base,CA,Zip Code Area,92518,Zip Matches ZCTA
+92519,Riverside,CA,Post Office or large volume customer,92509,Spatial join to ZCTA
+92521,Riverside,CA,Zip Code Area,92507,Spatial join to ZCTA
+92522,Riverside,CA,Post Office or large volume customer,92501,Spatial join to ZCTA
+92530,Lake Elsinore,CA,Zip Code Area,92530,Zip Matches ZCTA
+92531,Lake Elsinore,CA,Post Office or large volume customer,92530,Spatial join to ZCTA
+92532,Lake Elsinore,CA,Zip Code Area,92532,Zip Matches ZCTA
+92536,Aguanga,CA,Zip Code Area,92536,Zip Matches ZCTA
+92539,Anza,CA,Zip Code Area,92539,Zip Matches ZCTA
+92543,Hemet,CA,Zip Code Area,92543,Zip Matches ZCTA
+92544,Hemet,CA,Zip Code Area,92544,Zip Matches ZCTA
+92545,Hemet,CA,Zip Code Area,92545,Zip Matches ZCTA
+92546,Hemet,CA,Post Office or large volume customer,92543,Spatial join to ZCTA
+92548,Homeland,CA,Zip Code Area,92548,Zip Matches ZCTA
+92549,Idyllwild,CA,Zip Code Area,92549,Zip Matches ZCTA
+92551,Moreno Valley,CA,Zip Code Area,92551,Zip Matches ZCTA
+92552,Moreno Valley,CA,Post Office or large volume customer,92553,Spatial join to ZCTA
+92553,Moreno Valley,CA,Zip Code Area,92553,Zip Matches ZCTA
+92554,Moreno Valley,CA,Post Office or large volume customer,92553,Spatial join to ZCTA
+92555,Moreno Valley,CA,Zip Code Area,92555,Zip Matches ZCTA
+92556,Moreno Valley,CA,Post Office or large volume customer,92553,Spatial join to ZCTA
+92557,Moreno Valley,CA,Zip Code Area,92557,Zip Matches ZCTA
+92561,Mountain Center,CA,Zip Code Area,92561,Zip Matches ZCTA
+92562,Murrieta,CA,Zip Code Area,92562,Zip Matches ZCTA
+92563,Murrieta,CA,Zip Code Area,92563,Zip Matches ZCTA
+92564,Murrieta,CA,Post Office or large volume customer,92562,Spatial join to ZCTA
+92567,Nuevo,CA,Zip Code Area,92567,Zip Matches ZCTA
+92570,Perris,CA,Zip Code Area,92570,Zip Matches ZCTA
+92571,Perris,CA,Zip Code Area,92571,Zip Matches ZCTA
+92572,Perris,CA,Post Office or large volume customer,92570,Spatial join to ZCTA
+92581,San Jacinto,CA,Post Office or large volume customer,92583,Spatial join to ZCTA
+92582,San Jacinto,CA,Zip Code Area,92582,Zip Matches ZCTA
+92583,San Jacinto,CA,Zip Code Area,92583,Zip Matches ZCTA
+92584,Menifee,CA,Zip Code Area,92584,Zip Matches ZCTA
+92585,Sun City,CA,Zip Code Area,92585,Zip Matches ZCTA
+92586,Sun City,CA,Zip Code Area,92586,Zip Matches ZCTA
+92587,Quail Valley,CA,Zip Code Area,92587,Zip Matches ZCTA
+92589,Temecula,CA,Post Office or large volume customer,92592,Spatial join to ZCTA
+92590,Temecula,CA,Zip Code Area,92590,Zip Matches ZCTA
+92591,Temecula,CA,Zip Code Area,92591,Zip Matches ZCTA
+92592,Temecula,CA,Zip Code Area,92592,Zip Matches ZCTA
+92593,Temecula,CA,Post Office or large volume customer,92590,Spatial join to ZCTA
+92595,Wildomar,CA,Zip Code Area,92595,Zip Matches ZCTA
+92596,Winchester,CA,Zip Code Area,92596,Zip Matches ZCTA
+92599,Perris,CA,Post Office or large volume customer,92571,Spatial join to ZCTA
+92602,Irvine,CA,Zip Code Area,92602,Zip Matches ZCTA
+92603,Irvine,CA,Zip Code Area,92603,Zip Matches ZCTA
+92604,Irvine,CA,Zip Code Area,92604,Zip Matches ZCTA
+92605,Huntington Beach,CA,Post Office or large volume customer,92647,Spatial join to ZCTA
+92606,Irvine,CA,Zip Code Area,92606,Zip Matches ZCTA
+92607,Laguna Niguel,CA,Post Office or large volume customer,92677,Spatial join to ZCTA
+92609,El Toro,CA,Post Office or large volume customer,92630,Spatial join to ZCTA
+92610,Foothill Ranch,CA,Zip Code Area,92610,Zip Matches ZCTA
+92612,Irvine,CA,Zip Code Area,92612,Zip Matches ZCTA
+92614,Irvine,CA,Zip Code Area,92614,Zip Matches ZCTA
+92615,Huntington Beach,CA,Post Office or large volume customer,92646,Spatial join to ZCTA
+92616,Irvine,CA,Post Office or large volume customer,92612,Spatial join to ZCTA
+92617,Irvine,CA,Zip Code Area,92617,Zip Matches ZCTA
+92618,Irvine,CA,Zip Code Area,92618,Zip Matches ZCTA
+92619,Irvine,CA,Post Office or large volume customer,92618,Spatial join to ZCTA
+92620,Irvine,CA,Zip Code Area,92620,Zip Matches ZCTA
+92623,Irvine,CA,Post Office or large volume customer,92614,Spatial join to ZCTA
+92624,Capistrano Beach,CA,Zip Code Area,92624,Zip Matches ZCTA
+92625,Corona del Mar,CA,Zip Code Area,92625,Zip Matches ZCTA
+92626,Costa Mesa,CA,Zip Code Area,92626,Zip Matches ZCTA
+92627,Costa Mesa,CA,Zip Code Area,92627,Zip Matches ZCTA
+92628,Costa Mesa,CA,Post Office or large volume customer,92626,Spatial join to ZCTA
+92629,Dana Point,CA,Zip Code Area,92629,Zip Matches ZCTA
+92630,Lake Forest,CA,Zip Code Area,92630,Zip Matches ZCTA
+92637,Laguna Woods,CA,Zip Code Area,92637,Zip Matches ZCTA
+92646,Huntington Beach,CA,Zip Code Area,92646,Zip Matches ZCTA
+92647,Huntington Beach,CA,Zip Code Area,92647,Zip Matches ZCTA
+92648,Huntington Beach,CA,Zip Code Area,92648,Zip Matches ZCTA
+92649,Huntington Beach,CA,Zip Code Area,92649,Zip Matches ZCTA
+92650,East Irvine,CA,Post Office or large volume customer,92618,Spatial join to ZCTA
+92651,Laguna Beach,CA,Zip Code Area,92651,Zip Matches ZCTA
+92652,Laguna Beach,CA,Post Office or large volume customer,92651,Spatial join to ZCTA
+92653,Laguna Hills,CA,Zip Code Area,92653,Zip Matches ZCTA
+92654,Laguna Hills,CA,Post Office or large volume customer,92653,Spatial join to ZCTA
+92655,Midway City,CA,Zip Code Area,92655,Zip Matches ZCTA
+92656,Aliso Viejo,CA,Zip Code Area,92656,Zip Matches ZCTA
+92657,Newport Coast,CA,Zip Code Area,92657,Zip Matches ZCTA
+92658,Newport Beach,CA,Post Office or large volume customer,92660,Spatial join to ZCTA
+92659,Newport Beach,CA,Post Office or large volume customer,92663,Spatial join to ZCTA
+92660,Newport Beach,CA,Zip Code Area,92660,Zip Matches ZCTA
+92661,Newport Beach,CA,Zip Code Area,92661,Zip Matches ZCTA
+92662,Newport Beach,CA,Zip Code Area,92662,Zip Matches ZCTA
+92663,Newport Beach,CA,Zip Code Area,92663,Zip Matches ZCTA
+92672,San Clemente,CA,Zip Code Area,92672,Zip Matches ZCTA
+92673,San Clemente,CA,Zip Code Area,92673,Zip Matches ZCTA
+92674,San Clemente,CA,Post Office or large volume customer,92672,Spatial join to ZCTA
+92675,San Juan Capistrano,CA,Zip Code Area,92675,Zip Matches ZCTA
+92676,Silverado,CA,Zip Code Area,92676,Zip Matches ZCTA
+92677,Laguna Niguel,CA,Zip Code Area,92677,Zip Matches ZCTA
+92678,Trabuco Canyon,CA,Post Office or large volume customer,92678,Zip Matches ZCTA
+92679,Trabuco Canyon,CA,Zip Code Area,92679,Zip Matches ZCTA
+92683,Westminster,CA,Zip Code Area,92683,Zip Matches ZCTA
+92684,Westminster,CA,Post Office or large volume customer,92683,Spatial join to ZCTA
+92685,Westminster,CA,Post Office or large volume customer,92683,Spatial join to ZCTA
+92688,Rancho Santa Margarita,CA,Zip Code Area,92688,Zip Matches ZCTA
+92690,Mission Viejo,CA,Post Office or large volume customer,92691,Spatial join to ZCTA
+92691,Mission Viejo,CA,Zip Code Area,92691,Zip Matches ZCTA
+92692,Mission Viejo,CA,Zip Code Area,92692,Zip Matches ZCTA
+92693,San Juan Capistrano,CA,Post Office or large volume customer,92675,Spatial join to ZCTA
+92694,Ladera Ranch,CA,Zip Code Area,92694,Zip Matches ZCTA
+92697,Irvine,CA,Zip Code Area,92617,Spatial join to ZCTA
+92698,Aliso Viejo,CA,Post Office or large volume customer,92656,Spatial join to ZCTA
+92701,Santa Ana,CA,Zip Code Area,92701,Zip Matches ZCTA
+92702,Santa Ana,CA,Post Office or large volume customer,92701,Spatial join to ZCTA
+92703,Santa Ana,CA,Zip Code Area,92703,Zip Matches ZCTA
+92704,Santa Ana,CA,Zip Code Area,92704,Zip Matches ZCTA
+92705,Santa Ana,CA,Zip Code Area,92705,Zip Matches ZCTA
+92706,Santa Ana,CA,Zip Code Area,92706,Zip Matches ZCTA
+92707,Santa Ana,CA,Zip Code Area,92707,Zip Matches ZCTA
+92708,Fountain Valley,CA,Zip Code Area,92708,Zip Matches ZCTA
+92711,Santa Ana,CA,Post Office or large volume customer,92705,Spatial join to ZCTA
+92712,Santa Ana,CA,Post Office or large volume customer,92701,Spatial join to ZCTA
+92728,Fountain Valley,CA,Post Office or large volume customer,92708,Spatial join to ZCTA
+92735,Santa Ana,CA,Post Office or large volume customer,92705,Spatial join to ZCTA
+92780,Tustin,CA,Zip Code Area,92780,Zip Matches ZCTA
+92781,Tustin,CA,Post Office or large volume customer,92780,Spatial join to ZCTA
+92782,Tustin,CA,Zip Code Area,92782,Zip Matches ZCTA
+92799,Santa Ana,CA,Post Office or large volume customer,92704,Spatial join to ZCTA
+92801,Anaheim,CA,Zip Code Area,92801,Zip Matches ZCTA
+92802,Anaheim,CA,Zip Code Area,92802,Zip Matches ZCTA
+92803,Anaheim,CA,Post Office or large volume customer,92801,Spatial join to ZCTA
+92804,Anaheim,CA,Zip Code Area,92804,Zip Matches ZCTA
+92805,Anaheim,CA,Zip Code Area,92805,Zip Matches ZCTA
+92806,Anaheim,CA,Zip Code Area,92806,Zip Matches ZCTA
+92807,Anaheim,CA,Zip Code Area,92807,Zip Matches ZCTA
+92808,Anaheim,CA,Zip Code Area,92808,Zip Matches ZCTA
+92809,Anaheim,CA,Post Office or large volume customer,92808,Spatial join to ZCTA
+92811,Atwood,CA,Post Office or large volume customer,92870,Spatial join to ZCTA
+92812,Anaheim,CA,Post Office or large volume customer,92802,Spatial join to ZCTA
+92814,Anaheim,CA,Post Office or large volume customer,92804,Spatial join to ZCTA
+92815,Anaheim,CA,Post Office or large volume customer,92805,Spatial join to ZCTA
+92816,Anaheim,CA,Post Office or large volume customer,92806,Spatial join to ZCTA
+92817,Anaheim,CA,Post Office or large volume customer,92807,Spatial join to ZCTA
+92821,Brea,CA,Zip Code Area,92821,Zip Matches ZCTA
+92822,Brea,CA,Post Office or large volume customer,92821,Spatial join to ZCTA
+92823,Brea,CA,Zip Code Area,92823,Zip Matches ZCTA
+92825,Anaheim,CA,Post Office or large volume customer,92805,Spatial join to ZCTA
+92831,Fullerton,CA,Zip Code Area,92831,Zip Matches ZCTA
+92832,Fullerton,CA,Zip Code Area,92832,Zip Matches ZCTA
+92833,Fullerton,CA,Zip Code Area,92833,Zip Matches ZCTA
+92834,Fullerton,CA,Post Office or large volume customer,92831,Spatial join to ZCTA
+92835,Fullerton,CA,Zip Code Area,92835,Zip Matches ZCTA
+92836,Fullerton,CA,Post Office or large volume customer,92832,Spatial join to ZCTA
+92837,Fullerton,CA,Post Office or large volume customer,92833,Spatial join to ZCTA
+92838,Fullerton,CA,Post Office or large volume customer,92835,Spatial join to ZCTA
+92840,Garden Grove,CA,Zip Code Area,92840,Zip Matches ZCTA
+92841,Garden Grove,CA,Zip Code Area,92841,Zip Matches ZCTA
+92842,Garden Grove,CA,Post Office or large volume customer,92840,Spatial join to ZCTA
+92843,Garden Grove,CA,Zip Code Area,92843,Zip Matches ZCTA
+92844,Garden Grove,CA,Zip Code Area,92844,Zip Matches ZCTA
+92845,Garden Grove,CA,Zip Code Area,92845,Zip Matches ZCTA
+92846,Garden Grove,CA,Post Office or large volume customer,92845,Spatial join to ZCTA
+92850,Anaheim,CA,Post Office or large volume customer,92801,Spatial join to ZCTA
+92856,Orange,CA,Post Office or large volume customer,92866,Spatial join to ZCTA
+92857,Orange,CA,Post Office or large volume customer,92865,Spatial join to ZCTA
+92859,Orange,CA,Post Office or large volume customer,92869,Spatial join to ZCTA
+92860,Norco,CA,Zip Code Area,92860,Zip Matches ZCTA
+92861,Villa Park,CA,Zip Code Area,92861,Zip Matches ZCTA
+92862,Orange,CA,Post Office or large volume customer,92869,Spatial join to ZCTA
+92863,Orange,CA,Post Office or large volume customer,92867,Spatial join to ZCTA
+92864,Orange,CA,Post Office or large volume customer,92867,Spatial join to ZCTA
+92865,Orange,CA,Zip Code Area,92865,Zip Matches ZCTA
+92866,Orange,CA,Zip Code Area,92866,Zip Matches ZCTA
+92867,Orange,CA,Zip Code Area,92867,Zip Matches ZCTA
+92868,Orange,CA,Zip Code Area,92868,Zip Matches ZCTA
+92869,Orange,CA,Zip Code Area,92869,Zip Matches ZCTA
+92870,Placentia,CA,Zip Code Area,92870,Zip Matches ZCTA
+92871,Placentia,CA,Post Office or large volume customer,92870,Spatial join to ZCTA
+92877,Corona,CA,Post Office or large volume customer,92881,Spatial join to ZCTA
+92878,Corona,CA,Post Office or large volume customer,92882,Spatial join to ZCTA
+92879,Corona,CA,Zip Code Area,92879,Zip Matches ZCTA
+92880,Corona,CA,Zip Code Area,92880,Zip Matches ZCTA
+92881,Corona,CA,Zip Code Area,92881,Zip Matches ZCTA
+92882,Corona,CA,Zip Code Area,92882,Zip Matches ZCTA
+92883,Corona,CA,Zip Code Area,92883,Zip Matches ZCTA
+92885,Yorba Linda,CA,Post Office or large volume customer,92886,Spatial join to ZCTA
+92886,Yorba Linda,CA,Zip Code Area,92886,Zip Matches ZCTA
+92887,Yorba Linda,CA,Zip Code Area,92887,Zip Matches ZCTA
+92899,Anaheim,CA,Post Office or large volume customer,92807,Spatial join to ZCTA
+93001,Ventura,CA,Zip Code Area,93001,Zip Matches ZCTA
+93002,Ventura,CA,Post Office or large volume customer,93001,Spatial join to ZCTA
+93003,Ventura,CA,Zip Code Area,93003,Zip Matches ZCTA
+93004,Ventura,CA,Zip Code Area,93004,Zip Matches ZCTA
+93005,Ventura,CA,Post Office or large volume customer,93003,Spatial join to ZCTA
+93006,Ventura,CA,Post Office or large volume customer,93003,Spatial join to ZCTA
+93007,Ventura,CA,Post Office or large volume customer,93004,Spatial join to ZCTA
+93009,Ventura,CA,Post Office or large volume customer,93003,Spatial join to ZCTA
+93010,Camarillo,CA,Zip Code Area,93010,Zip Matches ZCTA
+93011,Camarillo,CA,Post Office or large volume customer,93010,Spatial join to ZCTA
+93012,Camarillo,CA,Zip Code Area,93012,Zip Matches ZCTA
+93013,Carpinteria,CA,Zip Code Area,93013,Zip Matches ZCTA
+93014,Carpinteria,CA,Post Office or large volume customer,93013,Spatial join to ZCTA
+93015,Fillmore,CA,Zip Code Area,93015,Zip Matches ZCTA
+93016,Fillmore,CA,Post Office or large volume customer,93015,Spatial join to ZCTA
+93020,Moorpark,CA,Post Office or large volume customer,93021,Spatial join to ZCTA
+93021,Moorpark,CA,Zip Code Area,93021,Zip Matches ZCTA
+93022,Oak View,CA,Zip Code Area,93022,Zip Matches ZCTA
+93023,Ojai,CA,Zip Code Area,93023,Zip Matches ZCTA
+93024,Ojai,CA,Post Office or large volume customer,93023,Spatial join to ZCTA
+93030,Oxnard,CA,Zip Code Area,93030,Zip Matches ZCTA
+93031,Oxnard,CA,Post Office or large volume customer,93036,Spatial join to ZCTA
+93032,Oxnard,CA,Post Office or large volume customer,93030,Spatial join to ZCTA
+93033,Oxnard,CA,Zip Code Area,93033,Zip Matches ZCTA
+93034,Oxnard,CA,Post Office or large volume customer,93033,Spatial join to ZCTA
+93035,Oxnard,CA,Zip Code Area,93035,Zip Matches ZCTA
+93036,Oxnard,CA,Zip Code Area,93036,Zip Matches ZCTA
+93040,Piru,CA,Zip Code Area,93040,Zip Matches ZCTA
+93041,Port Hueneme,CA,Zip Code Area,93041,Zip Matches ZCTA
+93042,Point Mugu Nawc,CA,Zip Code Area,93042,Zip Matches ZCTA
+93043,Port Hueneme CBC Base,CA,Zip Code Area,93043,Zip Matches ZCTA
+93044,Port Hueneme,CA,Post Office or large volume customer,93041,Spatial join to ZCTA
+93060,Santa Paula,CA,Zip Code Area,93060,Zip Matches ZCTA
+93061,Santa Paula,CA,Post Office or large volume customer,93060,Spatial join to ZCTA
+93062,Simi Valley,CA,Post Office or large volume customer,93065,Spatial join to ZCTA
+93063,Simi Valley,CA,Zip Code Area,93063,Zip Matches ZCTA
+93064,Brandeis,CA,Post Office or large volume customer,93064,Zip Matches ZCTA
+93065,Simi Valley,CA,Zip Code Area,93065,Zip Matches ZCTA
+93066,Somis,CA,Zip Code Area,93066,Zip Matches ZCTA
+93067,Summerland,CA,Zip Code Area,93067,Zip Matches ZCTA
+93094,Simi Valley,CA,Post Office or large volume customer,93065,Spatial join to ZCTA
+93099,Simi Valley,CA,Post Office or large volume customer,93063,Spatial join to ZCTA
+93101,Santa Barbara,CA,Zip Code Area,93101,Zip Matches ZCTA
+93102,Santa Barbara,CA,Post Office or large volume customer,93101,Spatial join to ZCTA
+93103,Santa Barbara,CA,Zip Code Area,93103,Zip Matches ZCTA
+93105,Santa Barbara,CA,Zip Code Area,93105,Zip Matches ZCTA
+93106,Santa Barbara,CA,Zip Code Area,93117,Spatial join to ZCTA
+93107,Santa Barbara,CA,Post Office or large volume customer,93117,Spatial join to ZCTA
+93108,Santa Barbara,CA,Zip Code Area,93108,Zip Matches ZCTA
+93109,Santa Barbara,CA,Zip Code Area,93109,Zip Matches ZCTA
+93110,Santa Barbara,CA,Zip Code Area,93110,Zip Matches ZCTA
+93111,Santa Barbara,CA,Zip Code Area,93111,Zip Matches ZCTA
+93116,Goleta,CA,Post Office or large volume customer,93111,Spatial join to ZCTA
+93117,Goleta,CA,Zip Code Area,93117,Zip Matches ZCTA
+93118,Goleta,CA,Post Office or large volume customer,93117,Spatial join to ZCTA
+93120,Santa Barbara,CA,Post Office or large volume customer,93101,Spatial join to ZCTA
+93121,Santa Barbara,CA,Post Office or large volume customer,93101,Spatial join to ZCTA
+93130,Santa Barbara,CA,Post Office or large volume customer,93105,Spatial join to ZCTA
+93140,Santa Barbara,CA,Post Office or large volume customer,93103,Spatial join to ZCTA
+93150,Santa Barbara,CA,Post Office or large volume customer,93108,Spatial join to ZCTA
+93160,Santa Barbara,CA,Post Office or large volume customer,93111,Spatial join to ZCTA
+93190,Santa Barbara,CA,Post Office or large volume customer,93101,Spatial join to ZCTA
+93199,Goleta,CA,Post Office or large volume customer,93117,Spatial join to ZCTA
+93201,Alpaugh,CA,Post Office or large volume customer,93201,Zip Matches ZCTA
+93202,Armona,CA,Zip Code Area,93202,Zip Matches ZCTA
+93203,Arvin,CA,Zip Code Area,93203,Zip Matches ZCTA
+93204,Avenal,CA,Zip Code Area,93204,Zip Matches ZCTA
+93205,Bodfish,CA,Zip Code Area,93205,Zip Matches ZCTA
+93206,Buttonwillow,CA,Zip Code Area,93206,Zip Matches ZCTA
+93207,California Hot Springs,CA,Zip Code Area,93207,Zip Matches ZCTA
+93208,Camp Nelson,CA,Post Office or large volume customer,93208,Zip Matches ZCTA
+93210,Coalinga,CA,Zip Code Area,93210,Zip Matches ZCTA
+93212,Corcoran,CA,Zip Code Area,93212,Zip Matches ZCTA
+93215,Delano,CA,Zip Code Area,93215,Zip Matches ZCTA
+93216,Delano,CA,Post Office or large volume customer,93215,Spatial join to ZCTA
+93218,Ducor,CA,Post Office or large volume customer,93218,Zip Matches ZCTA
+93219,Earlimart,CA,Zip Code Area,93219,Zip Matches ZCTA
+93220,Edison,CA,Post Office or large volume customer,93220,Zip Matches ZCTA
+93221,Exeter,CA,Zip Code Area,93221,Zip Matches ZCTA
+93222,Pine Mountain Club,CA,Zip Code Area,93222,Zip Matches ZCTA
+93223,Farmersville,CA,Zip Code Area,93223,Zip Matches ZCTA
+93224,Fellows,CA,Zip Code Area,93224,Zip Matches ZCTA
+93225,Frazier Park,CA,Zip Code Area,93225,Zip Matches ZCTA
+93226,Glennville,CA,Zip Code Area,93226,Zip Matches ZCTA
+93227,Goshen,CA,Post Office or large volume customer,93291,Spatial join to ZCTA
+93230,Hanford,CA,Zip Code Area,93230,Zip Matches ZCTA
+93232,Hanford,CA,Post Office or large volume customer,93230,Spatial join to ZCTA
+93234,Huron,CA,Zip Code Area,93234,Zip Matches ZCTA
+93235,Ivanhoe,CA,Zip Code Area,93235,Zip Matches ZCTA
+93237,Kaweah,CA,Post Office or large volume customer,93271,Spatial join to ZCTA
+93238,Kernville,CA,Zip Code Area,93238,Zip Matches ZCTA
+93239,Kettleman City,CA,Zip Code Area,93239,Zip Matches ZCTA
+93240,Lake Isabella,CA,Zip Code Area,93240,Zip Matches ZCTA
+93241,Lamont,CA,Zip Code Area,93241,Zip Matches ZCTA
+93242,Laton,CA,Zip Code Area,93242,Zip Matches ZCTA
+93243,Lebec,CA,Zip Code Area,93243,Zip Matches ZCTA
+93244,Lemon Cove,CA,Zip Code Area,93244,Zip Matches ZCTA
+93245,Lemoore,CA,Zip Code Area,93245,Zip Matches ZCTA
+93246,Lemoore,CA,Post Office or large volume customer,93245,Spatial join to ZCTA
+93247,Lindsay,CA,Zip Code Area,93247,Zip Matches ZCTA
+93249,Lost Hills,CA,Zip Code Area,93249,Zip Matches ZCTA
+93250,Mc Farland,CA,Zip Code Area,93250,Zip Matches ZCTA
+93251,Mc Kittrick,CA,Zip Code Area,93251,Zip Matches ZCTA
+93252,Maricopa,CA,Zip Code Area,93252,Zip Matches ZCTA
+93254,New Cuyama,CA,Zip Code Area,93254,Zip Matches ZCTA
+93255,Onyx,CA,Zip Code Area,93255,Zip Matches ZCTA
+93256,Pixley,CA,Zip Code Area,93256,Zip Matches ZCTA
+93257,Porterville,CA,Zip Code Area,93257,Zip Matches ZCTA
+93258,Porterville,CA,Post Office or large volume customer,93258,Zip Matches ZCTA
+93260,Posey,CA,Zip Code Area,93260,Zip Matches ZCTA
+93261,Richgrove,CA,Post Office or large volume customer,93261,Zip Matches ZCTA
+93262,Sequoia National Park,CA,Zip Code Area,93262,Zip Matches ZCTA
+93263,Shafter,CA,Zip Code Area,93263,Zip Matches ZCTA
+93265,Springville,CA,Zip Code Area,93265,Zip Matches ZCTA
+93266,Stratford,CA,Zip Code Area,93266,Zip Matches ZCTA
+93267,Strathmore,CA,Zip Code Area,93267,Zip Matches ZCTA
+93268,Taft,CA,Zip Code Area,93268,Zip Matches ZCTA
+93270,Terra Bella,CA,Zip Code Area,93270,Zip Matches ZCTA
+93271,Three Rivers,CA,Zip Code Area,93271,Zip Matches ZCTA
+93272,Tipton,CA,Zip Code Area,93272,Zip Matches ZCTA
+93274,Tulare,CA,Zip Code Area,93274,Zip Matches ZCTA
+93275,Tulare,CA,Post Office or large volume customer,93274,Spatial join to ZCTA
+93276,Tupman,CA,Zip Code Area,93276,Zip Matches ZCTA
+93277,Visalia,CA,Zip Code Area,93277,Zip Matches ZCTA
+93278,Visalia,CA,Post Office or large volume customer,93277,Spatial join to ZCTA
+93279,Visalia,CA,Post Office or large volume customer,93291,Spatial join to ZCTA
+93280,Wasco,CA,Zip Code Area,93280,Zip Matches ZCTA
+93282,Waukena,CA,Post Office or large volume customer,93274,Spatial join to ZCTA
+93283,Weldon,CA,Zip Code Area,93283,Zip Matches ZCTA
+93285,Wofford Heights,CA,Zip Code Area,93285,Zip Matches ZCTA
+93286,Woodlake,CA,Zip Code Area,93286,Zip Matches ZCTA
+93287,Woody,CA,Zip Code Area,93287,Zip Matches ZCTA
+93290,Visalia,CA,Post Office or large volume customer,93291,Spatial join to ZCTA
+93291,Visalia,CA,Zip Code Area,93291,Zip Matches ZCTA
+93292,Visalia,CA,Zip Code Area,93292,Zip Matches ZCTA
+93301,Bakersfield,CA,Zip Code Area,93301,Zip Matches ZCTA
+93302,Bakersfield,CA,Post Office or large volume customer,93301,Spatial join to ZCTA
+93303,Bakersfield,CA,Post Office or large volume customer,93301,Spatial join to ZCTA
+93304,Bakersfield,CA,Zip Code Area,93304,Zip Matches ZCTA
+93305,Bakersfield,CA,Zip Code Area,93305,Zip Matches ZCTA
+93306,Bakersfield,CA,Zip Code Area,93306,Zip Matches ZCTA
+93307,Bakersfield,CA,Zip Code Area,93307,Zip Matches ZCTA
+93308,Bakersfield,CA,Zip Code Area,93308,Zip Matches ZCTA
+93309,Bakersfield,CA,Zip Code Area,93309,Zip Matches ZCTA
+93311,Bakersfield,CA,Zip Code Area,93311,Zip Matches ZCTA
+93312,Bakersfield,CA,Zip Code Area,93312,Zip Matches ZCTA
+93313,Bakersfield,CA,Zip Code Area,93313,Zip Matches ZCTA
+93314,Bakersfield,CA,Zip Code Area,93314,Zip Matches ZCTA
+93380,Bakersfield,CA,Post Office or large volume customer,93308,Spatial join to ZCTA
+93383,Bakersfield,CA,Post Office or large volume customer,93313,Spatial join to ZCTA
+93384,Bakersfield,CA,Post Office or large volume customer,93304,Spatial join to ZCTA
+93385,Bakersfield,CA,Post Office or large volume customer,93305,Spatial join to ZCTA
+93386,Bakersfield,CA,Post Office or large volume customer,93306,Spatial join to ZCTA
+93387,Bakersfield,CA,Post Office or large volume customer,93307,Spatial join to ZCTA
+93388,Bakersfield,CA,Post Office or large volume customer,93308,Spatial join to ZCTA
+93389,Bakersfield,CA,Post Office or large volume customer,93309,Spatial join to ZCTA
+93390,Bakersfield,CA,Post Office or large volume customer,93311,Spatial join to ZCTA
+93401,San Luis Obispo,CA,Zip Code Area,93401,Zip Matches ZCTA
+93402,Los Osos,CA,Zip Code Area,93402,Zip Matches ZCTA
+93403,San Luis Obispo,CA,Post Office or large volume customer,93405,Spatial join to ZCTA
+93405,San Luis Obispo,CA,Zip Code Area,93405,Zip Matches ZCTA
+93406,San Luis Obispo,CA,Post Office or large volume customer,93401,Spatial join to ZCTA
+93407,San Luis Obispo,CA,Zip Code Area,93405,Spatial join to ZCTA
+93408,San Luis Obispo,CA,Post Office or large volume customer,93401,Spatial join to ZCTA
+93409,San Luis Obispo,CA,Post Office or large volume customer,93405,Spatial join to ZCTA
+93410,San Luis Obispo,CA,Post Office or large volume customer,93410,Zip Matches ZCTA
+93412,Los Osos,CA,Post Office or large volume customer,93402,Spatial join to ZCTA
+93420,Arroyo Grande,CA,Zip Code Area,93420,Zip Matches ZCTA
+93421,Arroyo Grande,CA,Post Office or large volume customer,93420,Spatial join to ZCTA
+93422,Atascadero,CA,Zip Code Area,93422,Zip Matches ZCTA
+93423,Atascadero,CA,Post Office or large volume customer,93422,Spatial join to ZCTA
+93424,Avila Beach,CA,Post Office or large volume customer,93424,Zip Matches ZCTA
+93426,Bradley,CA,Zip Code Area,93426,Zip Matches ZCTA
+93427,Buellton,CA,Zip Code Area,93427,Zip Matches ZCTA
+93428,Cambria,CA,Zip Code Area,93428,Zip Matches ZCTA
+93429,Casmalia,CA,Zip Code Area,93429,Zip Matches ZCTA
+93430,Cayucos,CA,Zip Code Area,93430,Zip Matches ZCTA
+93432,Creston,CA,Zip Code Area,93432,Zip Matches ZCTA
+93433,Grover Beach,CA,Zip Code Area,93433,Zip Matches ZCTA
+93434,Guadalupe,CA,Zip Code Area,93434,Zip Matches ZCTA
+93435,Harmony,CA,Zip Code Area,93430,Spatial join to ZCTA
+93436,Lompoc,CA,Zip Code Area,93436,Zip Matches ZCTA
+93437,Lompoc,CA,Zip Code Area,93437,Zip Matches ZCTA
+93438,Lompoc,CA,Post Office or large volume customer,93436,Spatial join to ZCTA
+93440,Los Alamos,CA,Zip Code Area,93440,Zip Matches ZCTA
+93441,Los Olivos,CA,Zip Code Area,93441,Zip Matches ZCTA
+93442,Morro Bay,CA,Zip Code Area,93442,Zip Matches ZCTA
+93443,Morro Bay,CA,Post Office or large volume customer,93442,Spatial join to ZCTA
+93444,Nipomo,CA,Zip Code Area,93444,Zip Matches ZCTA
+93445,Oceano,CA,Zip Code Area,93445,Zip Matches ZCTA
+93446,Paso Robles,CA,Zip Code Area,93446,Zip Matches ZCTA
+93447,Paso Robles,CA,Post Office or large volume customer,93446,Spatial join to ZCTA
+93448,Pismo Beach,CA,Post Office or large volume customer,93449,Spatial join to ZCTA
+93449,Pismo Beach,CA,Zip Code Area,93449,Zip Matches ZCTA
+93450,San Ardo,CA,Zip Code Area,93450,Zip Matches ZCTA
+93451,San Miguel,CA,Zip Code Area,93451,Zip Matches ZCTA
+93452,San Simeon,CA,Zip Code Area,93452,Zip Matches ZCTA
+93453,Santa Margarita,CA,Zip Code Area,93453,Zip Matches ZCTA
+93454,Santa Maria,CA,Zip Code Area,93454,Zip Matches ZCTA
+93455,Santa Maria,CA,Zip Code Area,93455,Zip Matches ZCTA
+93456,Santa Maria,CA,Post Office or large volume customer,93454,Spatial join to ZCTA
+93457,Santa Maria,CA,Post Office or large volume customer,93455,Spatial join to ZCTA
+93458,Santa Maria,CA,Zip Code Area,93458,Zip Matches ZCTA
+93460,Santa Ynez,CA,Zip Code Area,93460,Zip Matches ZCTA
+93461,Shandon,CA,Zip Code Area,93461,Zip Matches ZCTA
+93463,Solvang,CA,Zip Code Area,93463,Zip Matches ZCTA
+93464,Solvang,CA,Post Office or large volume customer,93463,Spatial join to ZCTA
+93465,Templeton,CA,Zip Code Area,93465,Zip Matches ZCTA
+93475,Oceano,CA,Post Office or large volume customer,93445,Spatial join to ZCTA
+93483,Grover Beach,CA,Post Office or large volume customer,93433,Spatial join to ZCTA
+93501,Mojave,CA,Zip Code Area,93501,Zip Matches ZCTA
+93502,Mojave,CA,Post Office or large volume customer,93501,Spatial join to ZCTA
+93504,California City,CA,Post Office or large volume customer,93505,Spatial join to ZCTA
+93505,California City,CA,Zip Code Area,93505,Zip Matches ZCTA
+93510,Acton,CA,Zip Code Area,93510,Zip Matches ZCTA
+93512,Benton,CA,Zip Code Area,93512,Zip Matches ZCTA
+93513,Big Pine,CA,Zip Code Area,93513,Zip Matches ZCTA
+93514,Bishop,CA,Zip Code Area,93514,Zip Matches ZCTA
+93515,Bishop,CA,Post Office or large volume customer,93514,Spatial join to ZCTA
+93516,Boron,CA,Zip Code Area,93516,Zip Matches ZCTA
+93517,Bridgeport,CA,Zip Code Area,93517,Zip Matches ZCTA
+93518,Caliente,CA,Zip Code Area,93518,Zip Matches ZCTA
+93519,Cantil,CA,Zip Code Area,93519,Zip Matches ZCTA
+93522,Darwin,CA,Post Office or large volume customer,93522,Zip Matches ZCTA
+93523,Edwards,CA,Zip Code Area,93523,Zip Matches ZCTA
+93524,Edwards,CA,Zip Code Area,93524,Zip Matches ZCTA
+93526,Independence,CA,Zip Code Area,93526,Zip Matches ZCTA
+93527,Inyokern,CA,Zip Code Area,93527,Zip Matches ZCTA
+93528,Johannesburg,CA,Zip Code Area,93528,Zip Matches ZCTA
+93529,June Lake,CA,Zip Code Area,93529,Zip Matches ZCTA
+93530,Keeler,CA,Post Office or large volume customer,93530,Zip Matches ZCTA
+93531,Keene,CA,Zip Code Area,93531,Zip Matches ZCTA
+93532,Lake Hughes,CA,Zip Code Area,93532,Zip Matches ZCTA
+93534,Lancaster,CA,Zip Code Area,93534,Zip Matches ZCTA
+93535,Lancaster,CA,Zip Code Area,93535,Zip Matches ZCTA
+93536,Lancaster,CA,Zip Code Area,93536,Zip Matches ZCTA
+93539,Lancaster,CA,Post Office or large volume customer,93536,Spatial join to ZCTA
+93541,Lee Vining,CA,Zip Code Area,93541,Zip Matches ZCTA
+93542,Little Lake,CA,Post Office or large volume customer,93542,Spatial join to ZCTA
+93543,Littlerock,CA,Zip Code Area,93543,Zip Matches ZCTA
+93544,Llano,CA,Zip Code Area,93544,Zip Matches ZCTA
+93545,Lone Pine,CA,Zip Code Area,93545,Zip Matches ZCTA
+93546,Mammoth Lakes,CA,Zip Code Area,93546,Zip Matches ZCTA
+93549,Olancha,CA,Post Office or large volume customer,93549,Zip Matches ZCTA
+93550,Palmdale,CA,Zip Code Area,93550,Zip Matches ZCTA
+93551,Palmdale,CA,Zip Code Area,93551,Zip Matches ZCTA
+93552,Palmdale,CA,Zip Code Area,93552,Zip Matches ZCTA
+93553,Pearblossom,CA,Zip Code Area,93553,Zip Matches ZCTA
+93554,Randsburg,CA,Zip Code Area,93554,Zip Matches ZCTA
+93555,Ridgecrest,CA,Zip Code Area,93555,Zip Matches ZCTA
+93556,Ridgecrest,CA,Post Office or large volume customer,93555,Spatial join to ZCTA
+93558,Red Mountain,CA,Post Office or large volume customer,93558,Zip Matches ZCTA
+93560,Rosamond,CA,Zip Code Area,93560,Zip Matches ZCTA
+93561,Tehachapi,CA,Zip Code Area,93561,Zip Matches ZCTA
+93562,Trona,CA,Zip Code Area,93562,Zip Matches ZCTA
+93563,Valyermo,CA,Zip Code Area,93563,Zip Matches ZCTA
+93581,Tehachapi,CA,Post Office or large volume customer,93581,Spatial join to ZCTA
+93584,Lancaster,CA,Post Office or large volume customer,93534,Spatial join to ZCTA
+93586,Lancaster,CA,Post Office or large volume customer,93536,Spatial join to ZCTA
+93590,Palmdale,CA,Post Office or large volume customer,93550,Spatial join to ZCTA
+93591,Palmdale,CA,Zip Code Area,93591,Zip Matches ZCTA
+93592,Trona,CA,Post Office or large volume customer,93592,Zip Matches ZCTA
+93596,Boron,CA,Post Office or large volume customer,93516,Spatial join to ZCTA
+93599,Palmdale,CA,Post Office or large volume customer,93550,Spatial join to ZCTA
+93601,Ahwahnee,CA,Zip Code Area,93601,Zip Matches ZCTA
+93602,Auberry,CA,Zip Code Area,93602,Zip Matches ZCTA
+93603,Badger,CA,Zip Code Area,93603,Zip Matches ZCTA
+93604,Bass Lake,CA,Zip Code Area,93604,Zip Matches ZCTA
+93605,Big Creek,CA,Post Office or large volume customer,93605,Zip Matches ZCTA
+93606,Biola,CA,Post Office or large volume customer,93606,Zip Matches ZCTA
+93607,Burrel,CA,Post Office or large volume customer,93656,Spatial join to ZCTA
+93608,Cantua Creek,CA,Zip Code Area,93608,Zip Matches ZCTA
+93609,Caruthers,CA,Zip Code Area,93609,Zip Matches ZCTA
+93610,Chowchilla,CA,Zip Code Area,93610,Zip Matches ZCTA
+93611,Clovis,CA,Zip Code Area,93611,Zip Matches ZCTA
+93612,Clovis,CA,Zip Code Area,93612,Zip Matches ZCTA
+93613,Clovis,CA,Post Office or large volume customer,93612,Spatial join to ZCTA
+93614,Coarsegold,CA,Zip Code Area,93614,Zip Matches ZCTA
+93615,Cutler,CA,Zip Code Area,93615,Zip Matches ZCTA
+93616,Del Rey,CA,Zip Code Area,93616,Zip Matches ZCTA
+93618,Dinuba,CA,Zip Code Area,93618,Zip Matches ZCTA
+93619,Clovis,CA,Zip Code Area,93619,Zip Matches ZCTA
+93620,Dos Palos,CA,Zip Code Area,93620,Zip Matches ZCTA
+93621,Dunlap,CA,Zip Code Area,93621,Zip Matches ZCTA
+93622,Firebaugh,CA,Zip Code Area,93622,Zip Matches ZCTA
+93623,Fish Camp,CA,Zip Code Area,93623,Zip Matches ZCTA
+93624,Five Points,CA,Post Office or large volume customer,93624,Zip Matches ZCTA
+93625,Fowler,CA,Zip Code Area,93625,Zip Matches ZCTA
+93626,Friant,CA,Zip Code Area,93626,Zip Matches ZCTA
+93627,Helm,CA,Zip Code Area,93627,Zip Matches ZCTA
+93628,Hume,CA,Zip Code Area,93628,Zip Matches ZCTA
+93630,Kerman,CA,Zip Code Area,93630,Zip Matches ZCTA
+93631,Kingsburg,CA,Zip Code Area,93631,Zip Matches ZCTA
+93633,Kings Canyon National Pk,CA,Zip Code Area,93633,Zip Matches ZCTA
+93634,Lakeshore,CA,Post Office or large volume customer,93634,Zip Matches ZCTA
+93635,Los Banos,CA,Zip Code Area,93635,Zip Matches ZCTA
+93636,Madera,CA,Zip Code Area,93636,Zip Matches ZCTA
+93637,Madera,CA,Zip Code Area,93637,Zip Matches ZCTA
+93638,Madera,CA,Zip Code Area,93638,Zip Matches ZCTA
+93639,Madera,CA,Post Office or large volume customer,93638,Spatial join to ZCTA
+93640,Mendota,CA,Zip Code Area,93640,Zip Matches ZCTA
+93641,Miramonte,CA,Zip Code Area,93641,Zip Matches ZCTA
+93642,Mono Hot Springs,CA,Post Office or large volume customer,93634,Spatial join to ZCTA
+93643,North Fork,CA,Zip Code Area,93643,Zip Matches ZCTA
+93644,Oakhurst,CA,Zip Code Area,93644,Zip Matches ZCTA
+93645,O Neals,CA,Zip Code Area,93645,Zip Matches ZCTA
+93646,Orange Cove,CA,Zip Code Area,93646,Zip Matches ZCTA
+93647,Orosi,CA,Zip Code Area,93647,Zip Matches ZCTA
+93648,Parlier,CA,Zip Code Area,93648,Zip Matches ZCTA
+93649,Piedra,CA,Post Office or large volume customer,93654,Spatial join to ZCTA
+93650,Fresno,CA,Zip Code Area,93650,Zip Matches ZCTA
+93651,Prather,CA,Zip Code Area,93651,Zip Matches ZCTA
+93652,Raisin City,CA,Zip Code Area,93652,Zip Matches ZCTA
+93653,Raymond,CA,Zip Code Area,93653,Zip Matches ZCTA
+93654,Reedley,CA,Zip Code Area,93654,Zip Matches ZCTA
+93656,Riverdale,CA,Zip Code Area,93656,Zip Matches ZCTA
+93657,Sanger,CA,Zip Code Area,93657,Zip Matches ZCTA
+93660,San Joaquin,CA,Zip Code Area,93660,Zip Matches ZCTA
+93661,Santa Rita Park,CA,Post Office or large volume customer,93620,Spatial join to ZCTA
+93662,Selma,CA,Zip Code Area,93662,Zip Matches ZCTA
+93664,Shaver Lake,CA,Zip Code Area,93664,Zip Matches ZCTA
+93665,South Dos Palos,CA,Post Office or large volume customer,93665,Zip Matches ZCTA
+93666,Sultana,CA,Post Office or large volume customer,93666,Zip Matches ZCTA
+93667,Tollhouse,CA,Zip Code Area,93667,Zip Matches ZCTA
+93668,Tranquillity,CA,Zip Code Area,93668,Zip Matches ZCTA
+93669,Wishon,CA,Zip Code Area,93669,Zip Matches ZCTA
+93670,Yettem,CA,Post Office or large volume customer,93615,Spatial join to ZCTA
+93673,Traver,CA,Post Office or large volume customer,93673,Zip Matches ZCTA
+93675,Squaw Valley,CA,Zip Code Area,93675,Zip Matches ZCTA
+93701,Fresno,CA,Zip Code Area,93701,Zip Matches ZCTA
+93702,Fresno,CA,Zip Code Area,93702,Zip Matches ZCTA
+93703,Fresno,CA,Zip Code Area,93703,Zip Matches ZCTA
+93704,Fresno,CA,Zip Code Area,93704,Zip Matches ZCTA
+93705,Fresno,CA,Zip Code Area,93705,Zip Matches ZCTA
+93706,Fresno,CA,Zip Code Area,93706,Zip Matches ZCTA
+93707,Fresno,CA,Post Office or large volume customer,93721,Spatial join to ZCTA
+93708,Fresno,CA,Post Office or large volume customer,93721,Spatial join to ZCTA
+93709,Fresno,CA,Post Office or large volume customer,93721,Spatial join to ZCTA
+93710,Fresno,CA,Zip Code Area,93710,Zip Matches ZCTA
+93711,Fresno,CA,Zip Code Area,93711,Zip Matches ZCTA
+93712,Fresno,CA,Post Office or large volume customer,93721,Spatial join to ZCTA
+93714,Fresno,CA,Post Office or large volume customer,93721,Spatial join to ZCTA
+93715,Fresno,CA,Post Office or large volume customer,93721,Spatial join to ZCTA
+93716,Fresno,CA,Post Office or large volume customer,93721,Spatial join to ZCTA
+93717,Fresno,CA,Post Office or large volume customer,93721,Spatial join to ZCTA
+93718,Fresno,CA,Post Office or large volume customer,93721,Spatial join to ZCTA
+93720,Fresno,CA,Zip Code Area,93720,Zip Matches ZCTA
+93721,Fresno,CA,Zip Code Area,93721,Zip Matches ZCTA
+93722,Fresno,CA,Zip Code Area,93722,Zip Matches ZCTA
+93723,Fresno,CA,Zip Code Area,93723,Zip Matches ZCTA
+93724,Fresno,CA,Post Office or large volume customer,93721,Spatial join to ZCTA
+93725,Fresno,CA,Zip Code Area,93725,Zip Matches ZCTA
+93726,Fresno,CA,Zip Code Area,93726,Zip Matches ZCTA
+93727,Fresno,CA,Zip Code Area,93727,Zip Matches ZCTA
+93728,Fresno,CA,Zip Code Area,93728,Zip Matches ZCTA
+93729,Fresno,CA,Post Office or large volume customer,93720,Spatial join to ZCTA
+93730,Fresno,CA,Zip Code Area,93730,Zip Matches ZCTA
+93737,Fresno,CA,Zip Code Area,93727,Spatial join to ZCTA
+93740,Fresno,CA,Post Office or large volume customer,93710,Spatial join to ZCTA
+93741,Fresno,CA,Zip Code Area,93704,Spatial join to ZCTA
+93744,Fresno,CA,Post Office or large volume customer,93728,Spatial join to ZCTA
+93745,Fresno,CA,Post Office or large volume customer,93725,Spatial join to ZCTA
+93747,Fresno,CA,Post Office or large volume customer,93727,Spatial join to ZCTA
+93750,Fresno,CA,Post Office or large volume customer,93702,Spatial join to ZCTA
+93755,Fresno,CA,Post Office or large volume customer,93704,Spatial join to ZCTA
+93760,Fresno,CA,Post Office or large volume customer,93721,Spatial join to ZCTA
+93761,Fresno,CA,Post Office or large volume customer,93701,Spatial join to ZCTA
+93764,Fresno,CA,Post Office or large volume customer,93721,Spatial join to ZCTA
+93765,Fresno,CA,Post Office or large volume customer,93711,Spatial join to ZCTA
+93771,Fresno,CA,Post Office or large volume customer,93706,Spatial join to ZCTA
+93772,Fresno,CA,Post Office or large volume customer,93706,Spatial join to ZCTA
+93773,Fresno,CA,Post Office or large volume customer,93706,Spatial join to ZCTA
+93774,Fresno,CA,Post Office or large volume customer,93706,Spatial join to ZCTA
+93775,Fresno,CA,Post Office or large volume customer,93706,Spatial join to ZCTA
+93776,Fresno,CA,Post Office or large volume customer,93706,Spatial join to ZCTA
+93777,Fresno,CA,Post Office or large volume customer,93706,Spatial join to ZCTA
+93778,Fresno,CA,Post Office or large volume customer,93706,Spatial join to ZCTA
+93779,Fresno,CA,Post Office or large volume customer,93706,Spatial join to ZCTA
+93786,Fresno,CA,Post Office or large volume customer,93706,Spatial join to ZCTA
+93790,Fresno,CA,Post Office or large volume customer,93705,Spatial join to ZCTA
+93791,Fresno,CA,Post Office or large volume customer,93705,Spatial join to ZCTA
+93792,Fresno,CA,Post Office or large volume customer,93705,Spatial join to ZCTA
+93793,Fresno,CA,Post Office or large volume customer,93705,Spatial join to ZCTA
+93794,Fresno,CA,Post Office or large volume customer,93705,Spatial join to ZCTA
+93844,Fresno,CA,Post Office or large volume customer,93727,Spatial join to ZCTA
+93888,Fresno,CA,Post Office or large volume customer,93727,Spatial join to ZCTA
+93901,Salinas,CA,Zip Code Area,93901,Zip Matches ZCTA
+93902,Salinas,CA,Post Office or large volume customer,93901,Spatial join to ZCTA
+93905,Salinas,CA,Zip Code Area,93905,Zip Matches ZCTA
+93906,Salinas,CA,Zip Code Area,93906,Zip Matches ZCTA
+93907,Salinas,CA,Zip Code Area,93907,Zip Matches ZCTA
+93908,Salinas,CA,Zip Code Area,93908,Zip Matches ZCTA
+93912,Salinas,CA,Post Office or large volume customer,93907,Spatial join to ZCTA
+93915,Salinas,CA,Post Office or large volume customer,93905,Spatial join to ZCTA
+93920,Big Sur,CA,Zip Code Area,93920,Zip Matches ZCTA
+93921,Carmel By the Sea,CA,Post Office or large volume customer,93921,Zip Matches ZCTA
+93922,Carmel,CA,Post Office or large volume customer,93923,Spatial join to ZCTA
+93923,Carmel,CA,Zip Code Area,93923,Zip Matches ZCTA
+93924,Carmel Valley,CA,Zip Code Area,93924,Zip Matches ZCTA
+93925,Chualar,CA,Zip Code Area,93925,Zip Matches ZCTA
+93926,Gonzales,CA,Zip Code Area,93926,Zip Matches ZCTA
+93927,Greenfield,CA,Zip Code Area,93927,Zip Matches ZCTA
+93928,Jolon,CA,Post Office or large volume customer,93928,Zip Matches ZCTA
+93930,King City,CA,Zip Code Area,93930,Zip Matches ZCTA
+93932,Lockwood,CA,Zip Code Area,93932,Zip Matches ZCTA
+93933,Marina,CA,Zip Code Area,93933,Zip Matches ZCTA
+93940,Monterey,CA,Zip Code Area,93940,Zip Matches ZCTA
+93942,Monterey,CA,Post Office or large volume customer,93940,Spatial join to ZCTA
+93943,Monterey,CA,Zip Code Area,93943,Zip Matches ZCTA
+93944,Monterey,CA,Zip Code Area,93940,Spatial join to ZCTA
+93950,Pacific Grove,CA,Zip Code Area,93950,Zip Matches ZCTA
+93953,Pebble Beach,CA,Zip Code Area,93953,Zip Matches ZCTA
+93954,San Lucas,CA,Post Office or large volume customer,93954,Zip Matches ZCTA
+93955,Seaside,CA,Zip Code Area,93955,Zip Matches ZCTA
+93960,Soledad,CA,Zip Code Area,93960,Zip Matches ZCTA
+93962,Spreckels,CA,Zip Code Area,93962,Zip Matches ZCTA
+94002,Belmont,CA,Zip Code Area,94002,Zip Matches ZCTA
+94005,Brisbane,CA,Zip Code Area,94005,Zip Matches ZCTA
+94010,Burlingame,CA,Zip Code Area,94010,Zip Matches ZCTA
+94011,Burlingame,CA,Post Office or large volume customer,94010,Spatial join to ZCTA
+94014,Daly City,CA,Zip Code Area,94014,Zip Matches ZCTA
+94015,Daly City,CA,Zip Code Area,94015,Zip Matches ZCTA
+94016,Daly City,CA,Post Office or large volume customer,94014,Spatial join to ZCTA
+94017,Daly City,CA,Post Office or large volume customer,94015,Spatial join to ZCTA
+94018,El Granada,CA,Post Office or large volume customer,94019,Spatial join to ZCTA
+94019,Half Moon Bay,CA,Zip Code Area,94019,Zip Matches ZCTA
+94020,La Honda,CA,Zip Code Area,94020,Zip Matches ZCTA
+94021,Loma Mar,CA,Zip Code Area,94021,Zip Matches ZCTA
+94022,Los Altos,CA,Zip Code Area,94022,Zip Matches ZCTA
+94023,Los Altos,CA,Post Office or large volume customer,94022,Spatial join to ZCTA
+94024,Los Altos,CA,Zip Code Area,94024,Zip Matches ZCTA
+94025,Menlo Park,CA,Zip Code Area,94025,Zip Matches ZCTA
+94026,Menlo Park,CA,Post Office or large volume customer,94025,Spatial join to ZCTA
+94027,Atherton,CA,Zip Code Area,94027,Zip Matches ZCTA
+94028,Portola Valley,CA,Zip Code Area,94028,Zip Matches ZCTA
+94030,Millbrae,CA,Zip Code Area,94030,Zip Matches ZCTA
+94035,Mountain View,CA,Zip Code Area,94043,Spatial join to ZCTA
+94037,Montara,CA,Zip Code Area,94037,Zip Matches ZCTA
+94038,Moss Beach,CA,Zip Code Area,94038,Zip Matches ZCTA
+94039,Mountain View,CA,Post Office or large volume customer,94041,Spatial join to ZCTA
+94040,Mountain View,CA,Zip Code Area,94040,Zip Matches ZCTA
+94041,Mountain View,CA,Zip Code Area,94041,Zip Matches ZCTA
+94042,Mountain View,CA,Post Office or large volume customer,94041,Spatial join to ZCTA
+94043,Mountain View,CA,Zip Code Area,94043,Zip Matches ZCTA
+94044,Pacifica,CA,Zip Code Area,94044,Zip Matches ZCTA
+94060,Pescadero,CA,Zip Code Area,94060,Zip Matches ZCTA
+94061,Redwood City,CA,Zip Code Area,94061,Zip Matches ZCTA
+94062,Redwood City,CA,Zip Code Area,94062,Zip Matches ZCTA
+94063,Redwood City,CA,Zip Code Area,94063,Zip Matches ZCTA
+94064,Redwood City,CA,Post Office or large volume customer,94063,Spatial join to ZCTA
+94065,Redwood City,CA,Zip Code Area,94065,Zip Matches ZCTA
+94066,San Bruno,CA,Zip Code Area,94066,Zip Matches ZCTA
+94070,San Carlos,CA,Zip Code Area,94070,Zip Matches ZCTA
+94074,San Gregorio,CA,Zip Code Area,94074,Zip Matches ZCTA
+94080,South San Francisco,CA,Zip Code Area,94080,Zip Matches ZCTA
+94083,South San Francisco,CA,Post Office or large volume customer,94080,Spatial join to ZCTA
+94085,Sunnyvale,CA,Zip Code Area,94085,Zip Matches ZCTA
+94086,Sunnyvale,CA,Zip Code Area,94086,Zip Matches ZCTA
+94087,Sunnyvale,CA,Zip Code Area,94087,Zip Matches ZCTA
+94088,Sunnyvale,CA,Post Office or large volume customer,94089,Spatial join to ZCTA
+94089,Sunnyvale,CA,Zip Code Area,94089,Zip Matches ZCTA
+94102,San Francisco,CA,Zip Code Area,94102,Zip Matches ZCTA
+94103,San Francisco,CA,Zip Code Area,94103,Zip Matches ZCTA
+94104,San Francisco,CA,Zip Code Area,94104,Zip Matches ZCTA
+94105,San Francisco,CA,Zip Code Area,94105,Zip Matches ZCTA
+94107,San Francisco,CA,Zip Code Area,94107,Zip Matches ZCTA
+94108,San Francisco,CA,Zip Code Area,94108,Zip Matches ZCTA
+94109,San Francisco,CA,Zip Code Area,94109,Zip Matches ZCTA
+94110,San Francisco,CA,Zip Code Area,94110,Zip Matches ZCTA
+94111,San Francisco,CA,Zip Code Area,94111,Zip Matches ZCTA
+94112,San Francisco,CA,Zip Code Area,94112,Zip Matches ZCTA
+94114,San Francisco,CA,Zip Code Area,94114,Zip Matches ZCTA
+94115,San Francisco,CA,Zip Code Area,94115,Zip Matches ZCTA
+94116,San Francisco,CA,Zip Code Area,94116,Zip Matches ZCTA
+94117,San Francisco,CA,Zip Code Area,94117,Zip Matches ZCTA
+94118,San Francisco,CA,Zip Code Area,94118,Zip Matches ZCTA
+94119,San Francisco,CA,Post Office or large volume customer,94105,Spatial join to ZCTA
+94120,San Francisco,CA,Post Office or large volume customer,94104,Spatial join to ZCTA
+94121,San Francisco,CA,Zip Code Area,94121,Zip Matches ZCTA
+94122,San Francisco,CA,Zip Code Area,94122,Zip Matches ZCTA
+94123,San Francisco,CA,Zip Code Area,94123,Zip Matches ZCTA
+94124,San Francisco,CA,Zip Code Area,94124,Zip Matches ZCTA
+94125,San Francisco,CA,Post Office or large volume customer,94128,Spatial join to ZCTA
+94126,San Francisco,CA,Post Office or large volume customer,94111,Spatial join to ZCTA
+94127,San Francisco,CA,Zip Code Area,94127,Zip Matches ZCTA
+94128,San Francisco,CA,Zip Code Area,94128,Zip Matches ZCTA
+94129,San Francisco,CA,Zip Code Area,94129,Zip Matches ZCTA
+94130,San Francisco,CA,Zip Code Area,94130,Zip Matches ZCTA
+94131,San Francisco,CA,Zip Code Area,94131,Zip Matches ZCTA
+94132,San Francisco,CA,Zip Code Area,94132,Zip Matches ZCTA
+94133,San Francisco,CA,Zip Code Area,94133,Zip Matches ZCTA
+94134,San Francisco,CA,Zip Code Area,94134,Zip Matches ZCTA
+94137,San Francisco,CA,Post Office or large volume customer,94104,Spatial join to ZCTA
+94139,San Francisco,CA,Post Office or large volume customer,94104,Spatial join to ZCTA
+94140,San Francisco,CA,Post Office or large volume customer,94110,Spatial join to ZCTA
+94141,San Francisco,CA,Post Office or large volume customer,94103,Spatial join to ZCTA
+94142,San Francisco,CA,Post Office or large volume customer,94103,Spatial join to ZCTA
+94143,San Francisco,CA,Post Office or large volume customer,94158,Spatial join to ZCTA
+94144,San Francisco,CA,Post Office or large volume customer,94118,Spatial join to ZCTA
+94145,San Francisco,CA,Post Office or large volume customer,94104,Spatial join to ZCTA
+94146,San Francisco,CA,Post Office or large volume customer,94114,Spatial join to ZCTA
+94147,San Francisco,CA,Post Office or large volume customer,94123,Spatial join to ZCTA
+94151,San Francisco,CA,Post Office or large volume customer,94105,Spatial join to ZCTA
+94158,San Francisco,CA,Zip Code Area,94158,Zip Matches ZCTA
+94159,San Francisco,CA,Post Office or large volume customer,94118,Spatial join to ZCTA
+94160,San Francisco,CA,Post Office or large volume customer,94124,Spatial join to ZCTA
+94161,San Francisco,CA,Post Office or large volume customer,94111,Spatial join to ZCTA
+94163,San Francisco,CA,Post Office or large volume customer,94104,Spatial join to ZCTA
+94164,San Francisco,CA,Post Office or large volume customer,94109,Spatial join to ZCTA
+94172,San Francisco,CA,Post Office or large volume customer,94122,Spatial join to ZCTA
+94177,San Francisco,CA,Post Office or large volume customer,94105,Spatial join to ZCTA
+94188,San Francisco,CA,Post Office or large volume customer,94124,Spatial join to ZCTA
+94203,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94204,Sacramento,CA,Post Office or large volume customer,95815,Spatial join to ZCTA
+94205,Sacramento,CA,Post Office or large volume customer,95823,Spatial join to ZCTA
+94206,Sacramento,CA,Post Office or large volume customer,95823,Spatial join to ZCTA
+94207,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94208,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94209,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94211,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94229,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94230,Sacramento,CA,Post Office or large volume customer,95823,Spatial join to ZCTA
+94232,Sacramento,CA,Post Office or large volume customer,95818,Spatial join to ZCTA
+94234,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94235,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94236,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94237,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94239,Sacramento,CA,Post Office or large volume customer,95818,Spatial join to ZCTA
+94240,Sacramento,CA,Post Office or large volume customer,95811,Spatial join to ZCTA
+94244,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94245,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94247,Sacramento,CA,Post Office or large volume customer,95823,Spatial join to ZCTA
+94248,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94249,Sacramento,CA,Post Office or large volume customer,95816,Spatial join to ZCTA
+94250,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94252,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94254,Sacramento,CA,Post Office or large volume customer,95823,Spatial join to ZCTA
+94256,Sacramento,CA,Post Office or large volume customer,95823,Spatial join to ZCTA
+94257,Sacramento,CA,Post Office or large volume customer,95811,Spatial join to ZCTA
+94258,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94259,Sacramento,CA,Post Office or large volume customer,95818,Spatial join to ZCTA
+94261,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94262,Sacramento,CA,Post Office or large volume customer,95823,Spatial join to ZCTA
+94263,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94267,Sacramento,CA,Post Office or large volume customer,95815,Spatial join to ZCTA
+94268,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94269,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94271,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94273,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94274,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94277,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94278,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94279,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94280,Sacramento,CA,Post Office or large volume customer,95822,Spatial join to ZCTA
+94282,Sacramento,CA,Post Office or large volume customer,95823,Spatial join to ZCTA
+94283,Sacramento,CA,Post Office or large volume customer,95823,Spatial join to ZCTA
+94284,Sacramento,CA,Post Office or large volume customer,95818,Spatial join to ZCTA
+94285,Sacramento,CA,Post Office or large volume customer,95818,Spatial join to ZCTA
+94287,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94288,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94289,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94290,Sacramento,CA,Post Office or large volume customer,95818,Spatial join to ZCTA
+94291,Sacramento,CA,Post Office or large volume customer,95818,Spatial join to ZCTA
+94293,Sacramento,CA,Post Office or large volume customer,95818,Spatial join to ZCTA
+94294,Sacramento,CA,Post Office or large volume customer,95818,Spatial join to ZCTA
+94295,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94296,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94297,Sacramento,CA,Post Office or large volume customer,95818,Spatial join to ZCTA
+94298,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94299,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+94301,Palo Alto,CA,Zip Code Area,94301,Zip Matches ZCTA
+94302,Palo Alto,CA,Post Office or large volume customer,94301,Spatial join to ZCTA
+94303,Palo Alto,CA,Zip Code Area,94303,Zip Matches ZCTA
+94304,Palo Alto,CA,Zip Code Area,94304,Zip Matches ZCTA
+94305,Stanford,CA,Zip Code Area,94305,Zip Matches ZCTA
+94306,Palo Alto,CA,Zip Code Area,94306,Zip Matches ZCTA
+94309,Palo Alto,CA,Post Office or large volume customer,94305,Spatial join to ZCTA
+94401,San Mateo,CA,Zip Code Area,94401,Zip Matches ZCTA
+94402,San Mateo,CA,Zip Code Area,94402,Zip Matches ZCTA
+94403,San Mateo,CA,Zip Code Area,94403,Zip Matches ZCTA
+94404,San Mateo,CA,Zip Code Area,94404,Zip Matches ZCTA
+94497,San Mateo,CA,Post Office or large volume customer,94403,Spatial join to ZCTA
+94501,Alameda,CA,Zip Code Area,94501,Zip Matches ZCTA
+94502,Alameda,CA,Zip Code Area,94502,Zip Matches ZCTA
+94503,American Canyon,CA,Zip Code Area,94503,Zip Matches ZCTA
+94505,Discovery Bay,CA,Zip Code Area,94505,Zip Matches ZCTA
+94506,Danville,CA,Zip Code Area,94506,Zip Matches ZCTA
+94507,Alamo,CA,Zip Code Area,94507,Zip Matches ZCTA
+94508,Angwin,CA,Zip Code Area,94508,Zip Matches ZCTA
+94509,Antioch,CA,Zip Code Area,94509,Zip Matches ZCTA
+94510,Benicia,CA,Zip Code Area,94510,Zip Matches ZCTA
+94511,Bethel Island,CA,Zip Code Area,94511,Zip Matches ZCTA
+94512,Birds Landing,CA,Zip Code Area,94512,Zip Matches ZCTA
+94513,Brentwood,CA,Zip Code Area,94513,Zip Matches ZCTA
+94514,Byron,CA,Zip Code Area,94514,Zip Matches ZCTA
+94515,Calistoga,CA,Zip Code Area,94515,Zip Matches ZCTA
+94516,Canyon,CA,Post Office or large volume customer,94516,Zip Matches ZCTA
+94517,Clayton,CA,Zip Code Area,94517,Zip Matches ZCTA
+94518,Concord,CA,Zip Code Area,94518,Zip Matches ZCTA
+94519,Concord,CA,Zip Code Area,94519,Zip Matches ZCTA
+94520,Concord,CA,Zip Code Area,94520,Zip Matches ZCTA
+94521,Concord,CA,Zip Code Area,94521,Zip Matches ZCTA
+94522,Concord,CA,Post Office or large volume customer,94520,Spatial join to ZCTA
+94523,Pleasant Hill,CA,Zip Code Area,94523,Zip Matches ZCTA
+94524,Concord,CA,Post Office or large volume customer,94520,Spatial join to ZCTA
+94525,Crockett,CA,Zip Code Area,94525,Zip Matches ZCTA
+94526,Danville,CA,Zip Code Area,94526,Zip Matches ZCTA
+94527,Concord,CA,Post Office or large volume customer,94520,Spatial join to ZCTA
+94528,Diablo,CA,Zip Code Area,94528,Zip Matches ZCTA
+94529,Concord,CA,Post Office or large volume customer,94520,Spatial join to ZCTA
+94530,El Cerrito,CA,Zip Code Area,94530,Zip Matches ZCTA
+94531,Antioch,CA,Zip Code Area,94531,Zip Matches ZCTA
+94533,Fairfield,CA,Zip Code Area,94533,Zip Matches ZCTA
+94534,Fairfield,CA,Zip Code Area,94534,Zip Matches ZCTA
+94535,Travis AFB,CA,Zip Code Area,94535,Zip Matches ZCTA
+94536,Fremont,CA,Zip Code Area,94536,Zip Matches ZCTA
+94537,Fremont,CA,Post Office or large volume customer,94536,Spatial join to ZCTA
+94538,Fremont,CA,Zip Code Area,94538,Zip Matches ZCTA
+94539,Fremont,CA,Zip Code Area,94539,Zip Matches ZCTA
+94540,Hayward,CA,Post Office or large volume customer,94544,Spatial join to ZCTA
+94541,Hayward,CA,Zip Code Area,94541,Zip Matches ZCTA
+94542,Hayward,CA,Zip Code Area,94542,Zip Matches ZCTA
+94543,Hayward,CA,Post Office or large volume customer,94541,Spatial join to ZCTA
+94544,Hayward,CA,Zip Code Area,94544,Zip Matches ZCTA
+94545,Hayward,CA,Zip Code Area,94545,Zip Matches ZCTA
+94546,Castro Valley,CA,Zip Code Area,94546,Zip Matches ZCTA
+94547,Hercules,CA,Zip Code Area,94547,Zip Matches ZCTA
+94548,Knightsen,CA,Zip Code Area,94548,Zip Matches ZCTA
+94549,Lafayette,CA,Zip Code Area,94549,Zip Matches ZCTA
+94550,Livermore,CA,Zip Code Area,94550,Zip Matches ZCTA
+94551,Livermore,CA,Zip Code Area,94551,Zip Matches ZCTA
+94552,Castro Valley,CA,Zip Code Area,94552,Zip Matches ZCTA
+94553,Martinez,CA,Zip Code Area,94553,Zip Matches ZCTA
+94555,Fremont,CA,Zip Code Area,94555,Zip Matches ZCTA
+94556,Moraga,CA,Zip Code Area,94556,Zip Matches ZCTA
+94557,Hayward,CA,Post Office or large volume customer,94545,Spatial join to ZCTA
+94558,Napa,CA,Zip Code Area,94558,Zip Matches ZCTA
+94559,Napa,CA,Zip Code Area,94559,Zip Matches ZCTA
+94560,Newark,CA,Zip Code Area,94560,Zip Matches ZCTA
+94561,Oakley,CA,Zip Code Area,94561,Zip Matches ZCTA
+94562,Oakville,CA,Post Office or large volume customer,94574,Spatial join to ZCTA
+94563,Orinda,CA,Zip Code Area,94563,Zip Matches ZCTA
+94564,Pinole,CA,Zip Code Area,94564,Zip Matches ZCTA
+94565,Pittsburg,CA,Zip Code Area,94565,Zip Matches ZCTA
+94566,Pleasanton,CA,Zip Code Area,94566,Zip Matches ZCTA
+94567,Pope Valley,CA,Zip Code Area,94567,Zip Matches ZCTA
+94568,Dublin,CA,Zip Code Area,94568,Zip Matches ZCTA
+94569,Port Costa,CA,Zip Code Area,94569,Zip Matches ZCTA
+94570,Moraga,CA,Post Office or large volume customer,94556,Spatial join to ZCTA
+94571,Rio Vista,CA,Zip Code Area,94571,Zip Matches ZCTA
+94572,Rodeo,CA,Zip Code Area,94572,Zip Matches ZCTA
+94573,Rutherford,CA,Post Office or large volume customer,94573,Zip Matches ZCTA
+94574,Saint Helena,CA,Zip Code Area,94574,Zip Matches ZCTA
+94575,Moraga,CA,Post Office or large volume customer,94575,Zip Matches ZCTA
+94576,Deer Park,CA,Zip Code Area,94576,Zip Matches ZCTA
+94577,San Leandro,CA,Zip Code Area,94577,Zip Matches ZCTA
+94578,San Leandro,CA,Zip Code Area,94578,Zip Matches ZCTA
+94579,San Leandro,CA,Zip Code Area,94579,Zip Matches ZCTA
+94580,San Lorenzo,CA,Zip Code Area,94580,Zip Matches ZCTA
+94581,Napa,CA,Post Office or large volume customer,94559,Spatial join to ZCTA
+94582,San Ramon,CA,Zip Code Area,94582,Zip Matches ZCTA
+94583,San Ramon,CA,Zip Code Area,94583,Zip Matches ZCTA
+94585,Suisun City,CA,Zip Code Area,94585,Zip Matches ZCTA
+94586,Sunol,CA,Zip Code Area,94586,Zip Matches ZCTA
+94587,Union City,CA,Zip Code Area,94587,Zip Matches ZCTA
+94588,Pleasanton,CA,Zip Code Area,94588,Zip Matches ZCTA
+94589,Vallejo,CA,Zip Code Area,94589,Zip Matches ZCTA
+94590,Vallejo,CA,Zip Code Area,94590,Zip Matches ZCTA
+94591,Vallejo,CA,Zip Code Area,94591,Zip Matches ZCTA
+94592,Vallejo,CA,Zip Code Area,94592,Zip Matches ZCTA
+94595,Walnut Creek,CA,Zip Code Area,94595,Zip Matches ZCTA
+94596,Walnut Creek,CA,Zip Code Area,94596,Zip Matches ZCTA
+94597,Walnut Creek,CA,Zip Code Area,94597,Zip Matches ZCTA
+94598,Walnut Creek,CA,Zip Code Area,94598,Zip Matches ZCTA
+94599,Yountville,CA,Zip Code Area,94599,Zip Matches ZCTA
+94601,Oakland,CA,Zip Code Area,94601,Zip Matches ZCTA
+94602,Oakland,CA,Zip Code Area,94602,Zip Matches ZCTA
+94603,Oakland,CA,Zip Code Area,94603,Zip Matches ZCTA
+94604,Oakland,CA,Post Office or large volume customer,94612,Spatial join to ZCTA
+94605,Oakland,CA,Zip Code Area,94605,Zip Matches ZCTA
+94606,Oakland,CA,Zip Code Area,94606,Zip Matches ZCTA
+94607,Oakland,CA,Zip Code Area,94607,Zip Matches ZCTA
+94608,Emeryville,CA,Zip Code Area,94608,Zip Matches ZCTA
+94609,Oakland,CA,Zip Code Area,94609,Zip Matches ZCTA
+94610,Oakland,CA,Zip Code Area,94610,Zip Matches ZCTA
+94611,Oakland,CA,Zip Code Area,94611,Zip Matches ZCTA
+94612,Oakland,CA,Zip Code Area,94612,Zip Matches ZCTA
+94613,Oakland,CA,Zip Code Area,94613,Zip Matches ZCTA
+94614,Oakland,CA,Post Office or large volume customer,94621,Spatial join to ZCTA
+94615,Oakland,CA,Post Office or large volume customer,94607,Spatial join to ZCTA
+94617,Oakland,CA,Post Office or large volume customer,94607,Spatial join to ZCTA
+94618,Oakland,CA,Zip Code Area,94618,Zip Matches ZCTA
+94619,Oakland,CA,Zip Code Area,94619,Zip Matches ZCTA
+94620,Piedmont,CA,Post Office or large volume customer,94611,Spatial join to ZCTA
+94621,Oakland,CA,Zip Code Area,94621,Zip Matches ZCTA
+94622,Oakland,CA,Post Office or large volume customer,94577,Spatial join to ZCTA
+94623,Oakland,CA,Post Office or large volume customer,94607,Spatial join to ZCTA
+94624,Oakland,CA,Post Office or large volume customer,94603,Spatial join to ZCTA
+94649,Oakland,CA,Post Office or large volume customer,94612,Spatial join to ZCTA
+94659,Oakland,CA,Post Office or large volume customer,94612,Spatial join to ZCTA
+94660,Oakland,CA,Post Office or large volume customer,94607,Spatial join to ZCTA
+94661,Oakland,CA,Post Office or large volume customer,94611,Spatial join to ZCTA
+94662,Emeryville,CA,Post Office or large volume customer,94608,Spatial join to ZCTA
+94666,Oakland,CA,Post Office or large volume customer,94610,Spatial join to ZCTA
+94701,Berkeley,CA,Post Office or large volume customer,94704,Spatial join to ZCTA
+94702,Berkeley,CA,Zip Code Area,94702,Zip Matches ZCTA
+94703,Berkeley,CA,Zip Code Area,94703,Zip Matches ZCTA
+94704,Berkeley,CA,Zip Code Area,94704,Zip Matches ZCTA
+94705,Berkeley,CA,Zip Code Area,94705,Zip Matches ZCTA
+94706,Albany,CA,Zip Code Area,94706,Zip Matches ZCTA
+94707,Berkeley,CA,Zip Code Area,94707,Zip Matches ZCTA
+94708,Berkeley,CA,Zip Code Area,94708,Zip Matches ZCTA
+94709,Berkeley,CA,Zip Code Area,94709,Zip Matches ZCTA
+94710,Berkeley,CA,Zip Code Area,94710,Zip Matches ZCTA
+94712,Berkeley,CA,Post Office or large volume customer,94704,Spatial join to ZCTA
+94720,Berkeley,CA,Zip Code Area,94720,Zip Matches ZCTA
+94801,Richmond,CA,Zip Code Area,94801,Zip Matches ZCTA
+94802,Richmond,CA,Post Office or large volume customer,94801,Spatial join to ZCTA
+94803,El Sobrante,CA,Zip Code Area,94803,Zip Matches ZCTA
+94804,Richmond,CA,Zip Code Area,94804,Zip Matches ZCTA
+94805,Richmond,CA,Zip Code Area,94805,Zip Matches ZCTA
+94806,San Pablo,CA,Zip Code Area,94806,Zip Matches ZCTA
+94807,Richmond,CA,Post Office or large volume customer,94801,Spatial join to ZCTA
+94808,Richmond,CA,Post Office or large volume customer,94804,Spatial join to ZCTA
+94820,El Sobrante,CA,Post Office or large volume customer,94803,Spatial join to ZCTA
+94850,Richmond,CA,Post Office or large volume customer,94850,Zip Matches ZCTA
+94901,San Rafael,CA,Zip Code Area,94901,Zip Matches ZCTA
+94903,San Rafael,CA,Zip Code Area,94903,Zip Matches ZCTA
+94904,Greenbrae,CA,Zip Code Area,94904,Zip Matches ZCTA
+94912,San Rafael,CA,Post Office or large volume customer,94901,Spatial join to ZCTA
+94913,San Rafael,CA,Post Office or large volume customer,94903,Spatial join to ZCTA
+94914,Kentfield,CA,Post Office or large volume customer,94904,Spatial join to ZCTA
+94915,San Rafael,CA,Post Office or large volume customer,94901,Spatial join to ZCTA
+94920,Belvedere Tiburon,CA,Zip Code Area,94920,Zip Matches ZCTA
+94922,Bodega,CA,Zip Code Area,94922,Zip Matches ZCTA
+94923,Bodega Bay,CA,Zip Code Area,94923,Zip Matches ZCTA
+94924,Bolinas,CA,Zip Code Area,94924,Zip Matches ZCTA
+94925,Corte Madera,CA,Zip Code Area,94925,Zip Matches ZCTA
+94926,Rohnert Park,CA,Post Office or large volume customer,94928,Spatial join to ZCTA
+94927,Rohnert Park,CA,Post Office or large volume customer,94928,Spatial join to ZCTA
+94928,Rohnert Park,CA,Zip Code Area,94928,Zip Matches ZCTA
+94929,Dillon Beach,CA,Zip Code Area,94929,Zip Matches ZCTA
+94930,Fairfax,CA,Zip Code Area,94930,Zip Matches ZCTA
+94931,Cotati,CA,Zip Code Area,94931,Zip Matches ZCTA
+94933,Forest Knolls,CA,Zip Code Area,94933,Zip Matches ZCTA
+94937,Inverness,CA,Zip Code Area,94937,Zip Matches ZCTA
+94938,Lagunitas,CA,Zip Code Area,94938,Zip Matches ZCTA
+94939,Larkspur,CA,Zip Code Area,94939,Zip Matches ZCTA
+94940,Marshall,CA,Zip Code Area,94940,Zip Matches ZCTA
+94941,Mill Valley,CA,Zip Code Area,94941,Zip Matches ZCTA
+94942,Mill Valley,CA,Post Office or large volume customer,94941,Spatial join to ZCTA
+94945,Novato,CA,Zip Code Area,94945,Zip Matches ZCTA
+94946,Nicasio,CA,Zip Code Area,94946,Zip Matches ZCTA
+94947,Novato,CA,Zip Code Area,94947,Zip Matches ZCTA
+94948,Novato,CA,Post Office or large volume customer,94947,Spatial join to ZCTA
+94949,Novato,CA,Zip Code Area,94949,Zip Matches ZCTA
+94950,Olema,CA,Post Office or large volume customer,94950,Zip Matches ZCTA
+94951,Penngrove,CA,Zip Code Area,94951,Zip Matches ZCTA
+94952,Petaluma,CA,Zip Code Area,94952,Zip Matches ZCTA
+94953,Petaluma,CA,Post Office or large volume customer,94952,Spatial join to ZCTA
+94954,Petaluma,CA,Zip Code Area,94954,Zip Matches ZCTA
+94955,Petaluma,CA,Post Office or large volume customer,94954,Spatial join to ZCTA
+94956,Point Reyes Station,CA,Zip Code Area,94956,Zip Matches ZCTA
+94957,Ross,CA,Zip Code Area,94957,Zip Matches ZCTA
+94960,San Anselmo,CA,Zip Code Area,94960,Zip Matches ZCTA
+94963,San Geronimo,CA,Zip Code Area,94963,Zip Matches ZCTA
+94964,San Quentin,CA,Zip Code Area,94964,Zip Matches ZCTA
+94965,Sausalito,CA,Zip Code Area,94965,Zip Matches ZCTA
+94966,Sausalito,CA,Post Office or large volume customer,94965,Spatial join to ZCTA
+94970,Stinson Beach,CA,Zip Code Area,94970,Zip Matches ZCTA
+94971,Tomales,CA,Zip Code Area,94971,Zip Matches ZCTA
+94972,Valley Ford,CA,Zip Code Area,94972,Zip Matches ZCTA
+94973,Woodacre,CA,Zip Code Area,94973,Zip Matches ZCTA
+94974,San Quentin,CA,Post Office or large volume customer,94964,Spatial join to ZCTA
+94975,Petaluma,CA,Post Office or large volume customer,94954,Spatial join to ZCTA
+94976,Corte Madera,CA,Post Office or large volume customer,94925,Spatial join to ZCTA
+94977,Larkspur,CA,Post Office or large volume customer,94939,Spatial join to ZCTA
+94978,Fairfax,CA,Post Office or large volume customer,94930,Spatial join to ZCTA
+94979,San Anselmo,CA,Post Office or large volume customer,94960,Spatial join to ZCTA
+94998,Novato,CA,Post Office or large volume customer,94947,Spatial join to ZCTA
+94999,Petaluma,CA,Post Office or large volume customer,94954,Spatial join to ZCTA
+95001,Aptos,CA,Post Office or large volume customer,95003,Spatial join to ZCTA
+95002,Alviso,CA,Zip Code Area,95002,Zip Matches ZCTA
+95003,Aptos,CA,Zip Code Area,95003,Zip Matches ZCTA
+95004,Aromas,CA,Zip Code Area,95004,Zip Matches ZCTA
+95005,Ben Lomond,CA,Zip Code Area,95005,Zip Matches ZCTA
+95006,Boulder Creek,CA,Zip Code Area,95006,Zip Matches ZCTA
+95007,Brookdale,CA,Post Office or large volume customer,95007,Zip Matches ZCTA
+95008,Campbell,CA,Zip Code Area,95008,Zip Matches ZCTA
+95009,Campbell,CA,Post Office or large volume customer,95008,Spatial join to ZCTA
+95010,Capitola,CA,Zip Code Area,95010,Zip Matches ZCTA
+95011,Campbell,CA,Post Office or large volume customer,95008,Spatial join to ZCTA
+95012,Castroville,CA,Zip Code Area,95012,Zip Matches ZCTA
+95013,Coyote,CA,Zip Code Area,95013,Zip Matches ZCTA
+95014,Cupertino,CA,Zip Code Area,95014,Zip Matches ZCTA
+95015,Cupertino,CA,Post Office or large volume customer,95014,Spatial join to ZCTA
+95017,Davenport,CA,Zip Code Area,95017,Zip Matches ZCTA
+95018,Felton,CA,Zip Code Area,95018,Zip Matches ZCTA
+95019,Freedom,CA,Zip Code Area,95019,Zip Matches ZCTA
+95020,Gilroy,CA,Zip Code Area,95020,Zip Matches ZCTA
+95021,Gilroy,CA,Post Office or large volume customer,95020,Spatial join to ZCTA
+95023,Hollister,CA,Zip Code Area,95023,Zip Matches ZCTA
+95024,Hollister,CA,Post Office or large volume customer,95023,Spatial join to ZCTA
+95026,Holy City,CA,Post Office or large volume customer,95033,Spatial join to ZCTA
+95030,Los Gatos,CA,Zip Code Area,95030,Zip Matches ZCTA
+95031,Los Gatos,CA,Post Office or large volume customer,95030,Spatial join to ZCTA
+95032,Los Gatos,CA,Zip Code Area,95032,Zip Matches ZCTA
+95033,Los Gatos,CA,Zip Code Area,95033,Zip Matches ZCTA
+95035,Milpitas,CA,Zip Code Area,95035,Zip Matches ZCTA
+95036,Milpitas,CA,Post Office or large volume customer,95035,Spatial join to ZCTA
+95037,Morgan Hill,CA,Zip Code Area,95037,Zip Matches ZCTA
+95038,Morgan Hill,CA,Post Office or large volume customer,95037,Spatial join to ZCTA
+95039,Moss Landing,CA,Zip Code Area,95039,Zip Matches ZCTA
+95041,Mount Hermon,CA,Post Office or large volume customer,95041,Zip Matches ZCTA
+95042,New Almaden,CA,Post Office or large volume customer,95120,Spatial join to ZCTA
+95043,Paicines,CA,Zip Code Area,95043,Zip Matches ZCTA
+95044,Redwood Estates,CA,Post Office or large volume customer,95033,Spatial join to ZCTA
+95045,San Juan Bautista,CA,Zip Code Area,95045,Zip Matches ZCTA
+95046,San Martin,CA,Zip Code Area,95046,Zip Matches ZCTA
+95050,Santa Clara,CA,Zip Code Area,95050,Zip Matches ZCTA
+95051,Santa Clara,CA,Zip Code Area,95051,Zip Matches ZCTA
+95052,Santa Clara,CA,Post Office or large volume customer,95050,Spatial join to ZCTA
+95053,Santa Clara,CA,Zip Code Area,95053,Zip Matches ZCTA
+95054,Santa Clara,CA,Zip Code Area,95054,Zip Matches ZCTA
+95055,Santa Clara,CA,Post Office or large volume customer,95051,Spatial join to ZCTA
+95056,Santa Clara,CA,Post Office or large volume customer,95054,Spatial join to ZCTA
+95060,Santa Cruz,CA,Zip Code Area,95060,Zip Matches ZCTA
+95061,Santa Cruz,CA,Post Office or large volume customer,95060,Spatial join to ZCTA
+95062,Santa Cruz,CA,Zip Code Area,95062,Zip Matches ZCTA
+95063,Santa Cruz,CA,Post Office or large volume customer,95062,Spatial join to ZCTA
+95064,Santa Cruz,CA,Zip Code Area,95064,Zip Matches ZCTA
+95065,Santa Cruz,CA,Zip Code Area,95065,Zip Matches ZCTA
+95066,Scotts Valley,CA,Zip Code Area,95066,Zip Matches ZCTA
+95067,Scotts Valley,CA,Post Office or large volume customer,95066,Spatial join to ZCTA
+95070,Saratoga,CA,Zip Code Area,95070,Zip Matches ZCTA
+95071,Saratoga,CA,Post Office or large volume customer,95070,Spatial join to ZCTA
+95073,Soquel,CA,Zip Code Area,95073,Zip Matches ZCTA
+95075,Tres Pinos,CA,Zip Code Area,95075,Zip Matches ZCTA
+95076,Watsonville,CA,Zip Code Area,95076,Zip Matches ZCTA
+95077,Watsonville,CA,Post Office or large volume customer,95076,Spatial join to ZCTA
+95101,San Jose,CA,Post Office or large volume customer,95131,Spatial join to ZCTA
+95103,San Jose,CA,Post Office or large volume customer,95113,Spatial join to ZCTA
+95106,San Jose,CA,Post Office or large volume customer,95113,Spatial join to ZCTA
+95108,San Jose,CA,Post Office or large volume customer,95113,Spatial join to ZCTA
+95109,San Jose,CA,Post Office or large volume customer,95113,Spatial join to ZCTA
+95110,San Jose,CA,Zip Code Area,95110,Zip Matches ZCTA
+95111,San Jose,CA,Zip Code Area,95111,Zip Matches ZCTA
+95112,San Jose,CA,Zip Code Area,95112,Zip Matches ZCTA
+95113,San Jose,CA,Zip Code Area,95113,Zip Matches ZCTA
+95115,San Jose,CA,Post Office or large volume customer,95113,Spatial join to ZCTA
+95116,San Jose,CA,Zip Code Area,95116,Zip Matches ZCTA
+95117,San Jose,CA,Zip Code Area,95117,Zip Matches ZCTA
+95118,San Jose,CA,Zip Code Area,95118,Zip Matches ZCTA
+95119,San Jose,CA,Zip Code Area,95119,Zip Matches ZCTA
+95120,San Jose,CA,Zip Code Area,95120,Zip Matches ZCTA
+95121,San Jose,CA,Zip Code Area,95121,Zip Matches ZCTA
+95122,San Jose,CA,Zip Code Area,95122,Zip Matches ZCTA
+95123,San Jose,CA,Zip Code Area,95123,Zip Matches ZCTA
+95124,San Jose,CA,Zip Code Area,95124,Zip Matches ZCTA
+95125,San Jose,CA,Zip Code Area,95125,Zip Matches ZCTA
+95126,San Jose,CA,Zip Code Area,95126,Zip Matches ZCTA
+95127,San Jose,CA,Zip Code Area,95127,Zip Matches ZCTA
+95128,San Jose,CA,Zip Code Area,95128,Zip Matches ZCTA
+95129,San Jose,CA,Zip Code Area,95129,Zip Matches ZCTA
+95130,San Jose,CA,Zip Code Area,95130,Zip Matches ZCTA
+95131,San Jose,CA,Zip Code Area,95131,Zip Matches ZCTA
+95132,San Jose,CA,Zip Code Area,95132,Zip Matches ZCTA
+95133,San Jose,CA,Zip Code Area,95133,Zip Matches ZCTA
+95134,San Jose,CA,Zip Code Area,95134,Zip Matches ZCTA
+95135,San Jose,CA,Zip Code Area,95135,Zip Matches ZCTA
+95136,San Jose,CA,Zip Code Area,95136,Zip Matches ZCTA
+95138,San Jose,CA,Zip Code Area,95138,Zip Matches ZCTA
+95139,San Jose,CA,Zip Code Area,95139,Zip Matches ZCTA
+95140,Mount Hamilton,CA,Zip Code Area,95140,Zip Matches ZCTA
+95141,San Jose,CA,Zip Code Area,95037,Spatial join to ZCTA
+95148,San Jose,CA,Zip Code Area,95148,Zip Matches ZCTA
+95150,San Jose,CA,Post Office or large volume customer,95125,Spatial join to ZCTA
+95151,San Jose,CA,Post Office or large volume customer,95122,Spatial join to ZCTA
+95152,San Jose,CA,Post Office or large volume customer,95132,Spatial join to ZCTA
+95153,San Jose,CA,Post Office or large volume customer,95123,Spatial join to ZCTA
+95154,San Jose,CA,Post Office or large volume customer,95124,Spatial join to ZCTA
+95155,San Jose,CA,Post Office or large volume customer,95125,Spatial join to ZCTA
+95156,San Jose,CA,Post Office or large volume customer,95127,Spatial join to ZCTA
+95157,San Jose,CA,Post Office or large volume customer,95117,Spatial join to ZCTA
+95158,San Jose,CA,Post Office or large volume customer,95118,Spatial join to ZCTA
+95159,San Jose,CA,Post Office or large volume customer,95126,Spatial join to ZCTA
+95160,San Jose,CA,Post Office or large volume customer,95120,Spatial join to ZCTA
+95161,San Jose,CA,Post Office or large volume customer,95131,Spatial join to ZCTA
+95164,San Jose,CA,Post Office or large volume customer,95134,Spatial join to ZCTA
+95170,San Jose,CA,Post Office or large volume customer,95117,Spatial join to ZCTA
+95172,San Jose,CA,Post Office or large volume customer,95112,Spatial join to ZCTA
+95173,San Jose,CA,Post Office or large volume customer,95122,Spatial join to ZCTA
+95190,San Jose,CA,Post Office or large volume customer,95112,Spatial join to ZCTA
+95191,San Jose,CA,Post Office or large volume customer,95126,Spatial join to ZCTA
+95192,San Jose,CA,Zip Code Area,95112,Spatial join to ZCTA
+95193,San Jose,CA,Post Office or large volume customer,95123,Spatial join to ZCTA
+95194,San Jose,CA,Post Office or large volume customer,95110,Spatial join to ZCTA
+95196,San Jose,CA,Post Office or large volume customer,95110,Spatial join to ZCTA
+95201,Stockton,CA,Post Office or large volume customer,95202,Spatial join to ZCTA
+95202,Stockton,CA,Zip Code Area,95202,Zip Matches ZCTA
+95203,Stockton,CA,Zip Code Area,95203,Zip Matches ZCTA
+95204,Stockton,CA,Zip Code Area,95204,Zip Matches ZCTA
+95205,Stockton,CA,Zip Code Area,95205,Zip Matches ZCTA
+95206,Stockton,CA,Zip Code Area,95206,Zip Matches ZCTA
+95207,Stockton,CA,Zip Code Area,95207,Zip Matches ZCTA
+95208,Stockton,CA,Post Office or large volume customer,95204,Spatial join to ZCTA
+95209,Stockton,CA,Zip Code Area,95209,Zip Matches ZCTA
+95210,Stockton,CA,Zip Code Area,95210,Zip Matches ZCTA
+95211,Stockton,CA,Zip Code Area,95211,Zip Matches ZCTA
+95212,Stockton,CA,Zip Code Area,95212,Zip Matches ZCTA
+95213,Stockton,CA,Post Office or large volume customer,95215,Spatial join to ZCTA
+95214,Stockton,CA,Post Office or large volume customer,95202,Spatial join to ZCTA
+95215,Stockton,CA,Zip Code Area,95215,Zip Matches ZCTA
+95219,Stockton,CA,Zip Code Area,95219,Zip Matches ZCTA
+95220,Acampo,CA,Zip Code Area,95220,Zip Matches ZCTA
+95221,Altaville,CA,Post Office or large volume customer,95222,Spatial join to ZCTA
+95222,Angels Camp,CA,Zip Code Area,95222,Zip Matches ZCTA
+95223,Arnold,CA,Zip Code Area,95223,Zip Matches ZCTA
+95224,Avery,CA,Post Office or large volume customer,95224,Zip Matches ZCTA
+95225,Burson,CA,Post Office or large volume customer,95225,Zip Matches ZCTA
+95226,Campo Seco,CA,Post Office or large volume customer,95226,Zip Matches ZCTA
+95227,Clements,CA,Post Office or large volume customer,95227,Zip Matches ZCTA
+95228,Copperopolis,CA,Zip Code Area,95228,Zip Matches ZCTA
+95229,Douglas Flat,CA,Post Office or large volume customer,95247,Spatial join to ZCTA
+95230,Farmington,CA,Zip Code Area,95230,Zip Matches ZCTA
+95231,French Camp,CA,Zip Code Area,95231,Zip Matches ZCTA
+95232,Glencoe,CA,Zip Code Area,95232,Zip Matches ZCTA
+95233,Hathaway Pines,CA,Post Office or large volume customer,95233,Zip Matches ZCTA
+95234,Holt,CA,Post Office or large volume customer,95234,Zip Matches ZCTA
+95236,Linden,CA,Zip Code Area,95236,Zip Matches ZCTA
+95237,Lockeford,CA,Zip Code Area,95237,Zip Matches ZCTA
+95240,Lodi,CA,Zip Code Area,95240,Zip Matches ZCTA
+95241,Lodi,CA,Post Office or large volume customer,95240,Spatial join to ZCTA
+95242,Lodi,CA,Zip Code Area,95242,Zip Matches ZCTA
+95245,Mokelumne Hill,CA,Zip Code Area,95245,Zip Matches ZCTA
+95246,Mountain Ranch,CA,Zip Code Area,95246,Zip Matches ZCTA
+95247,Murphys,CA,Zip Code Area,95247,Zip Matches ZCTA
+95248,Rail Road Flat,CA,Post Office or large volume customer,95248,Zip Matches ZCTA
+95249,San Andreas,CA,Zip Code Area,95249,Zip Matches ZCTA
+95251,Vallecito,CA,Zip Code Area,95251,Zip Matches ZCTA
+95252,Valley Springs,CA,Zip Code Area,95252,Zip Matches ZCTA
+95253,Victor,CA,Post Office or large volume customer,95240,Spatial join to ZCTA
+95254,Wallace,CA,Post Office or large volume customer,95254,Zip Matches ZCTA
+95255,West Point,CA,Zip Code Area,95255,Zip Matches ZCTA
+95257,Wilseyville,CA,Zip Code Area,95257,Zip Matches ZCTA
+95258,Woodbridge,CA,Zip Code Area,95258,Zip Matches ZCTA
+95267,Stockton,CA,Post Office or large volume customer,95207,Spatial join to ZCTA
+95269,Stockton,CA,Post Office or large volume customer,95207,Spatial join to ZCTA
+95296,Stockton,CA,Post Office or large volume customer,95215,Spatial join to ZCTA
+95297,Stockton,CA,Post Office or large volume customer,95204,Spatial join to ZCTA
+95301,Atwater,CA,Zip Code Area,95301,Zip Matches ZCTA
+95303,Ballico,CA,Zip Code Area,95303,Zip Matches ZCTA
+95304,Tracy,CA,Zip Code Area,95304,Zip Matches ZCTA
+95305,Big Oak Flat,CA,Post Office or large volume customer,95305,Zip Matches ZCTA
+95306,Catheys Valley,CA,Zip Code Area,95306,Zip Matches ZCTA
+95307,Ceres,CA,Zip Code Area,95307,Zip Matches ZCTA
+95309,Chinese Camp,CA,Post Office or large volume customer,95327,Spatial join to ZCTA
+95310,Columbia,CA,Zip Code Area,95310,Zip Matches ZCTA
+95311,Coulterville,CA,Zip Code Area,95311,Zip Matches ZCTA
+95312,Cressey,CA,Post Office or large volume customer,95312,Zip Matches ZCTA
+95313,Crows Landing,CA,Zip Code Area,95313,Zip Matches ZCTA
+95315,Delhi,CA,Zip Code Area,95315,Zip Matches ZCTA
+95316,Denair,CA,Zip Code Area,95316,Zip Matches ZCTA
+95317,El Nido,CA,Zip Code Area,95317,Zip Matches ZCTA
+95318,El Portal,CA,Zip Code Area,95318,Zip Matches ZCTA
+95319,Empire,CA,Post Office or large volume customer,95319,Zip Matches ZCTA
+95320,Escalon,CA,Zip Code Area,95320,Zip Matches ZCTA
+95321,Groveland,CA,Zip Code Area,95321,Zip Matches ZCTA
+95322,Gustine,CA,Zip Code Area,95322,Zip Matches ZCTA
+95323,Hickman,CA,Zip Code Area,95323,Zip Matches ZCTA
+95324,Hilmar,CA,Zip Code Area,95324,Zip Matches ZCTA
+95325,Hornitos,CA,Post Office or large volume customer,95325,Zip Matches ZCTA
+95326,Hughson,CA,Zip Code Area,95326,Zip Matches ZCTA
+95327,Jamestown,CA,Zip Code Area,95327,Zip Matches ZCTA
+95328,Keyes,CA,Zip Code Area,95328,Zip Matches ZCTA
+95329,La Grange,CA,Zip Code Area,95329,Zip Matches ZCTA
+95330,Lathrop,CA,Zip Code Area,95330,Zip Matches ZCTA
+95333,Le Grand,CA,Zip Code Area,95333,Zip Matches ZCTA
+95334,Livingston,CA,Zip Code Area,95334,Zip Matches ZCTA
+95335,Long Barn,CA,Zip Code Area,95335,Zip Matches ZCTA
+95336,Manteca,CA,Zip Code Area,95336,Zip Matches ZCTA
+95337,Manteca,CA,Zip Code Area,95337,Zip Matches ZCTA
+95338,Mariposa,CA,Zip Code Area,95338,Zip Matches ZCTA
+95340,Merced,CA,Zip Code Area,95340,Zip Matches ZCTA
+95341,Merced,CA,Zip Code Area,95341,Zip Matches ZCTA
+95343,Merced,CA,Post Office or large volume customer,95340,Spatial join to ZCTA
+95344,Merced,CA,Post Office or large volume customer,95340,Spatial join to ZCTA
+95345,Midpines,CA,Zip Code Area,95345,Zip Matches ZCTA
+95346,MI Wuk Village,CA,Zip Code Area,95346,Zip Matches ZCTA
+95347,Moccasin,CA,Post Office or large volume customer,95305,Spatial join to ZCTA
+95348,Merced,CA,Zip Code Area,95348,Zip Matches ZCTA
+95350,Modesto,CA,Zip Code Area,95350,Zip Matches ZCTA
+95351,Modesto,CA,Zip Code Area,95351,Zip Matches ZCTA
+95352,Modesto,CA,Post Office or large volume customer,95350,Spatial join to ZCTA
+95353,Modesto,CA,Post Office or large volume customer,95350,Spatial join to ZCTA
+95354,Modesto,CA,Zip Code Area,95354,Zip Matches ZCTA
+95355,Modesto,CA,Zip Code Area,95355,Zip Matches ZCTA
+95356,Modesto,CA,Zip Code Area,95356,Zip Matches ZCTA
+95357,Modesto,CA,Zip Code Area,95357,Zip Matches ZCTA
+95358,Modesto,CA,Zip Code Area,95358,Zip Matches ZCTA
+95360,Newman,CA,Zip Code Area,95360,Zip Matches ZCTA
+95361,Oakdale,CA,Zip Code Area,95361,Zip Matches ZCTA
+95363,Patterson,CA,Zip Code Area,95363,Zip Matches ZCTA
+95364,Pinecrest,CA,Zip Code Area,95364,Zip Matches ZCTA
+95365,Planada,CA,Zip Code Area,95365,Zip Matches ZCTA
+95366,Ripon,CA,Zip Code Area,95366,Zip Matches ZCTA
+95367,Riverbank,CA,Zip Code Area,95367,Zip Matches ZCTA
+95368,Salida,CA,Zip Code Area,95368,Zip Matches ZCTA
+95369,Snelling,CA,Zip Code Area,95369,Zip Matches ZCTA
+95370,Sonora,CA,Zip Code Area,95370,Zip Matches ZCTA
+95372,Soulsbyville,CA,Zip Code Area,95372,Zip Matches ZCTA
+95373,Standard,CA,Post Office or large volume customer,95370,Spatial join to ZCTA
+95374,Stevinson,CA,Zip Code Area,95374,Zip Matches ZCTA
+95375,Strawberry,CA,Post Office or large volume customer,95375,Zip Matches ZCTA
+95376,Tracy,CA,Zip Code Area,95376,Zip Matches ZCTA
+95377,Tracy,CA,Zip Code Area,95377,Zip Matches ZCTA
+95378,Tracy,CA,Post Office or large volume customer,95376,Spatial join to ZCTA
+95379,Tuolumne,CA,Zip Code Area,95379,Zip Matches ZCTA
+95380,Turlock,CA,Zip Code Area,95380,Zip Matches ZCTA
+95381,Turlock,CA,Post Office or large volume customer,95380,Spatial join to ZCTA
+95382,Turlock,CA,Zip Code Area,95382,Zip Matches ZCTA
+95383,Twain Harte,CA,Zip Code Area,95383,Zip Matches ZCTA
+95385,Vernalis,CA,Zip Code Area,95385,Zip Matches ZCTA
+95386,Waterford,CA,Zip Code Area,95386,Zip Matches ZCTA
+95387,Westley,CA,Post Office or large volume customer,95387,Zip Matches ZCTA
+95388,Winton,CA,Zip Code Area,95388,Zip Matches ZCTA
+95389,Yosemite National Park,CA,Zip Code Area,95389,Zip Matches ZCTA
+95391,Tracy,CA,Zip Code Area,95391,Zip Matches ZCTA
+95397,Modesto,CA,Post Office or large volume customer,95350,Spatial join to ZCTA
+95401,Santa Rosa,CA,Zip Code Area,95401,Zip Matches ZCTA
+95402,Santa Rosa,CA,Post Office or large volume customer,95404,Spatial join to ZCTA
+95403,Santa Rosa,CA,Zip Code Area,95403,Zip Matches ZCTA
+95404,Santa Rosa,CA,Zip Code Area,95404,Zip Matches ZCTA
+95405,Santa Rosa,CA,Zip Code Area,95405,Zip Matches ZCTA
+95406,Santa Rosa,CA,Post Office or large volume customer,95401,Spatial join to ZCTA
+95407,Santa Rosa,CA,Zip Code Area,95407,Zip Matches ZCTA
+95409,Santa Rosa,CA,Zip Code Area,95409,Zip Matches ZCTA
+95410,Albion,CA,Zip Code Area,95410,Zip Matches ZCTA
+95412,Annapolis,CA,Zip Code Area,95412,Zip Matches ZCTA
+95415,Boonville,CA,Zip Code Area,95415,Zip Matches ZCTA
+95416,Boyes Hot Springs,CA,Post Office or large volume customer,95476,Spatial join to ZCTA
+95417,Branscomb,CA,Zip Code Area,95417,Zip Matches ZCTA
+95418,Calpella,CA,Post Office or large volume customer,95482,Spatial join to ZCTA
+95419,Camp Meeker,CA,Post Office or large volume customer,95472,Spatial join to ZCTA
+95420,Caspar,CA,Zip Code Area,95420,Zip Matches ZCTA
+95421,Cazadero,CA,Zip Code Area,95421,Zip Matches ZCTA
+95422,Clearlake,CA,Zip Code Area,95422,Zip Matches ZCTA
+95423,Clearlake Oaks,CA,Zip Code Area,95423,Zip Matches ZCTA
+95424,Clearlake Park,CA,Post Office or large volume customer,95422,Spatial join to ZCTA
+95425,Cloverdale,CA,Zip Code Area,95425,Zip Matches ZCTA
+95426,Cobb,CA,Zip Code Area,95426,Zip Matches ZCTA
+95427,Comptche,CA,Zip Code Area,95427,Zip Matches ZCTA
+95428,Covelo,CA,Zip Code Area,95428,Zip Matches ZCTA
+95429,Dos Rios,CA,Zip Code Area,95429,Zip Matches ZCTA
+95430,Duncans Mills,CA,Post Office or large volume customer,95430,Zip Matches ZCTA
+95431,Eldridge,CA,Post Office or large volume customer,95431,Zip Matches ZCTA
+95432,Elk,CA,Zip Code Area,95432,Zip Matches ZCTA
+95433,El Verano,CA,Post Office or large volume customer,95476,Spatial join to ZCTA
+95435,Finley,CA,Post Office or large volume customer,95435,Zip Matches ZCTA
+95436,Forestville,CA,Zip Code Area,95436,Zip Matches ZCTA
+95437,Fort Bragg,CA,Zip Code Area,95437,Zip Matches ZCTA
+95439,Fulton,CA,Zip Code Area,95439,Zip Matches ZCTA
+95441,Geyserville,CA,Zip Code Area,95441,Zip Matches ZCTA
+95442,Glen Ellen,CA,Zip Code Area,95442,Zip Matches ZCTA
+95443,Glenhaven,CA,Zip Code Area,95443,Zip Matches ZCTA
+95444,Graton,CA,Zip Code Area,95444,Zip Matches ZCTA
+95445,Gualala,CA,Zip Code Area,95445,Zip Matches ZCTA
+95446,Guerneville,CA,Zip Code Area,95446,Zip Matches ZCTA
+95448,Healdsburg,CA,Zip Code Area,95448,Zip Matches ZCTA
+95449,Hopland,CA,Zip Code Area,95449,Zip Matches ZCTA
+95450,Jenner,CA,Zip Code Area,95450,Zip Matches ZCTA
+95451,Kelseyville,CA,Zip Code Area,95451,Zip Matches ZCTA
+95452,Kenwood,CA,Zip Code Area,95452,Zip Matches ZCTA
+95453,Lakeport,CA,Zip Code Area,95453,Zip Matches ZCTA
+95454,Laytonville,CA,Zip Code Area,95454,Zip Matches ZCTA
+95456,Little River,CA,Zip Code Area,95456,Zip Matches ZCTA
+95457,Lower Lake,CA,Zip Code Area,95457,Zip Matches ZCTA
+95458,Lucerne,CA,Zip Code Area,95458,Zip Matches ZCTA
+95459,Manchester,CA,Zip Code Area,95459,Zip Matches ZCTA
+95460,Mendocino,CA,Zip Code Area,95460,Zip Matches ZCTA
+95461,Middletown,CA,Zip Code Area,95461,Zip Matches ZCTA
+95462,Monte Rio,CA,Zip Code Area,95462,Zip Matches ZCTA
+95463,Navarro,CA,Post Office or large volume customer,95463,Zip Matches ZCTA
+95464,Nice,CA,Zip Code Area,95464,Zip Matches ZCTA
+95465,Occidental,CA,Zip Code Area,95465,Zip Matches ZCTA
+95466,Philo,CA,Zip Code Area,95466,Zip Matches ZCTA
+95467,Hidden Valley Lake,CA,Zip Code Area,95467,Zip Matches ZCTA
+95468,Point Arena,CA,Zip Code Area,95468,Zip Matches ZCTA
+95469,Potter Valley,CA,Zip Code Area,95469,Zip Matches ZCTA
+95470,Redwood Valley,CA,Zip Code Area,95470,Zip Matches ZCTA
+95471,Rio Nido,CA,Post Office or large volume customer,95471,Zip Matches ZCTA
+95472,Sebastopol,CA,Zip Code Area,95472,Zip Matches ZCTA
+95473,Sebastopol,CA,Post Office or large volume customer,95472,Spatial join to ZCTA
+95476,Sonoma,CA,Zip Code Area,95476,Zip Matches ZCTA
+95480,Stewarts Point,CA,Post Office or large volume customer,95497,Spatial join to ZCTA
+95481,Talmage,CA,Post Office or large volume customer,95482,Spatial join to ZCTA
+95482,Ukiah,CA,Zip Code Area,95482,Zip Matches ZCTA
+95485,Upper Lake,CA,Zip Code Area,95485,Zip Matches ZCTA
+95486,Villa Grande,CA,Post Office or large volume customer,95486,Zip Matches ZCTA
+95487,Vineburg,CA,Post Office or large volume customer,95476,Spatial join to ZCTA
+95488,Westport,CA,Zip Code Area,95488,Zip Matches ZCTA
+95490,Willits,CA,Zip Code Area,95490,Zip Matches ZCTA
+95492,Windsor,CA,Zip Code Area,95492,Zip Matches ZCTA
+95493,Witter Springs,CA,Zip Code Area,95493,Zip Matches ZCTA
+95494,Yorkville,CA,Zip Code Area,95494,Zip Matches ZCTA
+95497,The Sea Ranch,CA,Zip Code Area,95497,Zip Matches ZCTA
+95501,Eureka,CA,Zip Code Area,95501,Zip Matches ZCTA
+95502,Eureka,CA,Post Office or large volume customer,95501,Spatial join to ZCTA
+95503,Eureka,CA,Zip Code Area,95503,Zip Matches ZCTA
+95511,Alderpoint,CA,Zip Code Area,95511,Zip Matches ZCTA
+95514,Blocksburg,CA,Zip Code Area,95514,Zip Matches ZCTA
+95518,Arcata,CA,Post Office or large volume customer,95521,Spatial join to ZCTA
+95519,McKinleyville,CA,Zip Code Area,95519,Zip Matches ZCTA
+95521,Arcata,CA,Zip Code Area,95521,Zip Matches ZCTA
+95524,Bayside,CA,Zip Code Area,95524,Zip Matches ZCTA
+95525,Blue Lake,CA,Zip Code Area,95525,Zip Matches ZCTA
+95526,Bridgeville,CA,Zip Code Area,95526,Zip Matches ZCTA
+95527,Burnt Ranch,CA,Zip Code Area,95527,Zip Matches ZCTA
+95528,Carlotta,CA,Zip Code Area,95528,Zip Matches ZCTA
+95531,Crescent City,CA,Zip Code Area,95531,Zip Matches ZCTA
+95532,Crescent City,CA,Post Office or large volume customer,95531,Spatial join to ZCTA
+95534,Cutten,CA,Post Office or large volume customer,95503,Spatial join to ZCTA
+95536,Ferndale,CA,Zip Code Area,95536,Zip Matches ZCTA
+95537,Fields Landing,CA,Post Office or large volume customer,95537,Zip Matches ZCTA
+95538,Fort Dick,CA,Post Office or large volume customer,95531,Spatial join to ZCTA
+95540,Fortuna,CA,Zip Code Area,95540,Zip Matches ZCTA
+95542,Garberville,CA,Zip Code Area,95542,Zip Matches ZCTA
+95543,Gasquet,CA,Zip Code Area,95543,Zip Matches ZCTA
+95545,Honeydew,CA,Post Office or large volume customer,95545,Zip Matches ZCTA
+95546,Hoopa,CA,Zip Code Area,95546,Zip Matches ZCTA
+95547,Hydesville,CA,Zip Code Area,95547,Zip Matches ZCTA
+95548,Klamath,CA,Zip Code Area,95548,Zip Matches ZCTA
+95549,Kneeland,CA,Zip Code Area,95549,Zip Matches ZCTA
+95550,Korbel,CA,Zip Code Area,95550,Zip Matches ZCTA
+95551,Loleta,CA,Zip Code Area,95551,Zip Matches ZCTA
+95552,Mad River,CA,Zip Code Area,95552,Zip Matches ZCTA
+95553,Miranda,CA,Post Office or large volume customer,95553,Zip Matches ZCTA
+95554,Myers Flat,CA,Zip Code Area,95554,Zip Matches ZCTA
+95555,Orick,CA,Zip Code Area,95555,Zip Matches ZCTA
+95556,Orleans,CA,Zip Code Area,95556,Zip Matches ZCTA
+95558,Petrolia,CA,Zip Code Area,95558,Zip Matches ZCTA
+95559,Phillipsville,CA,Post Office or large volume customer,95559,Zip Matches ZCTA
+95560,Redway,CA,Zip Code Area,95560,Zip Matches ZCTA
+95562,Rio Dell,CA,Zip Code Area,95562,Zip Matches ZCTA
+95563,Salyer,CA,Zip Code Area,95563,Zip Matches ZCTA
+95564,Samoa,CA,Zip Code Area,95564,Zip Matches ZCTA
+95565,Scotia,CA,Zip Code Area,95565,Zip Matches ZCTA
+95567,Smith River,CA,Zip Code Area,95567,Zip Matches ZCTA
+95568,Somes Bar,CA,Zip Code Area,95568,Zip Matches ZCTA
+95569,Redcrest,CA,Zip Code Area,95569,Zip Matches ZCTA
+95570,Trinidad,CA,Zip Code Area,95570,Zip Matches ZCTA
+95571,Weott,CA,Post Office or large volume customer,95571,Zip Matches ZCTA
+95573,Willow Creek,CA,Zip Code Area,95573,Zip Matches ZCTA
+95585,Leggett,CA,Zip Code Area,95585,Zip Matches ZCTA
+95587,Piercy,CA,Zip Code Area,95587,Zip Matches ZCTA
+95589,Whitethorn,CA,Zip Code Area,95589,Zip Matches ZCTA
+95595,Zenia,CA,Zip Code Area,95595,Zip Matches ZCTA
+95601,Amador City,CA,Post Office or large volume customer,95601,Zip Matches ZCTA
+95602,Auburn,CA,Zip Code Area,95602,Zip Matches ZCTA
+95603,Auburn,CA,Zip Code Area,95603,Zip Matches ZCTA
+95604,Auburn,CA,Post Office or large volume customer,95604,Zip Matches ZCTA
+95605,West Sacramento,CA,Zip Code Area,95605,Zip Matches ZCTA
+95606,Brooks,CA,Zip Code Area,95606,Zip Matches ZCTA
+95607,Capay,CA,Zip Code Area,95607,Zip Matches ZCTA
+95608,Carmichael,CA,Zip Code Area,95608,Zip Matches ZCTA
+95609,Carmichael,CA,Post Office or large volume customer,95608,Spatial join to ZCTA
+95610,Citrus Heights,CA,Zip Code Area,95610,Zip Matches ZCTA
+95611,Citrus Heights,CA,Post Office or large volume customer,95621,Spatial join to ZCTA
+95612,Clarksburg,CA,Zip Code Area,95612,Zip Matches ZCTA
+95613,Coloma,CA,Post Office or large volume customer,95667,Spatial join to ZCTA
+95614,Cool,CA,Zip Code Area,95614,Zip Matches ZCTA
+95615,Courtland,CA,Zip Code Area,95615,Zip Matches ZCTA
+95616,Davis,CA,Zip Code Area,95616,Zip Matches ZCTA
+95617,Davis,CA,Post Office or large volume customer,95616,Spatial join to ZCTA
+95618,Davis,CA,Zip Code Area,95618,Zip Matches ZCTA
+95619,Diamond Springs,CA,Zip Code Area,95619,Zip Matches ZCTA
+95620,Dixon,CA,Zip Code Area,95620,Zip Matches ZCTA
+95621,Citrus Heights,CA,Zip Code Area,95621,Zip Matches ZCTA
+95623,El Dorado,CA,Zip Code Area,95623,Zip Matches ZCTA
+95624,Elk Grove,CA,Zip Code Area,95624,Zip Matches ZCTA
+95625,Elmira,CA,Post Office or large volume customer,95625,Zip Matches ZCTA
+95626,Elverta,CA,Zip Code Area,95626,Zip Matches ZCTA
+95627,Esparto,CA,Zip Code Area,95627,Zip Matches ZCTA
+95628,Fair Oaks,CA,Zip Code Area,95628,Zip Matches ZCTA
+95629,Fiddletown,CA,Zip Code Area,95629,Zip Matches ZCTA
+95630,Folsom,CA,Zip Code Area,95630,Zip Matches ZCTA
+95631,Foresthill,CA,Zip Code Area,95631,Zip Matches ZCTA
+95632,Galt,CA,Zip Code Area,95632,Zip Matches ZCTA
+95633,Garden Valley,CA,Zip Code Area,95633,Zip Matches ZCTA
+95634,Georgetown,CA,Zip Code Area,95634,Zip Matches ZCTA
+95635,Greenwood,CA,Zip Code Area,95635,Zip Matches ZCTA
+95636,Grizzly Flats,CA,Zip Code Area,95636,Zip Matches ZCTA
+95637,Guinda,CA,Zip Code Area,95637,Zip Matches ZCTA
+95638,Herald,CA,Zip Code Area,95638,Zip Matches ZCTA
+95639,Hood,CA,Post Office or large volume customer,95639,Zip Matches ZCTA
+95640,Ione,CA,Zip Code Area,95640,Zip Matches ZCTA
+95641,Isleton,CA,Zip Code Area,95641,Zip Matches ZCTA
+95642,Jackson,CA,Zip Code Area,95642,Zip Matches ZCTA
+95644,Kit Carson,CA,Post Office or large volume customer,95666,Spatial join to ZCTA
+95645,Knights Landing,CA,Zip Code Area,95645,Zip Matches ZCTA
+95646,Kirkwood,CA,Post Office or large volume customer,95646,Zip Matches ZCTA
+95648,Lincoln,CA,Zip Code Area,95648,Zip Matches ZCTA
+95650,Loomis,CA,Zip Code Area,95650,Zip Matches ZCTA
+95651,Lotus,CA,Zip Code Area,95651,Zip Matches ZCTA
+95652,McClellan,CA,Zip Code Area,95652,Zip Matches ZCTA
+95653,Madison,CA,Zip Code Area,95653,Zip Matches ZCTA
+95654,Martell,CA,Post Office or large volume customer,95685,Spatial join to ZCTA
+95655,Mather,CA,Zip Code Area,95655,Zip Matches ZCTA
+95656,Mount Aukum,CA,Post Office or large volume customer,95684,Spatial join to ZCTA
+95658,Newcastle,CA,Zip Code Area,95658,Zip Matches ZCTA
+95659,Nicolaus,CA,Zip Code Area,95659,Zip Matches ZCTA
+95660,North Highlands,CA,Zip Code Area,95660,Zip Matches ZCTA
+95661,Roseville,CA,Zip Code Area,95661,Zip Matches ZCTA
+95662,Orangevale,CA,Zip Code Area,95662,Zip Matches ZCTA
+95663,Penryn,CA,Zip Code Area,95663,Zip Matches ZCTA
+95664,Pilot Hill,CA,Zip Code Area,95664,Zip Matches ZCTA
+95665,Pine Grove,CA,Zip Code Area,95665,Zip Matches ZCTA
+95666,Pioneer,CA,Zip Code Area,95666,Zip Matches ZCTA
+95667,Placerville,CA,Zip Code Area,95667,Zip Matches ZCTA
+95668,Pleasant Grove,CA,Zip Code Area,95668,Zip Matches ZCTA
+95669,Plymouth,CA,Zip Code Area,95669,Zip Matches ZCTA
+95670,Rancho Cordova,CA,Zip Code Area,95670,Zip Matches ZCTA
+95671,Represa,CA,Post Office or large volume customer,95630,Spatial join to ZCTA
+95672,Rescue,CA,Zip Code Area,95672,Zip Matches ZCTA
+95673,Rio Linda,CA,Zip Code Area,95673,Zip Matches ZCTA
+95674,Rio Oso,CA,Zip Code Area,95674,Zip Matches ZCTA
+95675,River Pines,CA,Post Office or large volume customer,95675,Zip Matches ZCTA
+95676,Robbins,CA,Post Office or large volume customer,95645,Spatial join to ZCTA
+95677,Rocklin,CA,Zip Code Area,95677,Zip Matches ZCTA
+95678,Roseville,CA,Zip Code Area,95678,Zip Matches ZCTA
+95679,Rumsey,CA,Zip Code Area,95679,Zip Matches ZCTA
+95680,Ryde,CA,Post Office or large volume customer,95680,Zip Matches ZCTA
+95681,Sheridan,CA,Zip Code Area,95681,Zip Matches ZCTA
+95682,Shingle Springs,CA,Zip Code Area,95682,Zip Matches ZCTA
+95683,Sloughhouse,CA,Zip Code Area,95683,Zip Matches ZCTA
+95684,Somerset,CA,Zip Code Area,95684,Zip Matches ZCTA
+95685,Sutter Creek,CA,Zip Code Area,95685,Zip Matches ZCTA
+95686,Thornton,CA,Post Office or large volume customer,95686,Zip Matches ZCTA
+95687,Vacaville,CA,Zip Code Area,95687,Zip Matches ZCTA
+95688,Vacaville,CA,Zip Code Area,95688,Zip Matches ZCTA
+95689,Volcano,CA,Zip Code Area,95689,Zip Matches ZCTA
+95690,Walnut Grove,CA,Zip Code Area,95690,Zip Matches ZCTA
+95691,West Sacramento,CA,Zip Code Area,95691,Zip Matches ZCTA
+95692,Wheatland,CA,Zip Code Area,95692,Zip Matches ZCTA
+95693,Wilton,CA,Zip Code Area,95693,Zip Matches ZCTA
+95694,Winters,CA,Zip Code Area,95694,Zip Matches ZCTA
+95695,Woodland,CA,Zip Code Area,95695,Zip Matches ZCTA
+95696,Vacaville,CA,Post Office or large volume customer,95687,Spatial join to ZCTA
+95697,Yolo,CA,Post Office or large volume customer,95697,Zip Matches ZCTA
+95698,Zamora,CA,Zip Code Area,95698,Zip Matches ZCTA
+95699,Drytown,CA,Post Office or large volume customer,95699,Zip Matches ZCTA
+95701,Alta,CA,Zip Code Area,95701,Zip Matches ZCTA
+95703,Applegate,CA,Zip Code Area,95703,Zip Matches ZCTA
+95709,Camino,CA,Zip Code Area,95709,Zip Matches ZCTA
+95712,Chicago Park,CA,Post Office or large volume customer,95945,Spatial join to ZCTA
+95713,Colfax,CA,Zip Code Area,95713,Zip Matches ZCTA
+95714,Dutch Flat,CA,Zip Code Area,95714,Zip Matches ZCTA
+95715,Emigrant Gap,CA,Zip Code Area,95715,Zip Matches ZCTA
+95717,Gold Run,CA,Zip Code Area,95717,Zip Matches ZCTA
+95720,Kyburz,CA,Zip Code Area,95720,Zip Matches ZCTA
+95721,Echo Lake,CA,Zip Code Area,95721,Zip Matches ZCTA
+95722,Meadow Vista,CA,Zip Code Area,95722,Zip Matches ZCTA
+95724,Norden,CA,Zip Code Area,95724,Zip Matches ZCTA
+95726,Pollock Pines,CA,Zip Code Area,95726,Zip Matches ZCTA
+95728,Soda Springs,CA,Zip Code Area,95728,Zip Matches ZCTA
+95735,Twin Bridges,CA,Zip Code Area,95735,Zip Matches ZCTA
+95736,Weimar,CA,Post Office or large volume customer,95736,Zip Matches ZCTA
+95741,Rancho Cordova,CA,Post Office or large volume customer,95670,Spatial join to ZCTA
+95742,Rancho Cordova,CA,Zip Code Area,95742,Zip Matches ZCTA
+95746,Granite Bay,CA,Zip Code Area,95746,Zip Matches ZCTA
+95747,Roseville,CA,Zip Code Area,95747,Zip Matches ZCTA
+95757,Elk Grove,CA,Zip Code Area,95757,Zip Matches ZCTA
+95758,Elk Grove,CA,Zip Code Area,95758,Zip Matches ZCTA
+95759,Elk Grove,CA,Post Office or large volume customer,95624,Spatial join to ZCTA
+95762,El Dorado Hills,CA,Zip Code Area,95762,Zip Matches ZCTA
+95763,Folsom,CA,Post Office or large volume customer,95630,Spatial join to ZCTA
+95765,Rocklin,CA,Zip Code Area,95765,Zip Matches ZCTA
+95776,Woodland,CA,Zip Code Area,95776,Zip Matches ZCTA
+95798,West Sacramento,CA,Post Office or large volume customer,95691,Spatial join to ZCTA
+95799,West Sacramento,CA,Post Office or large volume customer,95691,Spatial join to ZCTA
+95811,Sacramento,CA,Zip Code Area,95811,Zip Matches ZCTA
+95812,Sacramento,CA,Post Office or large volume customer,95814,Spatial join to ZCTA
+95813,Sacramento,CA,Post Office or large volume customer,95815,Spatial join to ZCTA
+95814,Sacramento,CA,Zip Code Area,95814,Zip Matches ZCTA
+95815,Sacramento,CA,Zip Code Area,95815,Zip Matches ZCTA
+95816,Sacramento,CA,Zip Code Area,95816,Zip Matches ZCTA
+95817,Sacramento,CA,Zip Code Area,95817,Zip Matches ZCTA
+95818,Sacramento,CA,Zip Code Area,95818,Zip Matches ZCTA
+95819,Sacramento,CA,Zip Code Area,95819,Zip Matches ZCTA
+95820,Sacramento,CA,Zip Code Area,95820,Zip Matches ZCTA
+95821,Sacramento,CA,Zip Code Area,95821,Zip Matches ZCTA
+95822,Sacramento,CA,Zip Code Area,95822,Zip Matches ZCTA
+95823,Sacramento,CA,Zip Code Area,95823,Zip Matches ZCTA
+95824,Sacramento,CA,Zip Code Area,95824,Zip Matches ZCTA
+95825,Sacramento,CA,Zip Code Area,95825,Zip Matches ZCTA
+95826,Sacramento,CA,Zip Code Area,95826,Zip Matches ZCTA
+95827,Sacramento,CA,Zip Code Area,95827,Zip Matches ZCTA
+95828,Sacramento,CA,Zip Code Area,95828,Zip Matches ZCTA
+95829,Sacramento,CA,Zip Code Area,95829,Zip Matches ZCTA
+95830,Sacramento,CA,Zip Code Area,95830,Zip Matches ZCTA
+95831,Sacramento,CA,Zip Code Area,95831,Zip Matches ZCTA
+95832,Sacramento,CA,Zip Code Area,95832,Zip Matches ZCTA
+95833,Sacramento,CA,Zip Code Area,95833,Zip Matches ZCTA
+95834,Sacramento,CA,Zip Code Area,95834,Zip Matches ZCTA
+95835,Sacramento,CA,Zip Code Area,95835,Zip Matches ZCTA
+95836,Sacramento,CA,Zip Code Area,95836,Spatial join to ZCTA
+95837,Sacramento,CA,Zip Code Area,95837,Zip Matches ZCTA
+95838,Sacramento,CA,Zip Code Area,95838,Zip Matches ZCTA
+95840,Sacramento,CA,Post Office or large volume customer,95811,Spatial join to ZCTA
+95841,Sacramento,CA,Zip Code Area,95841,Zip Matches ZCTA
+95842,Sacramento,CA,Zip Code Area,95842,Zip Matches ZCTA
+95843,Antelope,CA,Zip Code Area,95843,Zip Matches ZCTA
+95851,Sacramento,CA,Post Office or large volume customer,95815,Spatial join to ZCTA
+95852,Sacramento,CA,Post Office or large volume customer,95815,Spatial join to ZCTA
+95853,Sacramento,CA,Post Office or large volume customer,95815,Spatial join to ZCTA
+95860,Sacramento,CA,Post Office or large volume customer,95821,Spatial join to ZCTA
+95864,Sacramento,CA,Zip Code Area,95864,Zip Matches ZCTA
+95865,Sacramento,CA,Post Office or large volume customer,95825,Spatial join to ZCTA
+95866,Sacramento,CA,Post Office or large volume customer,95825,Spatial join to ZCTA
+95867,Sacramento,CA,Post Office or large volume customer,95811,Spatial join to ZCTA
+95894,Sacramento,CA,Post Office or large volume customer,95818,Spatial join to ZCTA
+95899,Sacramento,CA,Post Office or large volume customer,95691,Spatial join to ZCTA
+95901,Marysville,CA,Zip Code Area,95901,Zip Matches ZCTA
+95903,Beale AFB,CA,Zip Code Area,95903,Zip Matches ZCTA
+95910,Alleghany,CA,Zip Code Area,95910,Zip Matches ZCTA
+95912,Arbuckle,CA,Zip Code Area,95912,Zip Matches ZCTA
+95913,Artois,CA,Post Office or large volume customer,95988,Spatial join to ZCTA
+95914,Bangor,CA,Zip Code Area,95914,Zip Matches ZCTA
+95915,Belden,CA,Zip Code Area,95915,Zip Matches ZCTA
+95916,Berry Creek,CA,Zip Code Area,95916,Zip Matches ZCTA
+95917,Biggs,CA,Zip Code Area,95917,Zip Matches ZCTA
+95918,Browns Valley,CA,Zip Code Area,95918,Zip Matches ZCTA
+95919,Brownsville,CA,Zip Code Area,95919,Zip Matches ZCTA
+95920,Butte City,CA,Zip Code Area,95920,Zip Matches ZCTA
+95922,Camptonville,CA,Zip Code Area,95922,Zip Matches ZCTA
+95923,Canyon Dam,CA,Zip Code Area,95923,Zip Matches ZCTA
+95924,Cedar Ridge,CA,Post Office or large volume customer,95945,Spatial join to ZCTA
+95925,Challenge,CA,Zip Code Area,95925,Zip Matches ZCTA
+95926,Chico,CA,Zip Code Area,95926,Zip Matches ZCTA
+95927,Chico,CA,Post Office or large volume customer,95926,Spatial join to ZCTA
+95928,Chico,CA,Zip Code Area,95928,Zip Matches ZCTA
+95929,Chico,CA,Post Office or large volume customer,95928,Spatial join to ZCTA
+95930,Clipper Mills,CA,Post Office or large volume customer,95930,Zip Matches ZCTA
+95932,Colusa,CA,Zip Code Area,95932,Zip Matches ZCTA
+95934,Crescent Mills,CA,Zip Code Area,95934,Zip Matches ZCTA
+95935,Dobbins,CA,Zip Code Area,95935,Zip Matches ZCTA
+95936,Downieville,CA,Zip Code Area,95936,Zip Matches ZCTA
+95937,Dunnigan,CA,Zip Code Area,95937,Zip Matches ZCTA
+95938,Durham,CA,Zip Code Area,95938,Zip Matches ZCTA
+95939,Elk Creek,CA,Zip Code Area,95939,Zip Matches ZCTA
+95940,Feather Falls,CA,Post Office or large volume customer,95966,Spatial join to ZCTA
+95941,Forbestown,CA,Zip Code Area,95941,Zip Matches ZCTA
+95942,Forest Ranch,CA,Zip Code Area,95942,Zip Matches ZCTA
+95943,Glenn,CA,Zip Code Area,95943,Zip Matches ZCTA
+95944,Goodyears Bar,CA,Zip Code Area,95944,Zip Matches ZCTA
+95945,Grass Valley,CA,Zip Code Area,95945,Zip Matches ZCTA
+95946,Penn Valley,CA,Zip Code Area,95946,Zip Matches ZCTA
+95947,Greenville,CA,Zip Code Area,95947,Zip Matches ZCTA
+95948,Gridley,CA,Zip Code Area,95948,Zip Matches ZCTA
+95949,Grass Valley,CA,Zip Code Area,95949,Zip Matches ZCTA
+95950,Grimes,CA,Post Office or large volume customer,95950,Zip Matches ZCTA
+95951,Hamilton City,CA,Zip Code Area,95951,Zip Matches ZCTA
+95953,Live Oak,CA,Zip Code Area,95953,Zip Matches ZCTA
+95954,Magalia,CA,Zip Code Area,95954,Zip Matches ZCTA
+95955,Maxwell,CA,Zip Code Area,95955,Zip Matches ZCTA
+95956,Meadow Valley,CA,Zip Code Area,95956,Zip Matches ZCTA
+95957,Meridian,CA,Zip Code Area,95957,Zip Matches ZCTA
+95958,Nelson,CA,Post Office or large volume customer,95965,Spatial join to ZCTA
+95959,Nevada City,CA,Zip Code Area,95959,Zip Matches ZCTA
+95960,North San Juan,CA,Zip Code Area,95960,Zip Matches ZCTA
+95961,Olivehurst,CA,Zip Code Area,95961,Zip Matches ZCTA
+95962,Oregon House,CA,Zip Code Area,95962,Zip Matches ZCTA
+95963,Orland,CA,Zip Code Area,95963,Zip Matches ZCTA
+95965,Oroville,CA,Zip Code Area,95965,Zip Matches ZCTA
+95966,Oroville,CA,Zip Code Area,95966,Zip Matches ZCTA
+95967,Paradise,CA,Post Office or large volume customer,95969,Spatial join to ZCTA
+95968,Palermo,CA,Zip Code Area,95968,Zip Matches ZCTA
+95969,Paradise,CA,Zip Code Area,95969,Zip Matches ZCTA
+95970,Princeton,CA,Zip Code Area,95970,Zip Matches ZCTA
+95971,Quincy,CA,Zip Code Area,95971,Zip Matches ZCTA
+95972,Rackerby,CA,Zip Code Area,95914,Spatial join to ZCTA
+95973,Chico,CA,Zip Code Area,95973,Zip Matches ZCTA
+95974,Richvale,CA,Post Office or large volume customer,95974,Zip Matches ZCTA
+95975,Rough and Ready,CA,Zip Code Area,95975,Zip Matches ZCTA
+95976,Chico,CA,Post Office or large volume customer,95973,Spatial join to ZCTA
+95977,Smartsville,CA,Zip Code Area,95977,Zip Matches ZCTA
+95978,Stirling City,CA,Post Office or large volume customer,95978,Zip Matches ZCTA
+95979,Stonyford,CA,Zip Code Area,95979,Zip Matches ZCTA
+95980,Storrie,CA,Post Office or large volume customer,95915,Spatial join to ZCTA
+95981,Strawberry Valley,CA,Zip Code Area,95981,Zip Matches ZCTA
+95982,Sutter,CA,Zip Code Area,95982,Zip Matches ZCTA
+95983,Taylorsville,CA,Zip Code Area,95983,Zip Matches ZCTA
+95984,Twain,CA,Zip Code Area,95984,Zip Matches ZCTA
+95986,Washington,CA,Post Office or large volume customer,95986,Zip Matches ZCTA
+95987,Williams,CA,Zip Code Area,95987,Zip Matches ZCTA
+95988,Willows,CA,Zip Code Area,95988,Zip Matches ZCTA
+95991,Yuba City,CA,Zip Code Area,95991,Zip Matches ZCTA
+95992,Yuba City,CA,Post Office or large volume customer,95991,Spatial join to ZCTA
+95993,Yuba City,CA,Zip Code Area,95993,Zip Matches ZCTA
+96001,Redding,CA,Zip Code Area,96001,Zip Matches ZCTA
+96002,Redding,CA,Zip Code Area,96002,Zip Matches ZCTA
+96003,Redding,CA,Zip Code Area,96003,Zip Matches ZCTA
+96006,Adin,CA,Zip Code Area,96006,Zip Matches ZCTA
+96007,Anderson,CA,Zip Code Area,96007,Zip Matches ZCTA
+96008,Bella Vista,CA,Zip Code Area,96008,Zip Matches ZCTA
+96009,Bieber,CA,Post Office or large volume customer,96009,Zip Matches ZCTA
+96010,Big Bar,CA,Zip Code Area,96010,Zip Matches ZCTA
+96011,Big Bend,CA,Post Office or large volume customer,96011,Zip Matches ZCTA
+96013,Burney,CA,Zip Code Area,96013,Zip Matches ZCTA
+96014,Callahan,CA,Zip Code Area,96014,Zip Matches ZCTA
+96015,Canby,CA,Zip Code Area,96015,Zip Matches ZCTA
+96016,Cassel,CA,Zip Code Area,96016,Zip Matches ZCTA
+96017,Castella,CA,Zip Code Area,96017,Zip Matches ZCTA
+96019,Shasta Lake,CA,Zip Code Area,96019,Zip Matches ZCTA
+96020,Chester,CA,Zip Code Area,96020,Zip Matches ZCTA
+96021,Corning,CA,Zip Code Area,96021,Zip Matches ZCTA
+96022,Cottonwood,CA,Zip Code Area,96022,Zip Matches ZCTA
+96023,Dorris,CA,Zip Code Area,96023,Zip Matches ZCTA
+96024,Douglas City,CA,Zip Code Area,96024,Zip Matches ZCTA
+96025,Dunsmuir,CA,Zip Code Area,96025,Zip Matches ZCTA
+96027,Etna,CA,Zip Code Area,96027,Zip Matches ZCTA
+96028,Fall River Mills,CA,Zip Code Area,96028,Zip Matches ZCTA
+96029,Flournoy,CA,Post Office or large volume customer,96029,Zip Matches ZCTA
+96031,Forks of Salmon,CA,Zip Code Area,96031,Zip Matches ZCTA
+96032,Fort Jones,CA,Zip Code Area,96032,Zip Matches ZCTA
+96033,French Gulch,CA,Zip Code Area,96033,Zip Matches ZCTA
+96034,Gazelle,CA,Zip Code Area,96034,Zip Matches ZCTA
+96035,Gerber,CA,Zip Code Area,96035,Zip Matches ZCTA
+96037,Greenview,CA,Post Office or large volume customer,96037,Zip Matches ZCTA
+96038,Grenada,CA,Zip Code Area,96038,Zip Matches ZCTA
+96039,Happy Camp,CA,Zip Code Area,96039,Zip Matches ZCTA
+96040,Hat Creek,CA,Zip Code Area,96040,Zip Matches ZCTA
+96041,Hayfork,CA,Zip Code Area,96041,Zip Matches ZCTA
+96044,Hornbrook,CA,Zip Code Area,96044,Zip Matches ZCTA
+96046,Hyampom,CA,Zip Code Area,96046,Zip Matches ZCTA
+96047,Igo,CA,Zip Code Area,96047,Zip Matches ZCTA
+96048,Junction City,CA,Zip Code Area,96048,Zip Matches ZCTA
+96049,Redding,CA,Post Office or large volume customer,96049,Zip Matches ZCTA
+96050,Klamath River,CA,Zip Code Area,96050,Zip Matches ZCTA
+96051,Lakehead,CA,Zip Code Area,96051,Zip Matches ZCTA
+96052,Lewiston,CA,Zip Code Area,96052,Zip Matches ZCTA
+96054,Lookout,CA,Zip Code Area,96054,Zip Matches ZCTA
+96055,Los Molinos,CA,Zip Code Area,96055,Zip Matches ZCTA
+96056,McArthur,CA,Zip Code Area,96056,Zip Matches ZCTA
+96057,McCloud,CA,Zip Code Area,96057,Zip Matches ZCTA
+96058,Macdoel,CA,Zip Code Area,96058,Zip Matches ZCTA
+96059,Manton,CA,Zip Code Area,96059,Zip Matches ZCTA
+96061,Mill Creek,CA,Zip Code Area,96061,Zip Matches ZCTA
+96062,Millville,CA,Zip Code Area,96062,Zip Matches ZCTA
+96063,Mineral,CA,Zip Code Area,96063,Zip Matches ZCTA
+96064,Montague,CA,Zip Code Area,96064,Zip Matches ZCTA
+96065,Montgomery Creek,CA,Zip Code Area,96065,Zip Matches ZCTA
+96067,Mount Shasta,CA,Zip Code Area,96067,Zip Matches ZCTA
+96068,Nubieber,CA,Post Office or large volume customer,96068,Zip Matches ZCTA
+96069,Oak Run,CA,Zip Code Area,96069,Zip Matches ZCTA
+96070,OBrien,CA,Post Office or large volume customer,96051,Spatial join to ZCTA
+96071,Old Station,CA,Zip Code Area,96071,Zip Matches ZCTA
+96073,Palo Cedro,CA,Zip Code Area,96073,Zip Matches ZCTA
+96074,Paskenta,CA,Post Office or large volume customer,96074,Zip Matches ZCTA
+96075,Paynes Creek,CA,Zip Code Area,96075,Zip Matches ZCTA
+96076,Platina,CA,Zip Code Area,96076,Zip Matches ZCTA
+96078,Proberta,CA,Post Office or large volume customer,96035,Spatial join to ZCTA
+96079,Shasta Lake,CA,Post Office or large volume customer,96019,Spatial join to ZCTA
+96080,Red Bluff,CA,Zip Code Area,96080,Zip Matches ZCTA
+96084,Round Mountain,CA,Post Office or large volume customer,96084,Zip Matches ZCTA
+96085,Scott Bar,CA,Zip Code Area,96085,Zip Matches ZCTA
+96086,Seiad Valley,CA,Zip Code Area,96086,Zip Matches ZCTA
+96087,Shasta,CA,Zip Code Area,96087,Zip Matches ZCTA
+96088,Shingletown,CA,Zip Code Area,96088,Zip Matches ZCTA
+96089,Shasta Lake,CA,Post Office or large volume customer,96019,Spatial join to ZCTA
+96090,Tehama,CA,Post Office or large volume customer,96090,Zip Matches ZCTA
+96091,Trinity Center,CA,Zip Code Area,96091,Zip Matches ZCTA
+96092,Vina,CA,Post Office or large volume customer,96092,Zip Matches ZCTA
+96093,Weaverville,CA,Zip Code Area,96093,Zip Matches ZCTA
+96094,Weed,CA,Zip Code Area,96094,Zip Matches ZCTA
+96095,Whiskeytown,CA,Post Office or large volume customer,96087,Spatial join to ZCTA
+96096,Whitmore,CA,Zip Code Area,96096,Zip Matches ZCTA
+96097,Yreka,CA,Zip Code Area,96097,Zip Matches ZCTA
+96099,Redding,CA,Post Office or large volume customer,96001,Spatial join to ZCTA
+96101,Alturas,CA,Zip Code Area,96101,Zip Matches ZCTA
+96103,Blairsden Graeagle,CA,Zip Code Area,96103,Zip Matches ZCTA
+96104,Cedarville,CA,Zip Code Area,96104,Zip Matches ZCTA
+96105,Chilcoot,CA,Zip Code Area,96105,Zip Matches ZCTA
+96106,Clio,CA,Zip Code Area,96106,Zip Matches ZCTA
+96107,Coleville,CA,Zip Code Area,96107,Zip Matches ZCTA
+96108,Davis Creek,CA,Zip Code Area,96108,Zip Matches ZCTA
+96109,Doyle,CA,Zip Code Area,96109,Zip Matches ZCTA
+96110,Eagleville,CA,Post Office or large volume customer,96110,Zip Matches ZCTA
+96111,Floriston,CA,Zip Code Area,96111,Zip Matches ZCTA
+96112,Fort Bidwell,CA,Zip Code Area,96112,Zip Matches ZCTA
+96113,Herlong,CA,Zip Code Area,96113,Zip Matches ZCTA
+96114,Janesville,CA,Zip Code Area,96114,Zip Matches ZCTA
+96115,Lake City,CA,Zip Code Area,96115,Zip Matches ZCTA
+96116,Likely,CA,Zip Code Area,96116,Zip Matches ZCTA
+96117,Litchfield,CA,Zip Code Area,96117,Zip Matches ZCTA
+96118,Loyalton,CA,Zip Code Area,96118,Zip Matches ZCTA
+96119,Madeline,CA,Zip Code Area,96119,Zip Matches ZCTA
+96120,Markleeville,CA,Zip Code Area,96120,Zip Matches ZCTA
+96121,Milford,CA,Zip Code Area,96121,Zip Matches ZCTA
+96122,Portola,CA,Zip Code Area,96122,Zip Matches ZCTA
+96123,Ravendale,CA,Zip Code Area,96123,Zip Matches ZCTA
+96124,Calpine,CA,Zip Code Area,96124,Zip Matches ZCTA
+96125,Sierra City,CA,Zip Code Area,96125,Zip Matches ZCTA
+96126,Sierraville,CA,Zip Code Area,96126,Zip Matches ZCTA
+96127,Susanville,CA,Post Office or large volume customer,96130,Spatial join to ZCTA
+96128,Standish,CA,Zip Code Area,96128,Zip Matches ZCTA
+96129,Beckwourth,CA,Zip Code Area,96129,Zip Matches ZCTA
+96130,Susanville,CA,Zip Code Area,96130,Zip Matches ZCTA
+96132,Termo,CA,Zip Code Area,96132,Zip Matches ZCTA
+96133,Topaz,CA,Zip Code Area,96133,Zip Matches ZCTA
+96134,Tulelake,CA,Zip Code Area,96134,Zip Matches ZCTA
+96135,Vinton,CA,Post Office or large volume customer,96135,Zip Matches ZCTA
+96136,Wendel,CA,Zip Code Area,96136,Zip Matches ZCTA
+96137,Westwood,CA,Zip Code Area,96137,Zip Matches ZCTA
+96140,Carnelian Bay,CA,Zip Code Area,96140,Zip Matches ZCTA
+96141,Homewood,CA,Zip Code Area,96141,Zip Matches ZCTA
+96142,Tahoma,CA,Zip Code Area,96142,Zip Matches ZCTA
+96143,Kings Beach,CA,Zip Code Area,96143,Zip Matches ZCTA
+96145,Tahoe City,CA,Zip Code Area,96145,Zip Matches ZCTA
+96146,Olympic Valley,CA,Zip Code Area,96146,Zip Matches ZCTA
+96148,Tahoe Vista,CA,Zip Code Area,96148,Zip Matches ZCTA
+96150,South Lake Tahoe,CA,Zip Code Area,96150,Zip Matches ZCTA
+96151,South Lake Tahoe,CA,Post Office or large volume customer,96150,Spatial join to ZCTA
+96152,South Lake Tahoe,CA,Post Office or large volume customer,96150,Spatial join to ZCTA
+96154,South Lake Tahoe,CA,Post Office or large volume customer,96150,Spatial join to ZCTA
+96155,South Lake Tahoe,CA,Post Office or large volume customer,96155,Zip Matches ZCTA
+96156,South Lake Tahoe,CA,Post Office or large volume customer,96150,Spatial join to ZCTA
+96157,South Lake Tahoe,CA,Post Office or large volume customer,96150,Spatial join to ZCTA
+96158,South Lake Tahoe,CA,Post Office or large volume customer,96150,Spatial join to ZCTA
+96160,Truckee,CA,Post Office or large volume customer,96161,Spatial join to ZCTA
+96161,Truckee,CA,Zip Code Area,96161,Zip Matches ZCTA
+96162,Truckee,CA,Zip Code Area,95724,Spatial join to ZCTA
